@@ -1,0 +1,1697 @@
+{
+  "actual_generation_implementation": {
+    "compatibility_finding": "The generation implementation is strictly state-dict compatible. Lattice, unmasked species logits, and coordinates match the baseline reference-free decoder. Its adjacency output is intentionally an all-ones tensor rather than the baseline decoder's learned dot-product logits.",
+    "downstream_projection_note": "The actual decode_and_filter path samples five ABX3 slots and constructs a fixed cubic template; raw decoder coordinates are not used as final CIF coordinates, and its learned lattice is later replaced by an ionic-radius-derived cubic lattice for accepted structures.",
+    "masked_calls_matching_each_example_anion_scope": [
+      {
+        "all_disallowed_logits_equal_dtype_min": true,
+        "allowed_anions": [
+          "N"
+        ],
+        "allowed_species_slot_count": 47,
+        "masked_species_logit_count": 2313,
+        "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+        "outputs": {
+          "adjacency": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 400,
+            "l2_norm_per_example": [
+              20.0
+            ],
+            "max": 1.0,
+            "mean": 1.0,
+            "min": 1.0,
+            "shape": [
+              1,
+              20,
+              20
+            ],
+            "value_count": 400
+          },
+          "coordinates": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 60,
+            "l2_norm_per_example": [
+              2.346721752218898
+            ],
+            "max": 0.6218342781066895,
+            "mean": -0.19354599366585415,
+            "min": -0.8631469011306763,
+            "shape": [
+              1,
+              20,
+              3
+            ],
+            "value_count": 60
+          },
+          "lattice": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 6,
+            "l2_norm_per_example": [
+              0.9416598528403148
+            ],
+            "max": 0.5005751252174377,
+            "mean": 0.356713131070137,
+            "min": 0.21338534355163574,
+            "shape": [
+              1,
+              6
+            ],
+            "value_count": 6
+          },
+          "species_logits": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 2360,
+            "l2_norm_per_example": [
+              1.6365423015566504e+40
+            ],
+            "max": -9.725666999816895,
+            "mean": -3.3350553719276156e+38,
+            "min": -3.4028234663852886e+38,
+            "shape": [
+              1,
+              20,
+              118
+            ],
+            "value_count": 2360
+          }
+        }
+      },
+      {
+        "all_disallowed_logits_equal_dtype_min": true,
+        "allowed_anions": [
+          "O"
+        ],
+        "allowed_species_slot_count": 47,
+        "masked_species_logit_count": 2313,
+        "material_id": "cmr_1ec1f206bf87de79380756d894cc7bc2",
+        "outputs": {
+          "adjacency": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 400,
+            "l2_norm_per_example": [
+              20.0
+            ],
+            "max": 1.0,
+            "mean": 1.0,
+            "min": 1.0,
+            "shape": [
+              1,
+              20,
+              20
+            ],
+            "value_count": 400
+          },
+          "coordinates": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 60,
+            "l2_norm_per_example": [
+              2.8881730921947937
+            ],
+            "max": 0.935701847076416,
+            "mean": -0.23390775670607886,
+            "min": -1.2176694869995117,
+            "shape": [
+              1,
+              20,
+              3
+            ],
+            "value_count": 60
+          },
+          "lattice": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 6,
+            "l2_norm_per_example": [
+              0.933663065288007
+            ],
+            "max": 0.5001075267791748,
+            "mean": 0.3507017220060031,
+            "min": 0.20138297975063324,
+            "shape": [
+              1,
+              6
+            ],
+            "value_count": 6
+          },
+          "species_logits": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 2360,
+            "l2_norm_per_example": [
+              1.6365423015566504e+40
+            ],
+            "max": -1.6715383529663086,
+            "mean": -3.3350553719276156e+38,
+            "min": -3.4028234663852886e+38,
+            "shape": [
+              1,
+              20,
+              118
+            ],
+            "value_count": 2360
+          }
+        }
+      },
+      {
+        "all_disallowed_logits_equal_dtype_min": true,
+        "allowed_anions": [
+          "O"
+        ],
+        "allowed_species_slot_count": 47,
+        "masked_species_logit_count": 2313,
+        "material_id": "cmr_20c9853b450e146b0e608362fc2f56d9",
+        "outputs": {
+          "adjacency": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 400,
+            "l2_norm_per_example": [
+              20.0
+            ],
+            "max": 1.0,
+            "mean": 1.0,
+            "min": 1.0,
+            "shape": [
+              1,
+              20,
+              20
+            ],
+            "value_count": 400
+          },
+          "coordinates": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 60,
+            "l2_norm_per_example": [
+              2.5540261586052084
+            ],
+            "max": 0.5191567540168762,
+            "mean": -0.22090667833884556,
+            "min": -0.7281819581985474,
+            "shape": [
+              1,
+              20,
+              3
+            ],
+            "value_count": 60
+          },
+          "lattice": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 6,
+            "l2_norm_per_example": [
+              0.9343047066907639
+            ],
+            "max": 0.5000900030136108,
+            "mean": 0.35118963569402695,
+            "min": 0.2023494988679886,
+            "shape": [
+              1,
+              6
+            ],
+            "value_count": 6
+          },
+          "species_logits": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 2360,
+            "l2_norm_per_example": [
+              1.6365423015566504e+40
+            ],
+            "max": -8.592724800109863,
+            "mean": -3.3350553719276156e+38,
+            "min": -3.4028234663852886e+38,
+            "shape": [
+              1,
+              20,
+              118
+            ],
+            "value_count": 2360
+          }
+        }
+      },
+      {
+        "all_disallowed_logits_equal_dtype_min": true,
+        "allowed_anions": [
+          "O"
+        ],
+        "allowed_species_slot_count": 47,
+        "masked_species_logit_count": 2313,
+        "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba",
+        "outputs": {
+          "adjacency": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 400,
+            "l2_norm_per_example": [
+              20.0
+            ],
+            "max": 1.0,
+            "mean": 1.0,
+            "min": 1.0,
+            "shape": [
+              1,
+              20,
+              20
+            ],
+            "value_count": 400
+          },
+          "coordinates": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 60,
+            "l2_norm_per_example": [
+              2.63268253769228
+            ],
+            "max": 0.5196367502212524,
+            "mean": -0.25768002197146417,
+            "min": -1.1947822570800781,
+            "shape": [
+              1,
+              20,
+              3
+            ],
+            "value_count": 60
+          },
+          "lattice": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 6,
+            "l2_norm_per_example": [
+              0.9361698441593058
+            ],
+            "max": 0.5000307559967041,
+            "mean": 0.35263512780268985,
+            "min": 0.20526666939258575,
+            "shape": [
+              1,
+              6
+            ],
+            "value_count": 6
+          },
+          "species_logits": {
+            "all_finite": true,
+            "dtype": "float32",
+            "finite_count": 2360,
+            "l2_norm_per_example": [
+              1.6365423015566504e+40
+            ],
+            "max": -5.652183532714844,
+            "mean": -3.3350553719276156e+38,
+            "min": -3.4028234663852886e+38,
+            "shape": [
+              1,
+              20,
+              118
+            ],
+            "value_count": 2360
+          }
+        }
+      }
+    ],
+    "missing_keys": [],
+    "reference_free_unmasked_vs_baseline_reference_free": {
+      "adjacency": {
+        "all_finite": true,
+        "exactly_equal": false,
+        "l2": 58.05304849143233,
+        "max_abs": 24.751628875732422,
+        "mean_abs": 1.060712943263352,
+        "rms": 1.4513262122858084,
+        "shape_compatible": true
+      },
+      "coordinates": {
+        "all_finite": true,
+        "exactly_equal": true,
+        "l2": 0.0,
+        "max_abs": 0.0,
+        "mean_abs": 0.0,
+        "rms": 0.0,
+        "shape_compatible": true
+      },
+      "lattice": {
+        "all_finite": true,
+        "exactly_equal": true,
+        "l2": 0.0,
+        "max_abs": 0.0,
+        "mean_abs": 0.0,
+        "rms": 0.0,
+        "shape_compatible": true
+      },
+      "species_logits": {
+        "all_finite": true,
+        "exactly_equal": true,
+        "l2": 0.0,
+        "max_abs": 0.0,
+        "mean_abs": 0.0,
+        "rms": 0.0,
+        "shape_compatible": true
+      }
+    },
+    "strict_checkpoint_load": true,
+    "unexpected_keys": []
+  },
+  "checkpoint": {
+    "git_lfs_pointer": false,
+    "metadata": {
+      "latent_dim_common": 128,
+      "latent_dim_prop": 128,
+      "latent_dim_struct": 128,
+      "max_sites": 20,
+      "num_species": 118,
+      "species_embedding_dim": 64
+    },
+    "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+    "safe_weights_only_load": true,
+    "sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "size_bytes": 2840642,
+    "state_dict_tensor_count": 72,
+    "state_dict_tensors": [
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_e.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_e.0.weight",
+        "shape": [
+          64,
+          257
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_e.2.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_e.2.weight",
+        "shape": [
+          64,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_h.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_h.0.weight",
+        "shape": [
+          128,
+          192
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_x.0.bias",
+        "shape": [
+          1
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn1.phi_x.0.weight",
+        "shape": [
+          1,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_e.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_e.0.weight",
+        "shape": [
+          64,
+          257
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_e.2.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_e.2.weight",
+        "shape": [
+          64,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_h.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_h.0.weight",
+        "shape": [
+          128,
+          192
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_x.0.bias",
+        "shape": [
+          1
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.egnn2.phi_x.0.weight",
+        "shape": [
+          1,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_coords.0.bias",
+        "shape": [
+          3
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_coords.0.weight",
+        "shape": [
+          3,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_lat.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_lat.0.weight",
+        "shape": [
+          64,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_lat.2.bias",
+        "shape": [
+          6
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_lat.2.weight",
+        "shape": [
+          6,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_nodes.0.bias",
+        "shape": [
+          2560
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_nodes.0.weight",
+        "shape": [
+          2560,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_species_decoded.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_species_decoded.0.weight",
+        "shape": [
+          64,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_species_final.bias",
+        "shape": [
+          118
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_decoder.fc_species_final.weight",
+        "shape": [
+          118,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.aggregate_fc.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.aggregate_fc.0.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.comb_fc.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.comb_fc.0.weight",
+        "shape": [
+          128,
+          192
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_e.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_e.0.weight",
+        "shape": [
+          64,
+          257
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_e.2.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_e.2.weight",
+        "shape": [
+          64,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_h.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_h.0.weight",
+        "shape": [
+          128,
+          192
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_x.0.bias",
+        "shape": [
+          1
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn1.phi_x.0.weight",
+        "shape": [
+          1,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_e.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_e.0.weight",
+        "shape": [
+          64,
+          257
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_e.2.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_e.2.weight",
+        "shape": [
+          64,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_h.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_h.0.weight",
+        "shape": [
+          128,
+          192
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_x.0.bias",
+        "shape": [
+          1
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.egnn2.phi_x.0.weight",
+        "shape": [
+          1,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.fc_mu.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.fc_mu.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.init_node_fc.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.init_node_fc.0.weight",
+        "shape": [
+          128,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.lat_fc.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.lat_fc.0.weight",
+        "shape": [
+          64,
+          6
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.species_embedding.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "crystal_encoder.species_embedding.weight",
+        "shape": [
+          64,
+          118
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_crystal.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_crystal.0.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_crystal.2.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_crystal.2.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_prop.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_prop.0.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_prop.2.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "proj_prop.2.weight",
+        "shape": [
+          128,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_decoder.fc.0.bias",
+        "shape": [
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_decoder.fc.0.weight",
+        "shape": [
+          64,
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_decoder.fc.2.bias",
+        "shape": [
+          2
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_decoder.fc.2.weight",
+        "shape": [
+          2,
+          64
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_encoder.fc.0.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_encoder.fc.0.weight",
+        "shape": [
+          128,
+          2
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_encoder.fc.2.bias",
+        "shape": [
+          128
+        ]
+      },
+      {
+        "dtype": "float32",
+        "key": "property_encoder.fc.2.weight",
+        "shape": [
+          128,
+          128
+        ]
+      }
+    ],
+    "state_dict_value_count": 702405
+  },
+  "command": [
+    "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    ".\\scripts\\smoke_forward.py"
+  ],
+  "environment": {
+    "all_parameters_frozen": true,
+    "device": "cpu",
+    "inference_mode": true,
+    "interpreter": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "model_eval": true,
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "pymatgen": "2025.10.7",
+    "python": "3.10.11",
+    "torch": "2.10.0+cpu"
+  },
+  "execution_status": "passed_frozen_cpu_forward",
+  "generated_at_utc": "2026-09-23T10:21:09.330168+00:00",
+  "inputs": {
+    "audit_csv": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\audit.csv",
+    "audit_csv_sha256": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "batch_size": 4,
+    "checkpoint": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+    "cif_root": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val",
+    "loader_audit_count": 20,
+    "material_ids_in_csv_order": [
+      "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "cmr_1ec1f206bf87de79380756d894cc7bc2",
+      "cmr_20c9853b450e146b0e608362fc2f56d9",
+      "cmr_46250f00f7e8fa01346da84ec7156cba"
+    ],
+    "provisional_labels": [
+      {
+        "cif_path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_11dacddcba738021fcb7a8ad9b578f91.cif",
+        "cif_sha256": "b26bf8eb71bfcb74b4a6a04a0e1e8bcaf5a9d80b03f6c3764125a8fde4264401",
+        "dir_gap": 0.0,
+        "heat_all": 1.84,
+        "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+        "source_anion": "N3"
+      },
+      {
+        "cif_path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_1ec1f206bf87de79380756d894cc7bc2.cif",
+        "cif_sha256": "4804021594548d7872f1b5c438f3a6645efd932f00678fd5a92d67bef515cce0",
+        "dir_gap": 0.0,
+        "heat_all": -0.32,
+        "material_id": "cmr_1ec1f206bf87de79380756d894cc7bc2",
+        "source_anion": "O3"
+      },
+      {
+        "cif_path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_20c9853b450e146b0e608362fc2f56d9.cif",
+        "cif_sha256": "b3d9eed0fdbab4f8dc7f20b3773bfaac18b3c89b0838ee8c2ce40d9cc741d1fd",
+        "dir_gap": 0.0,
+        "heat_all": 0.04,
+        "material_id": "cmr_20c9853b450e146b0e608362fc2f56d9",
+        "source_anion": "O3"
+      },
+      {
+        "cif_path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_46250f00f7e8fa01346da84ec7156cba.cif",
+        "cif_sha256": "93aed5ae3fc03a00ea505e57c550eadb422d0d69e9a7052e5badaafda40d21f6",
+        "dir_gap": 0.0,
+        "heat_all": 0.74,
+        "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba",
+        "source_anion": "O3"
+      }
+    ]
+  },
+  "latents": {
+    "center": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 12,
+      "l2_norm_per_example": [
+        0.6536845413382987,
+        0.5208121235130969,
+        0.5208075256925205,
+        0.5207995401944722
+      ],
+      "max": 0.49729615449905396,
+      "mean": 0.31695595880349475,
+      "min": 0.30000001192092896,
+      "shape": [
+        4,
+        3
+      ],
+      "value_count": 12
+    },
+    "crystal_encoder_label_inputs_used": false,
+    "independent_crystal_projection_matches_encode_modalities": true,
+    "independent_property_projection_matches_encode_modalities": true,
+    "z_crystal_common": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        0.999999987056284,
+        0.9999999947512623,
+        1.0000000109660143,
+        1.000000070152741
+      ],
+      "max": 0.3911387622356415,
+      "mean": 0.002524169260141207,
+      "min": -0.41449230909347534,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    },
+    "z_crystal_normalized_before_projection": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        0.9999999998606176,
+        1.0000000375729752,
+        0.9999999963886278,
+        0.9999999864669921
+      ],
+      "max": 0.3124904930591583,
+      "mean": -0.004073983117185875,
+      "min": -0.32554030418395996,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    },
+    "z_crystal_raw": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        3084895.989704186,
+        4847432.71028234,
+        4284248.980117699,
+        1661398.9842087352
+      ],
+      "max": 977756.1875,
+      "mean": -18067.882139354944,
+      "min": -1217956.625,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    },
+    "z_joint_not_renormalized": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        0.9399901044793686,
+        0.9527485290611466,
+        0.9472748701768,
+        0.942964634880361
+      ],
+      "max": 0.36346662044525146,
+      "mean": 0.0001925578735608724,
+      "min": -0.3483576774597168,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    },
+    "z_property_common": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        1.0000000102780895,
+        1.0000000081214409,
+        1.0000000384082939,
+        0.9999999800208876
+      ],
+      "max": 0.33579450845718384,
+      "mean": -0.00213905288874372,
+      "min": -0.505998969078064,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    },
+    "z_property_raw": {
+      "all_finite": true,
+      "dtype": "float32",
+      "finite_count": 512,
+      "l2_norm_per_example": [
+        91.0311257701854,
+        1014.9555381255174,
+        512.9023951185936,
+        116.6872009129874
+      ],
+      "max": 166.1103057861328,
+      "mean": -7.32798544614343,
+      "min": -213.4093780517578,
+      "shape": [
+        4,
+        128
+      ],
+      "value_count": 512
+    }
+  },
+  "model_compatibility": {
+    "all_parameters_frozen": true,
+    "constructor_compatible": true,
+    "device": "cpu",
+    "missing_keys": [],
+    "parameter_count": 702405,
+    "strict_state_dict_load": true,
+    "torch_version": "2.10.0+cpu",
+    "training_mode": false,
+    "unexpected_keys": []
+  },
+  "paired_decoder_interface": {
+    "A": "fixed z_joint with reconstruction reference coordinates and center",
+    "A_output_summaries": {
+      "adjacency": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 1600,
+        "l2_norm_per_example": [
+          6.566190472405106,
+          6.410081932158683,
+          6.554282424871303,
+          6.776111613721176
+        ],
+        "max": 2.8438446521759033,
+        "mean": 0.08075973482275003,
+        "min": 0.0,
+        "shape": [
+          4,
+          20,
+          20
+        ],
+        "value_count": 1600
+      },
+      "coordinates": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 240,
+        "l2_norm_per_example": [
+          1.7781081917098143,
+          1.4593764080082507,
+          1.4599874565427584,
+          1.4763422880234496
+        ],
+        "max": 0.9078845977783203,
+        "mean": 0.08121159424384435,
+        "min": -0.09719625115394592,
+        "shape": [
+          4,
+          20,
+          3
+        ],
+        "value_count": 240
+      },
+      "lattice": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 24,
+        "l2_norm_per_example": [
+          0.9416598595936865,
+          0.933663065288007,
+          0.9343047066907639,
+          0.9361698441593058
+        ],
+        "max": 0.5005751252174377,
+        "mean": 0.35280990538497764,
+        "min": 0.20138297975063324,
+        "shape": [
+          4,
+          6
+        ],
+        "value_count": 24
+      },
+      "species_logits": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 9440,
+        "l2_norm_per_example": [
+          1880.2691837852947,
+          1543.3075819060623,
+          1546.1203265062836,
+          1809.1997915798263
+        ],
+        "max": 11.261421203613281,
+        "mean": -29.21740706815558,
+        "min": -154.98268127441406,
+        "shape": [
+          4,
+          20,
+          118
+        ],
+        "value_count": 9440
+      }
+    },
+    "B": "same fixed z_joint with explicit all-zero coordinates and center; no reference species supplied",
+    "B_output_summaries": {
+      "adjacency": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 1600,
+        "l2_norm_per_example": [
+          37.012438108913166,
+          17.722710105386316,
+          22.918539462579506,
+          9.647532173195119
+        ],
+        "max": 25.751628875732422,
+        "mean": 0.16631028663367034,
+        "min": 0.0,
+        "shape": [
+          4,
+          20,
+          20
+        ],
+        "value_count": 1600
+      },
+      "coordinates": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 240,
+        "l2_norm_per_example": [
+          2.346722054423507,
+          2.888173050371068,
+          2.5540263692005283,
+          2.6326829318289557
+        ],
+        "max": 0.935701847076416,
+        "mean": -0.22651012521237135,
+        "min": -1.2176693677902222,
+        "shape": [
+          4,
+          20,
+          3
+        ],
+        "value_count": 240
+      },
+      "lattice": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 24,
+        "l2_norm_per_example": [
+          0.9416598595936865,
+          0.933663065288007,
+          0.9343047066907639,
+          0.9361698441593058
+        ],
+        "max": 0.5005751252174377,
+        "mean": 0.35280990538497764,
+        "min": 0.20138297975063324,
+        "shape": [
+          4,
+          6
+        ],
+        "value_count": 24
+      },
+      "species_logits": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 9440,
+        "l2_norm_per_example": [
+          4876.4381212631715,
+          3579.0040275050264,
+          3914.602511964575,
+          2921.365050570537
+        ],
+        "max": 10.622442245483398,
+        "mean": -49.43057930568012,
+        "min": -501.99932861328125,
+        "shape": [
+          4,
+          20,
+          118
+        ],
+        "value_count": 9440
+      }
+    },
+    "aggregate_A_vs_B": {
+      "adjacency": {
+        "all_finite": true,
+        "exactly_equal": false,
+        "l2": 43.65424790023196,
+        "max_abs": 25.750732945743948,
+        "mean_abs": 0.1351784698765914,
+        "rms": 1.091356197505799,
+        "shape_compatible": true
+      },
+      "coordinates": {
+        "all_finite": true,
+        "exactly_equal": false,
+        "l2": 6.2535605915665915,
+        "max_abs": 1.6539385914802551,
+        "mean_abs": 0.34789801569034656,
+        "rms": 0.40366560042727356,
+        "shape_compatible": true
+      },
+      "lattice": {
+        "all_finite": true,
+        "exactly_equal": true,
+        "l2": 0.0,
+        "max_abs": 0.0,
+        "mean_abs": 0.0,
+        "rms": 0.0,
+        "shape_compatible": true
+      },
+      "species_logits": {
+        "all_finite": true,
+        "exactly_equal": false,
+        "l2": 5533.496654598725,
+        "max_abs": 472.1881465911865,
+        "mean_abs": 21.221679693334185,
+        "rms": 56.95261302101163,
+        "shape_compatible": true
+      }
+    },
+    "input_species_exclusion": "The B call supplies no input_species. The baseline decoder's input_species argument is unused by its source implementation.",
+    "per_example": [
+      {
+        "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+        "reference_A_vs_reference_free_B": {
+          "adjacency": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 35.838210570702934,
+            "max_abs": 25.750732945743948,
+            "mean_abs": 0.23428892366893705,
+            "rms": 1.7919105285351469,
+            "shape_compatible": true
+          },
+          "coordinates": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 2.8730499202784174,
+            "max_abs": 1.0436653345823288,
+            "mean_abs": 0.33135238140821455,
+            "rms": 0.37090914980202855,
+            "shape_compatible": true
+          },
+          "lattice": {
+            "all_finite": true,
+            "exactly_equal": true,
+            "l2": 0.0,
+            "max_abs": 0.0,
+            "mean_abs": 0.0,
+            "rms": 0.0,
+            "shape_compatible": true
+          },
+          "species_logits": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 3813.681666503648,
+            "max_abs": 472.1881465911865,
+            "mean_abs": 28.95456694243318,
+            "rms": 78.5033947593341,
+            "shape_compatible": true
+          }
+        }
+      },
+      {
+        "material_id": "cmr_1ec1f206bf87de79380756d894cc7bc2",
+        "reference_A_vs_reference_free_B": {
+          "adjacency": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 14.519561687355267,
+            "max_abs": 7.801149487495422,
+            "mean_abs": 0.1245685536786914,
+            "rms": 0.7259780843677633,
+            "shape_compatible": true
+          },
+          "coordinates": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 3.2650630492579573,
+            "max_abs": 1.5559134483337402,
+            "mean_abs": 0.36048885236183803,
+            "rms": 0.42151782713644254,
+            "shape_compatible": true
+          },
+          "lattice": {
+            "all_finite": true,
+            "exactly_equal": true,
+            "l2": 0.0,
+            "max_abs": 0.0,
+            "mean_abs": 0.0,
+            "rms": 0.0,
+            "shape_compatible": true
+          },
+          "species_logits": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 2440.4270670160945,
+            "max_abs": 334.21368408203125,
+            "mean_abs": 20.82644139811144,
+            "rms": 50.235396180554595,
+            "shape_compatible": true
+          }
+        }
+      },
+      {
+        "material_id": "cmr_20c9853b450e146b0e608362fc2f56d9",
+        "reference_A_vs_reference_free_B": {
+          "adjacency": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 18.83716943118184,
+            "max_abs": 11.005258798599243,
+            "mean_abs": 0.12299209833145142,
+            "rms": 0.9418584715590921,
+            "shape_compatible": true
+          },
+          "coordinates": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 3.0184097413701902,
+            "max_abs": 1.2180245220661163,
+            "mean_abs": 0.33540163859725,
+            "rms": 0.38967502201189946,
+            "shape_compatible": true
+          },
+          "lattice": {
+            "all_finite": true,
+            "exactly_equal": true,
+            "l2": 0.0,
+            "max_abs": 0.0,
+            "mean_abs": 0.0,
+            "rms": 0.0,
+            "shape_compatible": true
+          },
+          "species_logits": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 2775.3739152583266,
+            "max_abs": 312.24493408203125,
+            "mean_abs": 22.929780472032096,
+            "rms": 57.13016793927384,
+            "shape_compatible": true
+          }
+        }
+      },
+      {
+        "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba",
+        "reference_A_vs_reference_free_B": {
+          "adjacency": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 7.46052270641248,
+            "max_abs": 6.377504229545593,
+            "mean_abs": 0.05886430382728577,
+            "rms": 0.3730261353206239,
+            "shape_compatible": true
+          },
+          "coordinates": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 3.328839158859248,
+            "max_abs": 1.6539385914802551,
+            "mean_abs": 0.36434919039408364,
+            "rms": 0.42975128748216573,
+            "shape_compatible": true
+          },
+          "lattice": {
+            "all_finite": true,
+            "exactly_equal": true,
+            "l2": 0.0,
+            "max_abs": 0.0,
+            "mean_abs": 0.0,
+            "rms": 0.0,
+            "shape_compatible": true
+          },
+          "species_logits": {
+            "all_finite": true,
+            "exactly_equal": false,
+            "l2": 1554.6809107042088,
+            "max_abs": 135.65770721435547,
+            "mean_abs": 12.175929960760019,
+            "rms": 32.00260009370577,
+            "shape_compatible": true
+          }
+        }
+      }
+    ]
+  },
+  "scientific_interpretation": {
+    "claims_not_established": [
+      "property calibration or accuracy",
+      "reconstruction quality",
+      "target attainment",
+      "stability or synthesizability",
+      "held-out generalization"
+    ],
+    "label_compatibility": "unresolved_provisional_inputs",
+    "pretrained_training_overlap": "unknown"
+  },
+  "source_trace": {
+    "generation_model": {
+      "crystal_decoder_forward_line": 426,
+      "decode_and_filter_call_line": 962,
+      "facts": [
+        "both generation calls pass all-zero input coordinates and all-zero centers",
+        "the generation decoder applies a five-slot species mask when one is supplied",
+        "the generation decoder returns an all-ones adjacency tensor instead of learned adjacency logits",
+        "decode_and_filter later constructs fixed five-site cubic ABX3 templates and does not emit its raw coordinates as CIF geometry"
+      ],
+      "optimisation_decode_call_line": 767,
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\meidnet\\design.py"
+    },
+    "training_model": {
+      "crystal_decoder_forward_line": 432,
+      "crystal_encoder_forward_line": 354,
+      "encode_modalities_line": 586,
+      "facts": [
+        "encode_modalities L2-normalizes each raw modality, projects it, then L2-normalizes the common latents",
+        "z_joint is the arithmetic mean of crystal-common and property-common and is not normalized again",
+        "reconstruction passes reference coordinates and their center to the crystal decoder",
+        "input_species is accepted by the decoder but is not read in its forward implementation"
+      ],
+      "joint_forward_line": 631,
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\meidnet\\model.py"
+    }
+  },
+  "status": "passed",
+  "timings_ms": {
+    "encode_modalities_ms": 2.067200024612248,
+    "independent_crystal_encoder_ms": 7.539500016719103,
+    "usual_full_forward_ms": 4.5177999418228865
+  },
+  "usual_full_forward": {
+    "all_outputs_finite": true,
+    "outputs": {
+      "adjacency_logits": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 1600,
+        "l2_norm_per_example": [
+          6.566190472405106,
+          6.410081932158683,
+          6.554282424871303,
+          6.776111613721176
+        ],
+        "max": 2.8438446521759033,
+        "mean": 0.08075973482275003,
+        "min": 0.0,
+        "shape": [
+          4,
+          20,
+          20
+        ],
+        "value_count": 1600
+      },
+      "coordinates": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 240,
+        "l2_norm_per_example": [
+          1.7781081917098143,
+          1.4593764080082507,
+          1.4599874565427584,
+          1.4763422880234496
+        ],
+        "max": 0.9078845977783203,
+        "mean": 0.08121159424384435,
+        "min": -0.09719625115394592,
+        "shape": [
+          4,
+          20,
+          3
+        ],
+        "value_count": 240
+      },
+      "lattice": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 24,
+        "l2_norm_per_example": [
+          0.9416598595936865,
+          0.933663065288007,
+          0.9343047066907639,
+          0.9361698441593058
+        ],
+        "max": 0.5005751252174377,
+        "mean": 0.35280990538497764,
+        "min": 0.20138297975063324,
+        "shape": [
+          4,
+          6
+        ],
+        "value_count": 24
+      },
+      "property_output": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 8,
+        "l2_norm_per_example": [
+          1.8354180081008307,
+          0.2834856467044889,
+          0.03073716428489423,
+          0.739245721212027
+        ],
+        "max": 1.8354103565216064,
+        "mean": 0.28750156983733177,
+        "min": -0.28233230113983154,
+        "shape": [
+          4,
+          2
+        ],
+        "value_count": 8
+      },
+      "species_logits": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 9440,
+        "l2_norm_per_example": [
+          1880.2691837852947,
+          1543.3075819060623,
+          1546.1203265062836,
+          1809.1997915798263
+        ],
+        "max": 11.261421203613281,
+        "mean": -29.21740706815558,
+        "min": -154.98268127441406,
+        "shape": [
+          4,
+          20,
+          118
+        ],
+        "value_count": 9440
+      },
+      "z_crystal_common": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 512,
+        "l2_norm_per_example": [
+          0.999999987056284,
+          0.9999999947512623,
+          1.0000000109660143,
+          1.000000070152741
+        ],
+        "max": 0.3911387622356415,
+        "mean": 0.002524169260141207,
+        "min": -0.41449230909347534,
+        "shape": [
+          4,
+          128
+        ],
+        "value_count": 512
+      },
+      "z_property_common": {
+        "all_finite": true,
+        "dtype": "float32",
+        "finite_count": 512,
+        "l2_norm_per_example": [
+          1.0000000102780895,
+          1.0000000081214409,
+          1.0000000384082939,
+          0.9999999800208876
+        ],
+        "max": 0.33579450845718384,
+        "mean": -0.00213905288874372,
+        "min": -0.505998969078064,
+        "shape": [
+          4,
+          128
+        ],
+        "value_count": 512
+      }
+    },
+    "property_output_order": [
+      "heat_all",
+      "dir_gap"
+    ],
+    "usual_forward_matches_explicit_joint_reconstruction_decode": true
+  }
+}

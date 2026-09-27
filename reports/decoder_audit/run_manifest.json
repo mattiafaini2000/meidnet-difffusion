@@ -1,0 +1,746 @@
+{
+  "assets": {
+    "audit_cif_sha256": {
+      "cmr_11dacddcba738021fcb7a8ad9b578f91.cif": "b26bf8eb71bfcb74b4a6a04a0e1e8bcaf5a9d80b03f6c3764125a8fde4264401",
+      "cmr_1ec1f206bf87de79380756d894cc7bc2.cif": "4804021594548d7872f1b5c438f3a6645efd932f00678fd5a92d67bef515cce0",
+      "cmr_20c9853b450e146b0e608362fc2f56d9.cif": "b3d9eed0fdbab4f8dc7f20b3773bfaac18b3c89b0838ee8c2ce40d9cc741d1fd",
+      "cmr_46250f00f7e8fa01346da84ec7156cba.cif": "93aed5ae3fc03a00ea505e57c550eadb422d0d69e9a7052e5badaafda40d21f6",
+      "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197.cif": "90e560cade2ff56562a114f6f99f21d7baa5b3c551d2c5343eefbd325c45e811",
+      "cmr_4a1084fcbabc2f7e867be309d49cbe2b.cif": "c2af16ad3e9ff0018ac2e49dd229c0bb11f9e6a7823c6f05d344781fc4974227",
+      "cmr_5a86c2636813d6b401520d96410cc7c7.cif": "aa43a241900f410a08a21cfec3093969e23d599693da37594cb398e7388a6aa4",
+      "cmr_64d9953c18e416a7e01500249a2bbe8d.cif": "856097ad14299166b9c0fa1cfe401de4880f1b9631280e85ab7df9c40e6b63fc",
+      "cmr_682785369aa2b3971943559ce4e3b0ca.cif": "a7bc074a0b3460c5b78d19b934606f6ab6daa5800b9596e701050a7057294a90",
+      "cmr_78c26d513a55ceb0d9345ce3cdf39c24.cif": "2ea86d8a8bb1cc427c51855ec51b1fb26a045bcae8cf5a62582896eee35a1a7b",
+      "cmr_898ee445e8ccfce566bb0883e7821189.cif": "28f4c3eb15414dd134f93e36bef92bc1003122c1b1e797158c97eeb7c20a4697",
+      "cmr_92838ea148c813c166057e99bfae3d39.cif": "eb4207e0737aa7d75170dea301466104451e783c2ee57e41ced44ece209119da",
+      "cmr_9747df17e8f2ed98427d905413929dd6.cif": "c5e1f2206361184b08ed86effeba3841daafe94ea9180d29c295e46bb3f0812b",
+      "cmr_98f26503186c693384501157616036cb.cif": "a9b83a7a9aebd27d9118244796fcceeebd09d549d46257a07920d3a11f06d996",
+      "cmr_a36c62d0c7f3713321685a5cb6488f21.cif": "fbed4533c62f17f0830dc6747a167cf2acc87712e143dd2e91218ce1a8606919",
+      "cmr_bd8c8bb480ad1e9422f4b5cd79215eba.cif": "cf1870913bb55b549a5ef9914cf2e33df5afa6611a9c693641f572593b413727",
+      "cmr_bf604be7ac3009a8fed955cf6716a2df.cif": "f3d484c8c4a563e411e7d6bf5ef160c61506c5ce9893ee15448dfb7ffe143f32",
+      "cmr_dbcef27061099822569740c11818d051.cif": "eb0a621462800afef223dc4e733748c9dc07b2e5e3616a8ddfc0f78c6419b115",
+      "cmr_e8bb6f6ece3b11691f6fbdf699fa676a.cif": "c762eea803b4efd638dba7892181935a906073834e4d229e7e73202a603cdeaa",
+      "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca.cif": "cccf5cf4efcb5706a3a8ddb7f66fc9f698423b89af56a70b12a1f2a9ba8beb7e"
+    },
+    "audit_csv": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\audit.csv",
+    "audit_csv_sha256": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "audit_material_ids": [
+      "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "cmr_1ec1f206bf87de79380756d894cc7bc2",
+      "cmr_20c9853b450e146b0e608362fc2f56d9",
+      "cmr_46250f00f7e8fa01346da84ec7156cba",
+      "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197",
+      "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "cmr_5a86c2636813d6b401520d96410cc7c7",
+      "cmr_64d9953c18e416a7e01500249a2bbe8d",
+      "cmr_682785369aa2b3971943559ce4e3b0ca",
+      "cmr_78c26d513a55ceb0d9345ce3cdf39c24",
+      "cmr_898ee445e8ccfce566bb0883e7821189",
+      "cmr_92838ea148c813c166057e99bfae3d39",
+      "cmr_9747df17e8f2ed98427d905413929dd6",
+      "cmr_98f26503186c693384501157616036cb",
+      "cmr_a36c62d0c7f3713321685a5cb6488f21",
+      "cmr_bd8c8bb480ad1e9422f4b5cd79215eba",
+      "cmr_bf604be7ac3009a8fed955cf6716a2df",
+      "cmr_dbcef27061099822569740c11818d051",
+      "cmr_e8bb6f6ece3b11691f6fbdf699fa676a",
+      "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca"
+    ],
+    "audit_script": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_decoder.py",
+    "audit_script_sha256": "69cc3f562134cefa94f718e6478f700e24a03bce865a953f06fbfede764f9f7f",
+    "checkpoint": {
+      "git_lfs_pointer": false,
+      "metadata": {
+        "latent_dim_common": 128,
+        "latent_dim_prop": 128,
+        "latent_dim_struct": 128,
+        "max_sites": 20,
+        "num_species": 118,
+        "species_embedding_dim": 64
+      },
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+      "safe_weights_only_load": true,
+      "sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+      "size_bytes": 2840642,
+      "state_dict_tensor_count": 72,
+      "state_dict_tensors": [
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.bias",
+          "shape": [
+            3
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.weight",
+          "shape": [
+            3,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.bias",
+          "shape": [
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.weight",
+          "shape": [
+            6,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.bias",
+          "shape": [
+            2560
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.weight",
+          "shape": [
+            2560,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.bias",
+          "shape": [
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.weight",
+          "shape": [
+            118,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.weight",
+          "shape": [
+            128,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.weight",
+          "shape": [
+            64,
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.weight",
+          "shape": [
+            64,
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.bias",
+          "shape": [
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.weight",
+          "shape": [
+            2,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.weight",
+          "shape": [
+            128,
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        }
+      ],
+      "state_dict_value_count": 702405
+    },
+    "cif_root": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val",
+    "protocol": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\reports\\decoder_audit_protocol.md",
+    "protocol_expected_sha256": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769",
+    "protocol_sha256": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769"
+  },
+  "command": [
+    "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_decoder.py"
+  ],
+  "comparison_arms": {
+    "A": "canonical decoder with source reconstruction coordinates and center",
+    "B": "same canonical decoder with zero coordinates and center",
+    "C": "separate generation decoder, unmasked then declared family mask",
+    "D": "unchanged stochastic composition rules, template projection, and filters"
+  },
+  "configuration": {
+    "anti_repeat_counts_reset_between_methods": true,
+    "decode_temperature": 1.25,
+    "decode_topk": 12,
+    "decode_tries_maximum_per_call": 12,
+    "fixed_real_condition_mismatch_possible": true,
+    "fixed_real_donor_condition": {
+      "family": "nitride",
+      "gap_provisional": 0.0,
+      "heat_provisional": 1.840000033378601,
+      "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91"
+    },
+    "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+    "history_reset_between_methods": true,
+    "numerical_tolerances": {
+      "atol": 1e-06,
+      "rtol": 1e-05
+    },
+    "perturbation_relative_l2": [
+      0.01,
+      0.05
+    ],
+    "python_hash_seed": "0",
+    "python_numpy_torch_rng_reset_between_methods": true,
+    "refine": true,
+    "rng_pairing_limit": "Calls begin from matched fresh seeds; branch-dependent rejection can consume different draws, so later attempts are not draw-by-draw paired across arms.",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "target_B_filter": false,
+    "x_prior_strength": 0.0
+  },
+  "criteria_post_inspection": true,
+  "environment": {
+    "command": [
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_decoder.py"
+    ],
+    "device": "cpu",
+    "git": {
+      "branch": "main",
+      "commit": "7c6a4af66bf5b0673baeed2afe5d996967d3f0f5",
+      "status_short": [
+        "?? prompts/",
+        "?? reports/",
+        "?? scripts/audit_decoder.py",
+        "?? scripts/audit_split_balance.py",
+        "?? scripts/smoke_forward.py",
+        "?? tests/test_decoder_audit.py",
+        "?? tests/test_smoke_forward.py",
+        "?? tests/test_split_balance.py"
+      ]
+    },
+    "interpreter": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "pymatgen": "2025.10.7",
+      "scipy": "1.15.3",
+      "torch": "2.10.0+cpu"
+    },
+    "platform": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "torch": "2.10.0+cpu"
+  },
+  "generated_at_utc": "2026-09-23T11:44:32.198972+00:00",
+  "hard_checks": {
+    "all_instrumented_endpoints_match_baseline": true,
+    "all_latents_finite": true,
+    "all_probability_rows_valid": true,
+    "all_unmasked_heads_finite": true,
+    "attempt_accounting_complete": true,
+    "equivalent_B_C_within_tolerance": true,
+    "frozen_audit_hash": true,
+    "frozen_checkpoint_hash": true,
+    "frozen_eval_models": true,
+    "frozen_protocol_configuration": true,
+    "frozen_protocol_hash": true,
+    "input_species_argument_has_no_numerical_effect": true,
+    "passed_source_AB_accounting_consistent": true,
+    "python_hash_seed_is_zero": true,
+    "repeated_call_within_tolerance": true,
+    "site_mappings_valid": true,
+    "strict_generation_checkpoint_load": true,
+    "strict_training_checkpoint_load": true
+  },
+  "harness_checks": {
+    "all_instrumented_endpoints_match_baseline": true,
+    "attempt_accounting_complete": true,
+    "frozen_audit_hash": true,
+    "frozen_checkpoint_hash": true,
+    "frozen_eval_models": true,
+    "frozen_protocol_configuration": true,
+    "frozen_protocol_hash": true,
+    "passed_source_AB_accounting_consistent": true,
+    "python_hash_seed_is_zero": true,
+    "site_mappings_valid": true,
+    "strict_generation_checkpoint_load": true,
+    "strict_training_checkpoint_load": true
+  },
+  "latent_paths": [
+    "joint",
+    "fixed_real",
+    "property",
+    "crystal",
+    "joint_perturb_0p01",
+    "joint_perturb_0p05"
+  ],
+  "protocol": "reports\\decoder_audit_protocol.md",
+  "scientific_checks": {
+    "all_latents_finite": true,
+    "all_probability_rows_valid": true,
+    "all_unmasked_heads_finite": true,
+    "equivalent_B_C_within_tolerance": true,
+    "input_species_argument_has_no_numerical_effect": true,
+    "repeated_call_within_tolerance": true
+  },
+  "source_X_is_forced_and_not_credited": true,
+  "source_family_is_declared_condition": true
+}

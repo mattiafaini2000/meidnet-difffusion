@@ -1,0 +1,610 @@
+[
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.840000033378601,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_1afbe0b08a8b5ea2ac29b907b5751d5a"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_5631711299e97a05b7ffdeb7419ab132"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_5fef398caab1e0a5b66b5742e7566474"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_617c95f3995aa4954f510208499dad2d"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_6d5e13036efc93482f110c2231f5e249"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_a4255f94cadad4b787b1290d5fe407ab"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_c2e797943974db8f16585960201b361a"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_2529fa91d88349200283527b80597028"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_320d60c30cf91f6c267f6aca9fd7ac76"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_5f96fc2170165672cc56cb2355a883b2"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_64cdbd3cf7a185a939fc53b0e204e20c"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_e5edb8755048f48a3d4e235afdb276e0"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_f0d9c1d23751f516ab586d54a6132c24"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_fc7bce003dc75b74b8359695fdef6526"
+      },
+      {
+        "distance": 0.053674448281526566,
+        "material_id": "cmr_14a66645018c6f50206d31ef6f315e7e"
+      },
+      {
+        "distance": 0.053674448281526566,
+        "material_id": "cmr_1850f29b8481d21d4dcd6813246be9dd"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "N3",
+    "source_family_selection_only": "nitride",
+    "target_id": "cmr_5fef398caab1e0a5b66b5742e7566474"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.2799999713897705,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_1614dd5e52c874eb2d767f5c7724b11d"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_20bbc955ec38dcf8e9299dce1cd66e03"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_2152cc304a3a1a93f7a872675e37c042"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_565483dace8de7ec406c1db6e3090d88"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_6184f7905a618854d7dcc400e3ed9122"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_6475a01a3efd6d4ddd0f8ed38cedc819"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_74b881d7dc92d85d186fb7816b675eec"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_752bbc83f69d5a228600467d16a8d0d4"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_776287003b450e0c72523ff95b76db64"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_df172db1de910bf4fcfe8b43fa5175f6"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_f7b6a862c0134b755faf33d81e56f51d"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_f9bafae5f274f7a2851bcd9a40f3c13f"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_33eeafb8eb8fdb412fc4360fd5816e24"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_3c17a997eb09ff577b283edd9ae72479"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_72050b536a399c84a211f15c87895484"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_765ef687e984505ee19a364915730a37"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "O2F",
+    "source_family_selection_only": "oxyhalide",
+    "target_id": "cmr_565483dace8de7ec406c1db6e3090d88"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.4199999570846558,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_1186a3e78d8cc06423476620e82c59d9"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_25c39c7f34bd9325e603034605f0bb5d"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_3d6c49749736a7e041c7768f76edd719"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_59abd2ea89877eb0f6e0c0a2861105ed"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_5ead347e077822af5988873dee6a21e2"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_6abbfd072e4751367ad59dae9e8132c8"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_7452041bcd6a02d92dbc51c3db040ce7"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_7c637e20b23d04b94534c46e2a101049"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_8e28ab46c86b1545f0becfc9c505a1d3"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_92d8b483745dfbf2e3c2d7ea8df76235"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_9984672d1173bdd4c389f7aaa56ec547"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_9cf67f2ab345952c5a6f7d43fd2317c3"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_d057ecebac54d1f7ba542a4bf1671195"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_20f50d56cf58fa461743adf9c21a1083"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_335765fd0af6e48ddf6df70a33cc9ef0"
+      },
+      {
+        "distance": 0.026837384328246117,
+        "material_id": "cmr_3ea3c00ddd1efb69f41df326df44e36b"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "O2N",
+    "source_family_selection_only": "oxynitride",
+    "target_id": "cmr_1186a3e78d8cc06423476620e82c59d9"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.100000023841858,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_275c6ea48016512242892f645a57f0c7"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_40e0f1d9cff4227d90ad6bbdb82b1a98"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_4a881864518272f7d6463cbe8cecfae5"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_88ad3fb974429d15c1c4964457feb22a"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_a5ed03f1c87a486826884d39044cd70f"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_b3e839bf7d7ad04e4b8d37d8a2dc420e"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_ce3c31a74114e0f663d64745a72097d7"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_d06d07df700e93a00e6ccd9ecf42d549"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_26dbfb464035c07da8ce829df3c3e581"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_33bac6f48ad116237ccd07ea53a7a2fb"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_4095c848b6f58cd620b5e95a46b0aa7f"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_45869655c709532101051a0a60d96928"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_47e554addee63a3697e0f1bdc451d5e7"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_5f0e62160b438b0f6fb98c003e0b1590"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_6d467f5905d38f9894c12cd50df44ac2"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_82451d6ecf6adc4c180d83a2ef9cccc2"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "O2S",
+    "source_family_selection_only": "oxychalcogenide",
+    "target_id": "cmr_4a881864518272f7d6463cbe8cecfae5"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.0800000429153442,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_26dbfb464035c07da8ce829df3c3e581"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_4095c848b6f58cd620b5e95a46b0aa7f"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_45869655c709532101051a0a60d96928"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_5f0e62160b438b0f6fb98c003e0b1590"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_6d467f5905d38f9894c12cd50df44ac2"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_85be752d8491218e2f75c928ff991595"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_a18dd66ea06b01e4016870c0e520c63e"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_c5b2981ee5921b5524350c10b5d2c032"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_d35952d74e8eaeb530cd458029b15931"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_d422cd2eca2f18c47dd9f843b05b9a86"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_275c6ea48016512242892f645a57f0c7"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_40e0f1d9cff4227d90ad6bbdb82b1a98"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_4a881864518272f7d6463cbe8cecfae5"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_88ad3fb974429d15c1c4964457feb22a"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_a5ed03f1c87a486826884d39044cd70f"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_b3e839bf7d7ad04e4b8d37d8a2dc420e"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "O3",
+    "source_family_selection_only": "oxide",
+    "target_id": "cmr_85be752d8491218e2f75c928ff991595"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.399999976158142,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_20f50d56cf58fa461743adf9c21a1083"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_335765fd0af6e48ddf6df70a33cc9ef0"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_1186a3e78d8cc06423476620e82c59d9"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_1f31c0eaa3e35fa64904b8d0864fef09"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_25c39c7f34bd9325e603034605f0bb5d"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_313e994987e8219614d2ca287b1b78e3"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_3c1c973ff6455bf5a3c8b0357b0752c3"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_3d6c49749736a7e041c7768f76edd719"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_59abd2ea89877eb0f6e0c0a2861105ed"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_5ead347e077822af5988873dee6a21e2"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_696f085a642abefabe3604107005b9be"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_6abbfd072e4751367ad59dae9e8132c8"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_7452041bcd6a02d92dbc51c3db040ce7"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_7c637e20b23d04b94534c46e2a101049"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_8e28ab46c86b1545f0becfc9c505a1d3"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_92d8b483745dfbf2e3c2d7ea8df76235"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "OFN",
+    "source_family_selection_only": "other_mixed",
+    "target_id": "cmr_20f50d56cf58fa461743adf9c21a1083"
+  },
+  {
+    "dir_gap": 0.0,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 1.4800000190734863,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_21adbcb2802ab243eafd4a11afa03703"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_5a34db846ace5b03f1ac3eb7fee6ed22"
+      },
+      {
+        "distance": 0.0,
+        "material_id": "cmr_8956753ccff9090572462cbe0585c98b"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_10aecdfbcb747f28621351f7ba847495"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_48894d8b7ef39534f20bff718293ba85"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_5800d09ddf16c518a13992dc0bd018db"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_5e1c37a68c0cd0865067d9ab3fe061e8"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_7150432978a9478506d58085d1c0e9e0"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_73bc1f22063162718176374f6f786c7e"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_740676a7184dff26bf23749fe835f24c"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_79be6df0ab3180a9f188adf4a8e0f9d0"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_9584d2e7e8cc7340d4150197d131e2f5"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_99221f493ed7e96b01fd13f541a3ec3e"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_9938d54c233e3f0dff97edce076eb6eb"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_a57a9ab2d4881c17978a8da85967824a"
+      },
+      {
+        "distance": 0.026837224140763283,
+        "material_id": "cmr_b38474d8f7b0ba640725198ebb933b94"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "ON2",
+    "source_family_selection_only": "oxynitride",
+    "target_id": "cmr_5a34db846ace5b03f1ac3eb7fee6ed22"
+  },
+  {
+    "dir_gap": 0.8999999761581421,
+    "distinct_groups_within_radius": 16,
+    "heat_all": 0.6399999856948853,
+    "nearest16": [
+      {
+        "distance": 0.0,
+        "material_id": "cmr_4a5c152b3097a6a24d795307161ad7b6"
+      },
+      {
+        "distance": 0.07321126759052277,
+        "material_id": "cmr_4c61ace5edfb615426348d2ccaa0b733"
+      },
+      {
+        "distance": 0.08672139793634415,
+        "material_id": "cmr_ed9ac3e32c092e9a0c89ba75c17de203"
+      },
+      {
+        "distance": 0.08672139793634415,
+        "material_id": "cmr_fab13c558f778dd289e070cb85e70144"
+      },
+      {
+        "distance": 0.10734906047582626,
+        "material_id": "cmr_10bbb158ace9d50afaded8b20adc5d61"
+      },
+      {
+        "distance": 0.12713558971881866,
+        "material_id": "cmr_85892e5d8ac4a0d8ac9ef9e4de6cead0"
+      },
+      {
+        "distance": 0.12713558971881866,
+        "material_id": "cmr_cde779c9f78d10c038c382d8fc6b5e99"
+      },
+      {
+        "distance": 0.12713563442230225,
+        "material_id": "cmr_a6590793a7051e9fd682ef4594963ed4"
+      },
+      {
+        "distance": 0.1341862827539444,
+        "material_id": "cmr_d9af32c03b583694bfe7f1fec9d557e1"
+      },
+      {
+        "distance": 0.13623002171516418,
+        "material_id": "cmr_ef993a17ddc970f5bc5071fdaa34a892"
+      },
+      {
+        "distance": 0.13884827494621277,
+        "material_id": "cmr_47c66e7c0f080925a884f19f21d54939"
+      },
+      {
+        "distance": 0.13884828984737396,
+        "material_id": "cmr_da5d74e772fce58788a1d9f5a2d0ee01"
+      },
+      {
+        "distance": 0.13884831964969635,
+        "material_id": "cmr_73f22aec01a97ad9b4ceec552fb7fb0a"
+      },
+      {
+        "distance": 0.14642255008220673,
+        "material_id": "cmr_e9b649fd3e7aec92ab196890ccc6475d"
+      },
+      {
+        "distance": 0.1504845917224884,
+        "material_id": "cmr_5638c3a4d776defba1d81902fb6512b9"
+      },
+      {
+        "distance": 0.15824268758296967,
+        "material_id": "cmr_55a9c512e7ec1e70c09a9ebdb9656dfc"
+      }
+    ],
+    "neighbor_radius_standardized": 0.5,
+    "neighbors_within_radius_among_top16": 16,
+    "source_anion_stratum_selection_only": "O2N",
+    "source_family_selection_only": "oxynitride",
+    "target_id": "cmr_4a5c152b3097a6a24d795307161ad7b6"
+  }
+]

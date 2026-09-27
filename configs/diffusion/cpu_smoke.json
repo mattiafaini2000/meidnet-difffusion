@@ -1,0 +1,36 @@
+{
+  "model": {
+    "width": 256,
+    "blocks": 4,
+    "expansion": 2,
+    "context_mode": "film"
+  },
+  "diffusion": {
+    "timesteps": 1000,
+    "beta_start": 0.0001,
+    "beta_end": 0.02
+  },
+  "training": {
+    "batch_size": 32,
+    "seed": 0,
+    "max_steps": 500,
+    "lr": 0.0002,
+    "weight_decay": 0.0001,
+    "gradient_clip": 1.0,
+    "condition_dropout": 0.1,
+    "validation_frequency": 100,
+    "validation_bank_size": 128,
+    "num_workers": 0,
+    "intraop_threads": 2
+  },
+  "cache": {
+    "train_limit": 1024,
+    "val_limit": 128
+  },
+  "sampling": {
+    "ddim_steps": 20,
+    "guidance": 1.0,
+    "max_targets": 8,
+    "proposals_per_target": 8
+  }
+}

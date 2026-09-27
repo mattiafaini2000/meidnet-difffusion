@@ -1,0 +1,2245 @@
+{
+  "artifact_sha256": {
+    "reports\\template_reachability\\allowed_combinations.csv": "72318837d0d3ef9443aa9840bfcc5d988363678f38c432e6a30de1444bc87946",
+    "reports\\template_reachability\\attempts.csv": "569a867cf6818d2f525a29cec211b5614fb6afccc7c7b3a076e78c14d27b6d6d",
+    "reports\\template_reachability\\failures.csv": "60f1a2a11f5d5125b2d000c82b391acf3871aed9f17928f701cc2ff1212ea836",
+    "reports\\template_reachability\\input_manifest.json": "517505b7ce1019d1c2ce51a364b644562122e90a7c38a8e34719eba241cf2c01",
+    "reports\\template_reachability\\per_example_metrics.csv": "0088e4e09c92bad52beecf9b0287e51e9c5d5e477d71f5bbed40a9ecab711bd1",
+    "reports\\template_reachability\\per_seed_metrics.csv": "e4da7b67bc5847f5cd735ee7828d457ff7846fe5e23ad99689492860e7805b2d",
+    "reports\\template_reachability\\protocol.md": "2ec66972583930688ee38e181ac3f7801995b933f05bab532ecf2eff1c83ffca",
+    "reports\\template_reachability\\raw_by_family.csv": "826fcfa4480a8efd8a82c993ad85a3589701bdaa5eba7ee9284e640656636e5e",
+    "reports\\template_reachability\\reference_reachability.csv": "2fb30ec7c46080fdc0fb0529127c8f6aa34128a0dd3da56a800ddfc01610305a",
+    "reports\\template_reachability\\report.md": "aa0682becaa63e6db6ddf2e31b8a58a95c2cb7bb575cc55f73d9471871f1e34e",
+    "reports\\template_reachability\\run_manifest.json": "608081bf187bfb2becd841d47c6f7e64bb0619288eefbeacf3290f07e7f70b26",
+    "reports\\template_reachability\\sampling_by_family.csv": "a93c74dfea5e57cf094c69c2d4cde27514a99809f974bfa7c6866639523ea5f9",
+    "reports\\template_reachability\\sampling_reachability.csv": "c5a1bfadfc7c3fa60b082b7ecbcf56c8c3cab18e85e0a81dce4ba57331d271fd",
+    "reports\\template_reachability\\yield_by_family.csv": "02b98f5c2014efea72d69d0d63db0d868d77df670347233ce80042b334ea6842"
+  },
+  "assets": {
+    "audit_csv": "data\\processed\\cmr_reconstructed\\audit.csv",
+    "audit_csv_sha256": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "checkpoint": {
+      "git_lfs_pointer": false,
+      "metadata": {
+        "latent_dim_common": 128,
+        "latent_dim_prop": 128,
+        "latent_dim_struct": 128,
+        "max_sites": 20,
+        "num_species": 118,
+        "species_embedding_dim": 64
+      },
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+      "safe_weights_only_load": true,
+      "sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+      "size_bytes": 2840642,
+      "state_dict_tensor_count": 72,
+      "state_dict_tensors": [
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.bias",
+          "shape": [
+            3
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.weight",
+          "shape": [
+            3,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.bias",
+          "shape": [
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.weight",
+          "shape": [
+            6,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.bias",
+          "shape": [
+            2560
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.weight",
+          "shape": [
+            2560,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.bias",
+          "shape": [
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.weight",
+          "shape": [
+            118,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.weight",
+          "shape": [
+            128,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.weight",
+          "shape": [
+            64,
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.weight",
+          "shape": [
+            64,
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.bias",
+          "shape": [
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.weight",
+          "shape": [
+            2,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.weight",
+          "shape": [
+            128,
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        }
+      ],
+      "state_dict_value_count": 702405
+    },
+    "previous_audit_summary": "reports\\decoder_audit_summary.json",
+    "previous_audit_summary_sha256": "8a004b76424747e541749f491ffa80e0af6c9f3a1988477feccc7398e900f9a2",
+    "protocol": "reports\\template_reachability\\protocol.md",
+    "protocol_sha256": "2ec66972583930688ee38e181ac3f7801995b933f05bab532ecf2eff1c83ffca",
+    "script": "scripts\\audit_template_reachability.py",
+      "script_sha256": "6460b096be58dd085d96202a3eb77939d5d5e3def7550aa08cd0792ef3f942c0",
+    "train_csv": "data\\processed\\cmr_reconstructed\\train.csv",
+    "train_csv_sha256": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1"
+  },
+  "configuration": {
+    "audit_examples": 20,
+    "branch_dependent_rng_divergence": "Same initial seeds; changed categorical outcomes/rejections can desynchronize later draws, so post-branch attempts are not draw-matched.",
+    "decode_temperature": 1.25,
+    "decode_topk": 12,
+    "decode_tries_maximum": 12,
+    "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+    "geometry_modes": [
+      "zero",
+      "template"
+    ],
+    "latent_arms": [
+      "joint",
+      "fixed_real",
+      "property"
+    ],
+    "refine": true,
+    "rng_history_reset_per_call": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "target_B_filter": false,
+    "x_prior_strength": 0.0
+  },
+  "criteria_timing": "Protocol recorded before this follow-up inference, after the completed decoder audit was inspected; informed follow-up, not retroactive preregistration.",
+  "decisions": {
+    "constraint_explanation": "Only 2/20 references survive the current deterministic rules, and the enumerated nitride output space is empty after tolerance/\u03bc filtering. Source-B/A top-k pruning is reported separately from those hard constraints.",
+    "fixed_geometry_explanation": "T met the pre-run joint-versus-zero, joint-versus-fixed, and recovery gates. This supports a template-interface effect only.",
+    "fixed_geometry_restoration": "SUPPORTED WITHIN THE FROZEN TEMPLATE SCOPE",
+    "next_experiment": "SMALL EXPLORATORY OXIDE-ONLY TEMPLATE-CONSTRAINED PILOT",
+    "pilot_explanation": "A small exploratory oxide-only pilot is justified under the shared T interface and unchanged rules because raw reference information is restored and one of the two exportable references is recovered in every seed. Final paired recovery intervals still include zero because only two references are eligible, so this is a bounded mechanistic pilot, not a population-level performance claim. Nitrides are excluded because the frozen deterministic rule intersection is empty.",
+    "small_diffusion_pilot_justified": true
+  },
+  "enumerated_constraint_space": {
+    "nitride": {
+      "B_choices": 12,
+      "B_with_compatible_A": 2,
+      "B_with_exportable_A": 0,
+      "charge_compatible_AB_pairs": 28,
+      "exportable_AB_pairs": 0
+    },
+    "oxide": {
+      "B_choices": 23,
+      "B_with_compatible_A": 19,
+      "B_with_exportable_A": 18,
+      "charge_compatible_AB_pairs": 190,
+      "exportable_AB_pairs": 106
+    }
+  },
+  "environment": {
+    "command": [
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_template_reachability.py"
+    ],
+    "device": "cpu",
+    "git": {
+      "branch": "main",
+      "changed_files_since_reviewed": [],
+      "commit": "52fd7cdcba7c392f302c0b71f82d339bcd904367",
+      "commits_since_reviewed": "0",
+      "status_short": [
+        "?? prompts/canonical_template_reachability_prompt.md",
+        "?? reports/template_reachability/",
+        "?? scripts/audit_template_reachability.py",
+        "?? tests/test_template_reachability.py"
+      ]
+    },
+    "interpreter": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "pymatgen": "2025.10.7",
+      "scipy": "1.15.3",
+      "torch": "2.10.0+cpu"
+    },
+    "platform": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "torch": "2.10.0+cpu"
+  },
+  "execution_integrity": "PASSED",
+  "generated_at_utc": "2026-09-23T13:56:01.897401+00:00",
+  "hard_checks": {
+    "all_raw_heads_finite": true,
+    "all_reference_radii_available": true,
+    "attempt_accounting_complete": true,
+    "audit_hash_frozen": true,
+    "checkpoint_hash_frozen": true,
+    "decode_temperature": true,
+    "decode_topk": true,
+    "decode_tries": true,
+    "generation_model_eval": true,
+    "generation_model_frozen": true,
+    "generation_model_strict_load": true,
+    "lattice_head_unchanged_by_geometry_input": true,
+    "no_final_test_inference": true,
+    "protected_old_assets_unchanged": true,
+    "protocol_unchanged_during_run": true,
+    "python_hash_seed": true,
+    "seeds": true,
+    "split_hashes_unchanged": true,
+    "template_trace_matches_unmodified_generation_function": true,
+    "training_model_eval": true,
+    "training_model_frozen": true,
+    "training_model_strict_load": true,
+    "zero_adapter_raw_heads_exact": true,
+    "zero_adapter_traces_exact": true,
+    "zero_metrics_match_previous_audit": true,
+    "zero_original_reproduces_previous_audit": true
+  },
+  "label_compatibility": "unresolved; CMR labels used as provisional inputs only",
+  "old_audit_integrity_record": {
+    "all_instrumented_endpoints_match_baseline": true,
+    "execution_integrity": "PASSED",
+    "old_reports_preserved": true
+  },
+  "pretrained_training_overlap": "unknown",
+  "previous_reference_geometry_controls": {
+    "A_reference_assisted": {
+      "examples": 20,
+      "finite_positive_volume_count": 20,
+      "legal_cell_count": 20,
+      "mean_lattice_angle_absolute_error_degrees": 0.01802891492843628,
+      "mean_lattice_length_absolute_error_angstrom": 0.09998009105523428,
+      "mean_same_slot_periodic_rms_angstrom": 0.3506579405699094,
+      "mean_species_matched_periodic_rms_angstrom": 0.349294139581012,
+      "median_relative_volume_error": 0.07121036989577018,
+      "minimum_periodic_distance_range_angstrom": [
+        1.189181626545045,
+        2.016973298735562
+      ],
+      "simple_plausibility_count": 20,
+      "structure_matcher_scale_false_count": 18,
+      "structure_matcher_scale_true_count": 18,
+      "structure_matcher_status_counts": {
+        "composition_incompatible": 2,
+        "matched": 18
+      },
+      "valid_lattice_angle_error_count": 20,
+      "valid_lattice_length_error_count": 20,
+      "valid_minimum_periodic_distance_count": 20,
+      "valid_relative_volume_error_count": 20,
+      "valid_same_slot_displacement_count": 20,
+      "valid_species_matched_displacement_count": 18
+    },
+    "B_reference_free": {
+      "examples": 20,
+      "finite_positive_volume_count": 20,
+      "legal_cell_count": 20,
+      "mean_lattice_angle_absolute_error_degrees": 0.01802891492843628,
+      "mean_lattice_length_absolute_error_angstrom": 0.09998009105523428,
+      "mean_same_slot_periodic_rms_angstrom": 2.0993805829346446,
+      "mean_species_matched_periodic_rms_angstrom": null,
+      "median_relative_volume_error": 0.07121036989577018,
+      "minimum_periodic_distance_range_angstrom": [
+        0.2448272422781056,
+        1.250115366180342
+      ],
+      "simple_plausibility_count": 20,
+      "structure_matcher_scale_false_count": 0,
+      "structure_matcher_scale_true_count": 0,
+      "structure_matcher_status_counts": {
+        "composition_incompatible": 20
+      },
+      "valid_lattice_angle_error_count": 20,
+      "valid_lattice_length_error_count": 20,
+      "valid_minimum_periodic_distance_count": 20,
+      "valid_relative_volume_error_count": 20,
+      "valid_same_slot_displacement_count": 20,
+      "valid_species_matched_displacement_count": 0
+    }
+  },
+  "previous_zero_baseline_by_family": {
+    "nitride": {
+      "N_attempt": 324,
+      "N_pass": 0,
+      "N_unique_composition": 0,
+      "decode_calls": 27
+    },
+    "oxide": {
+      "N_attempt": 46,
+      "N_pass": 33,
+      "N_unique_composition": 10,
+      "decode_calls": 33
+    }
+  },
+  "protected_asset_hashes_unchanged": true,
+  "protected_asset_sha256": {
+    "MEIDNet-main\\.gitignore": "929f220d985dd804cb59b9ac93e9ce632603d8fb28e88314998cca2c853dcb6a",
+    "MEIDNet-main\\MEIDNet_logo.png": "26daf091e835fc4fc079b1eac1122d551d4df184ffaa4c0ee7480ef9cc81dc86",
+    "MEIDNet-main\\README.md": "ae0a7249823236a10e4b1da0420b4b12d5219b97f07beea74b2f302b7b933360",
+    "MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion.pth": "59fc26f97d04d4d12450cb3030f3561a61237879f0aec58a190ff344153d097b",
+    "MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware.pth": "b1a672d7e28c3e40391fcf962b3e0e4e8276f25bc3ebcb53c36478c6626ebde5",
+    "MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "MEIDNet-main\\demo.py": "26064a28b2bf0e3fca1131e724a6de3972541db1582a70e672fd60a84a585299",
+    "MEIDNet-main\\meidnet\\__init__.py": "f119f807474b6b67855329649398dfeb92337d99688f139b3b2d54adf83c3247",
+    "MEIDNet-main\\meidnet\\__pycache__\\__init__.cpython-310.pyc": "10c84cf675f1a250befdfe88c59f88d48f1bca8bc22ac061ae9bfc93c1d4bada",
+    "MEIDNet-main\\meidnet\\__pycache__\\design.cpython-310.pyc": "12cc052f30e3c70a216a65d42fc6cde348c10e0c3497c480160b395c85511f72",
+    "MEIDNet-main\\meidnet\\__pycache__\\model.cpython-310.pyc": "cd30f5a294970f15f546b72da44a25fe268f12d92b2f62cd2ed59b7c1cd31e87",
+    "MEIDNet-main\\meidnet\\design.py": "94768c0305abf3dc0a1cc9a0baa58e9c152905629c3d05880d29d375b157054b",
+    "MEIDNet-main\\meidnet\\model.py": "6aab75391ec5f5a1128eacbc8bd9d50dd645081eb89d6dc679a32070bfe168d2",
+    "MEIDNet-main\\requirements.txt": "b5eaa9f31b2f81093c08fd97e31c808cd3c6ca242274805bd95f1fd01e8bfa97",
+    "MEIDNet-main\\results\\chalcogenide\\chalcogenide_T1_R1_2.cif": "892c4265df2b65976e070b73b76218c455434f384d5d9aa4b8bfeaaf40c43600",
+    "MEIDNet-main\\results\\chalcogenide\\chalcogenide_T1_R1_3.cif": "bc3b30670ffc6102a1ceabc4290e2c7b2b3548260304afaddad91911d472fa02",
+    "MEIDNet-main\\results\\chalcogenide\\chalcogenide_T2_R1_1.cif": "d311171a0d96b7c0403b321521944404fe8e78ac40913af1491f6b10f00e280e",
+    "MEIDNet-main\\results\\chalcogenide\\chalcogenide_T2_R1_2.cif": "b40df731142fc9dcab5ef2d2238c843c9519c908adb3c0ec426e46e5aba27bb3",
+    "MEIDNet-main\\results\\chalcogenide\\chalcogenide_T2_R1_3.cif": "94766331e1c14b33b8c8343c1528fc1dd674a684ec457330b4250b829d5fe04c",
+    "MEIDNet-main\\results\\halide\\halide_T1_R1_1.cif": "4f6be477a96003218c0b3b877ff0d85899e86d0bc71635340926854f9310b307",
+    "MEIDNet-main\\results\\halide\\halide_T1_R1_2.cif": "8c71ccf1e414c75ac52cf4d2c7f8a9610c26a938635cab1b66f80906761da57f",
+    "MEIDNet-main\\results\\halide\\halide_T1_R1_3.cif": "2844f9ddec291a98e05a04dcd5d7c506775c20fb4239d38467fa2d728908f45a",
+    "MEIDNet-main\\results\\halide\\halide_T1_R1_4.cif": "8c71ccf1e414c75ac52cf4d2c7f8a9610c26a938635cab1b66f80906761da57f",
+    "MEIDNet-main\\results\\halide\\halide_T1_R2_4.cif": "8b22f2a050bfa11f31bcc2638a3a7a4fca9a109df5ad0e4f850816ff700f95ed",
+    "MEIDNet-main\\results\\halide\\halide_T2_R1_1.cif": "581f748a1c43f9f3fa1eeeff2707b67239095ea2f0c9f69ac1b8e97aa548bd01",
+    "MEIDNet-main\\results\\halide\\halide_T2_R1_2.cif": "115e95c0a7a856792d09bf9354300555a24427bc9c825f69a7878da6182273a5",
+    "MEIDNet-main\\results\\halide\\halide_T2_R1_3.cif": "37e43fe753ab5d8bfaafda0f6b0ae32df860ddb3011ece75d7e5cb131be75404",
+    "MEIDNet-main\\results\\halide\\halide_T2_R1_4.cif": "9c2335c768afb727ebb746a9159143f2364a5d1ce25cd640ccb7743568e77140",
+    "MEIDNet-main\\results\\halide\\halide_T3_R1_1.cif": "00e3e5b894db5619b2e5377edae917426d4ac1fcb7874b42557aee93328840f9",
+    "MEIDNet-main\\results\\halide\\halide_T3_R1_2.cif": "bd415cf56c83a53c0e8e67f3dd51b6a23730093000a9ed59f9d9259402daf59c",
+    "MEIDNet-main\\results\\halide\\halide_T3_R2_3.cif": "f98b2077b9cccea588e9226198401ee68fcfb9031ef2f880a8e69b299a4a360e",
+    "MEIDNet-main\\results\\halide\\halide_T3_R2_4.cif": "67ecc8822c95f28bc5baf4e051b159c5ea4dfa37133624505bc7c387a4ff9c25",
+    "MEIDNet-main\\results\\oxide\\oxide_T1_R1_1.cif": "f971e2388185b4ca153b016b29805c939d6d86e208c854598032b54631c46309",
+    "MEIDNet-main\\results\\oxide\\oxide_T1_R1_2.cif": "d1fd26473978e6d1b7f4d9bea11c72dbb446b4bdff11c923b09330a7ec61cea0",
+    "MEIDNet-main\\results\\oxide\\oxide_T1_R1_3.cif": "500382e019c66283ed6e20e15bd67ac97a7ca3b6472515e8e8fdfa9c91f11e57",
+    "MEIDNet-main\\results\\oxide\\oxide_T1_R1_4.cif": "ed61db72d3e8018fa17be60bfa6a686035b87ed79f798d2f1ff6bc4479af6e1e",
+    "MEIDNet-main\\results\\oxide\\oxide_T2_R1_1.cif": "d1fd26473978e6d1b7f4d9bea11c72dbb446b4bdff11c923b09330a7ec61cea0",
+    "MEIDNet-main\\results\\oxide\\oxide_T2_R1_2.cif": "8c438745dab991dd9a25b8f55c62db69d3b356634359593c6bc22d421d5482d1",
+    "MEIDNet-main\\results\\oxide\\oxide_T2_R1_3.cif": "f9c159eab121ebbc67ba01bab4ff69448f1dfeb73f5c3e4b4164282cb0f8b122",
+    "MEIDNet-main\\results\\oxide\\oxide_T2_R1_4.cif": "ec4d78974752826827ed50ed43a87b738a380666c3010a2f7da71b7149b5a4bf",
+    "MEIDNet-main\\scripts\\generate_all.py": "10d41143e3e89158f651dc9e7090e2a08bbd06500bcd0c8515f200c544bc82ab",
+    "MEIDNet-main\\scripts\\generate_candidates.py": "5fd393b3e8095bf7a5f8cdc34e3fdf234679d05bec1982d436c1af595221542d",
+    "MEIDNet-main\\scripts\\screen_stability.py": "d86be51b3e1d1e2c4a675663c9990268bc2bb7c44d17c4ae1c9c5460073cddd0",
+    "MEIDNet-main\\scripts\\train.py": "e94f325840d3ffa43115a54a3dd6f630edfbf680337edacef937680b5629d0e3",
+    "MEIDNet-main\\setup.py": "76e7793716b9d508d98631e0ec01c513a6c8e71f0ca16263c700f5264a576316",
+    "MEIDNet-main\\tools\\extract_cifs.py": "30dcfc7b652573251e5fa4958d4ae99caa2f1c1a03639e7b311509dfee821a08",
+    "MEIDNet-main\\tools\\verify_structures.py": "0ab8289dab80a74a1e5ca35856773445bbe93b76a15507be68cfdd54e5b1932f",
+    "data\\processed\\cmr_reconstructed\\audit.csv": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_11dacddcba738021fcb7a8ad9b578f91.cif": "b26bf8eb71bfcb74b4a6a04a0e1e8bcaf5a9d80b03f6c3764125a8fde4264401",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_1ec1f206bf87de79380756d894cc7bc2.cif": "4804021594548d7872f1b5c438f3a6645efd932f00678fd5a92d67bef515cce0",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_20c9853b450e146b0e608362fc2f56d9.cif": "b3d9eed0fdbab4f8dc7f20b3773bfaac18b3c89b0838ee8c2ce40d9cc741d1fd",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_46250f00f7e8fa01346da84ec7156cba.cif": "93aed5ae3fc03a00ea505e57c550eadb422d0d69e9a7052e5badaafda40d21f6",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197.cif": "90e560cade2ff56562a114f6f99f21d7baa5b3c551d2c5343eefbd325c45e811",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_4a1084fcbabc2f7e867be309d49cbe2b.cif": "c2af16ad3e9ff0018ac2e49dd229c0bb11f9e6a7823c6f05d344781fc4974227",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_5a86c2636813d6b401520d96410cc7c7.cif": "aa43a241900f410a08a21cfec3093969e23d599693da37594cb398e7388a6aa4",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_64d9953c18e416a7e01500249a2bbe8d.cif": "856097ad14299166b9c0fa1cfe401de4880f1b9631280e85ab7df9c40e6b63fc",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_682785369aa2b3971943559ce4e3b0ca.cif": "a7bc074a0b3460c5b78d19b934606f6ab6daa5800b9596e701050a7057294a90",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_78c26d513a55ceb0d9345ce3cdf39c24.cif": "2ea86d8a8bb1cc427c51855ec51b1fb26a045bcae8cf5a62582896eee35a1a7b",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_898ee445e8ccfce566bb0883e7821189.cif": "28f4c3eb15414dd134f93e36bef92bc1003122c1b1e797158c97eeb7c20a4697",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_92838ea148c813c166057e99bfae3d39.cif": "eb4207e0737aa7d75170dea301466104451e783c2ee57e41ced44ece209119da",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_9747df17e8f2ed98427d905413929dd6.cif": "c5e1f2206361184b08ed86effeba3841daafe94ea9180d29c295e46bb3f0812b",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_98f26503186c693384501157616036cb.cif": "a9b83a7a9aebd27d9118244796fcceeebd09d549d46257a07920d3a11f06d996",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_a36c62d0c7f3713321685a5cb6488f21.cif": "fbed4533c62f17f0830dc6747a167cf2acc87712e143dd2e91218ce1a8606919",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_bd8c8bb480ad1e9422f4b5cd79215eba.cif": "cf1870913bb55b549a5ef9914cf2e33df5afa6611a9c693641f572593b413727",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_bf604be7ac3009a8fed955cf6716a2df.cif": "f3d484c8c4a563e411e7d6bf5ef160c61506c5ce9893ee15448dfb7ffe143f32",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_dbcef27061099822569740c11818d051.cif": "eb0a621462800afef223dc4e733748c9dc07b2e5e3616a8ddfc0f78c6419b115",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_e8bb6f6ece3b11691f6fbdf699fa676a.cif": "c762eea803b4efd638dba7892181935a906073834e4d229e7e73202a603cdeaa",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca.cif": "cccf5cf4efcb5706a3a8ddb7f66fc9f698423b89af56a70b12a1f2a9ba8beb7e",
+    "data\\processed\\cmr_reconstructed\\test.csv": "c97e67afd29e93ba1f5427b91d40a52dc21623aba3259b3953cfeee91c60fa0d",
+    "data\\processed\\cmr_reconstructed\\train.csv": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1",
+    "data\\processed\\cmr_reconstructed\\val.csv": "01666020b7327a108279b4eefea3092ded429809c39e0dc4c11160bbb00d3041",
+    "reports\\decoder_audit.md": "20c7cf764f09a4721820bf73cddd3f04ea0e7319b8d2760ef4ec2cbba675b8e7",
+    "reports\\decoder_audit\\attempts.csv": "908d9b8c8c99efd2f815a6a7154d8606f562f1d55a0c77756c9af860f21b7554",
+    "reports\\decoder_audit\\failures.csv": "a294c8df38797af75e9f7739baaf180a4c20a14eaa45fca24860ea822a8a18aa",
+    "reports\\decoder_audit\\information_sites.csv": "728886795c6d191082006eb68b9228c24e4bfd69feae2ff51feb70df6b95e8b7",
+    "reports\\decoder_audit\\per_sample.csv": "74f55ae57477fd9025e48bb1acd8cad7f6b6944acb6c4e193aa269cd13e2d371",
+    "reports\\decoder_audit\\raw_heads.csv": "c6c1ee65ffb72f09f7ae334835301a9f5a132dde86b26d729d3b28a542c702cb",
+    "reports\\decoder_audit\\representative_cifs\\audit_01_joint_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif": "157e64975741999e7462e14d431913e3f909be91b8eff0ebe3c51dd4ada17499",
+    "reports\\decoder_audit\\representative_cifs\\audit_02_fixed_real_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif": "9dea976dee155c2761eab9f3e7383a7e9496248c9329da5a09bbae84079c0424",
+    "reports\\decoder_audit\\representative_cifs\\audit_03_property_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif": "6e7be2ad9d8d48c1c597088479bc07ec22b2d1001846514cac407aa8cbaaafcd",
+    "reports\\decoder_audit\\representative_cifs\\audit_04_crystal_cmr_1ec1f206bf87de79380756d894cc7bc2_seed1.cif": "7bad85a13c2609190310bdd30728ab5ce6c6a5fd9d05df1216dbb8e3bdb3e6e1",
+    "reports\\decoder_audit\\representative_cifs\\audit_05_joint_perturb_0p01_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif": "6245c27dcdbf536cd40e71ba61ef81b374b12256da23cf3dfac8649f78b806b7",
+    "reports\\decoder_audit\\representative_cifs\\audit_06_joint_perturb_0p05_cmr_46250f00f7e8fa01346da84ec7156cba_seed0.cif": "3104575623cee16bcf684cec40efc572fa638e2a7b046f51641dcdaadde04391",
+    "reports\\decoder_audit\\representative_cifs\\audit_07_crystal_cmr_20c9853b450e146b0e608362fc2f56d9_seed0.cif": "e870e429b406b511a6af6740897082055c2e25a391ca901fdc3e6325407f054b",
+    "reports\\decoder_audit\\representative_cifs\\audit_08_crystal_cmr_46250f00f7e8fa01346da84ec7156cba_seed0.cif": "58118c58f1fcf6fcd8b89aa186d726adf37723b6a9660ccfed704493cf568728",
+    "reports\\decoder_audit\\run_manifest.json": "84a302a56d926ce84c5de625153653d843c4ca3205304efe5f5ec88c599cca0f",
+    "reports\\decoder_audit\\scorecard.csv": "c53ca399f27146c73624435d7a2dab0af8b9a8c74b53ab416030e4253bdadb00",
+    "reports\\decoder_audit\\summary.json": "8a004b76424747e541749f491ffa80e0af6c9f3a1988477feccc7398e900f9a2",
+    "reports\\decoder_audit\\yield_by_condition.csv": "731dbcd78eb29a8ca53e095c9a74e8e778d91cb56129e371bf23df7464c6d7fa",
+    "reports\\decoder_audit_failures.csv": "a294c8df38797af75e9f7739baaf180a4c20a14eaa45fca24860ea822a8a18aa",
+    "reports\\decoder_audit_protocol.md": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769",
+    "reports\\decoder_audit_raw.csv": "c6c1ee65ffb72f09f7ae334835301a9f5a132dde86b26d729d3b28a542c702cb",
+    "reports\\decoder_audit_results.csv": "74f55ae57477fd9025e48bb1acd8cad7f6b6944acb6c4e193aa269cd13e2d371",
+    "reports\\decoder_audit_summary.json": "8a004b76424747e541749f491ffa80e0af6c9f3a1988477feccc7398e900f9a2"
+  },
+  "raw_by_family": [
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "joint",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 11}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.08147928750876224,
+      "mean_masked_ab_nll": 28.01735427162864,
+      "mean_masked_ab_top1_accuracy": 0.09090909090909091,
+      "mean_masked_true_AB_probability_product": 1.2978203071920616e-12,
+      "mean_minimum_periodic_distance_angstrom": 0.7066073263009014,
+      "mean_periodic_coordinate_rms_angstrom": 2.0405969563243915,
+      "mean_unmasked_nll": 29.119288184426047,
+      "mean_unmasked_top1_accuracy": 0.47272728654471313,
+      "mean_unmasked_true_AB_probability_product": 2.0298768516066887e-19,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "joint",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 9}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.12259218427870008,
+      "mean_masked_ab_nll": 40.10537232293023,
+      "mean_masked_ab_top1_accuracy": 0.05555555555555555,
+      "mean_masked_true_AB_probability_product": 6.90931378114326e-17,
+      "mean_minimum_periodic_distance_angstrom": 0.6684135299972712,
+      "mean_periodic_coordinate_rms_angstrom": 2.1712272376805104,
+      "mean_unmasked_nll": 36.63165262010362,
+      "mean_unmasked_top1_accuracy": 0.04444444510671827,
+      "mean_unmasked_true_AB_probability_product": 1.4827273896665726e-45,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "joint",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 3, \"matched\": 8}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.08147928750876224,
+      "mean_masked_ab_nll": 0.6905462485103105,
+      "mean_masked_ab_top1_accuracy": 0.8636363636363636,
+      "mean_masked_true_AB_probability_product": 0.6677484805062722,
+      "mean_minimum_periodic_distance_angstrom": 1.570299322562606,
+      "mean_periodic_coordinate_rms_angstrom": 0.3578838478892067,
+      "mean_unmasked_nll": 0.28202103200072254,
+      "mean_unmasked_top1_accuracy": 0.9454545487057079,
+      "mean_unmasked_true_AB_probability_product": 0.646283349542506,
+      "raw_exact_composition_count": 8,
+      "raw_source_AB_top1_count": 8,
+      "scale_false_match_count": 8
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "joint",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 1, \"matched\": 8}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.12259218427870008,
+      "mean_masked_ab_nll": 0.1273834102256741,
+      "mean_masked_ab_top1_accuracy": 0.9444444444444444,
+      "mean_masked_true_AB_probability_product": 0.8430521385851186,
+      "mean_minimum_periodic_distance_angstrom": 1.585757513103777,
+      "mean_periodic_coordinate_rms_angstrom": 0.2945564029911567,
+      "mean_unmasked_nll": 0.053264643356669694,
+      "mean_unmasked_top1_accuracy": 0.9777777791023254,
+      "mean_unmasked_true_AB_probability_product": 0.8347882069122462,
+      "raw_exact_composition_count": 8,
+      "raw_source_AB_top1_count": 8,
+      "scale_false_match_count": 8
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "fixed_real",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 11}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.23920189250599255,
+      "mean_masked_ab_nll": 37.65703730149703,
+      "mean_masked_ab_top1_accuracy": 0.045454545454545456,
+      "mean_masked_true_AB_probability_product": 3.579873779344002e-08,
+      "mean_minimum_periodic_distance_angstrom": 1.021276906828509,
+      "mean_periodic_coordinate_rms_angstrom": 2.194660103267753,
+      "mean_unmasked_nll": 25.729252381758258,
+      "mean_unmasked_top1_accuracy": 0.20000000298023224,
+      "mean_unmasked_true_AB_probability_product": 2.1626606051882786e-22,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "fixed_real",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 9}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.2735692262649536,
+      "mean_masked_ab_nll": 20.813167174657185,
+      "mean_masked_ab_top1_accuracy": 0.2222222222222222,
+      "mean_masked_true_AB_probability_product": 0.002281015611908802,
+      "mean_minimum_periodic_distance_angstrom": 1.0212769068285088,
+      "mean_periodic_coordinate_rms_angstrom": 2.1400935502877214,
+      "mean_unmasked_nll": 19.596555180019802,
+      "mean_unmasked_top1_accuracy": 0.2222222255335914,
+      "mean_unmasked_true_AB_probability_product": 1.377999213799401e-17,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "fixed_real",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 11}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.23920189250599255,
+      "mean_masked_ab_nll": 28.595003388144754,
+      "mean_masked_ab_top1_accuracy": 0.09090909090909091,
+      "mean_masked_true_AB_probability_product": 4.952857094095579e-14,
+      "mean_minimum_periodic_distance_angstrom": 1.6728044179854686,
+      "mean_periodic_coordinate_rms_angstrom": 0.4318575984495286,
+      "mean_unmasked_nll": 18.45804838700728,
+      "mean_unmasked_top1_accuracy": 0.03636363690549677,
+      "mean_unmasked_true_AB_probability_product": 4.95164779998141e-14,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "fixed_real",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 8, \"matched\": 1}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.2735692262649536,
+      "mean_masked_ab_nll": 15.608064291481343,
+      "mean_masked_ab_top1_accuracy": 0.16666666666666666,
+      "mean_masked_true_AB_probability_product": 0.10781189296131805,
+      "mean_minimum_periodic_distance_angstrom": 1.6728044179854689,
+      "mean_periodic_coordinate_rms_angstrom": 0.4078347607077024,
+      "mean_unmasked_nll": 6.243294767880191,
+      "mean_unmasked_top1_accuracy": 0.6666666865348816,
+      "mean_unmasked_true_AB_probability_product": 0.10778543466004481,
+      "raw_exact_composition_count": 1,
+      "raw_source_AB_top1_count": 1,
+      "scale_false_match_count": 1
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "property",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 11}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.1768582517450506,
+      "mean_masked_ab_nll": 34.45362186431885,
+      "mean_masked_ab_top1_accuracy": 0.09090909090909091,
+      "mean_masked_true_AB_probability_product": 2.5437005238604317e-09,
+      "mean_minimum_periodic_distance_angstrom": 0.6097507338496637,
+      "mean_periodic_coordinate_rms_angstrom": 1.9703278367003207,
+      "mean_unmasked_nll": 285.56002183393997,
+      "mean_unmasked_top1_accuracy": 0.1272727291692387,
+      "mean_unmasked_true_AB_probability_product": 5.280132238755259e-34,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "property",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 9}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.16719573073916966,
+      "mean_masked_ab_nll": 23.39957606130176,
+      "mean_masked_ab_top1_accuracy": 0.2222222222222222,
+      "mean_masked_true_AB_probability_product": 0.06240661946142128,
+      "mean_minimum_periodic_distance_angstrom": 0.5044989037421495,
+      "mean_periodic_coordinate_rms_angstrom": 1.8665603702146727,
+      "mean_unmasked_nll": 133.45574145846896,
+      "mean_unmasked_top1_accuracy": 0.13333333532015482,
+      "mean_unmasked_true_AB_probability_product": 1.7459703711900943e-22,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "property",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 11}",
+      "material_count": 11,
+      "mean_lattice_length_mae_angstrom": 0.1768582517450506,
+      "mean_masked_ab_nll": 2.8515800671143965,
+      "mean_masked_ab_top1_accuracy": 0.13636363636363635,
+      "mean_masked_true_AB_probability_product": 0.007946541330503211,
+      "mean_minimum_periodic_distance_angstrom": 1.3544922294130408,
+      "mean_periodic_coordinate_rms_angstrom": 0.8198479360365664,
+      "mean_unmasked_nll": 1.5615748383782126,
+      "mean_unmasked_top1_accuracy": 0.4727272851900621,
+      "mean_unmasked_true_AB_probability_product": 0.006214608929160178,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "property",
+      "matcher_status_counts_json": "{\"composition_incompatible\": 9}",
+      "material_count": 9,
+      "mean_lattice_length_mae_angstrom": 0.16719573073916966,
+      "mean_masked_ab_nll": 2.6892942719989352,
+      "mean_masked_ab_top1_accuracy": 0.1111111111111111,
+      "mean_masked_true_AB_probability_product": 0.006267655400984994,
+      "mean_minimum_periodic_distance_angstrom": 1.3466827187733295,
+      "mean_periodic_coordinate_rms_angstrom": 0.7625504972949959,
+      "mean_unmasked_nll": 1.7199244366751776,
+      "mean_unmasked_top1_accuracy": 0.6222222447395325,
+      "mean_unmasked_true_AB_probability_product": 0.0014018822185870366,
+      "raw_exact_composition_count": 0,
+      "raw_source_AB_top1_count": 0,
+      "scale_false_match_count": 0
+    }
+  ],
+  "raw_comparisons": {
+    "joint_template_vs_zero_masked_ab_tv_mean": 0.955564734339714,
+    "joint_template_vs_zero_unmasked_tv_mean": 0.7367472425103188,
+    "template_fixed_minus_joint_masked_ab_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 27.104684220058623,
+      "ci95_low": 17.506956165313895,
+      "comparison": "fixed_real/template - joint/template",
+      "independent_groups": 20,
+      "mean": 22.313757823363993,
+      "median": 24.000346690416336,
+      "metric": "masked_ab_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        0.0,
+        47.900842286180705
+      ]
+    },
+    "template_fixed_minus_joint_unmasked_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 15.845396236753219,
+      "ci95_low": 9.671124959183109,
+      "comparison": "fixed_real/template - joint/template",
+      "independent_groups": 20,
+      "mean": 12.78232860128919,
+      "median": 13.48904113471508,
+      "metric": "unmasked_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        0.0,
+        26.18029382370878
+      ]
+    },
+    "template_joint_minus_fixed_masked_AB_probability": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.860432702013694,
+      "ci95_low": 0.5185044904490366,
+      "comparison": "joint/template - fixed_real/template",
+      "independent_groups": 20,
+      "mean": 0.6981197748091328,
+      "median": 0.9569922569019511,
+      "metric": "masked_true_AB_probability_product",
+      "missing_pairs": 0,
+      "range": [
+        0.0,
+        0.9997000238935075
+      ]
+    },
+    "template_joint_minus_property_masked_AB_probability": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.8874393079119306,
+      "ci95_low": 0.5677752182863672,
+      "comparison": "joint/template - property/template",
+      "independent_groups": 20,
+      "mean": 0.7394440839795331,
+      "median": 0.9644418784073325,
+      "metric": "masked_true_AB_probability_product",
+      "missing_pairs": 0,
+      "range": [
+        -0.013213410209989673,
+        0.9953887941072372
+      ]
+    },
+    "template_minus_A_joint_masked_ab_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.4343418575522082,
+      "ci95_low": -0.0034763708528771186,
+      "independent_groups": 20,
+      "mean": 0.15972274549712892,
+      "median": -5.118927219822285e-06,
+      "range": [
+        -0.0641749650239944,
+        2.4878356754779816
+      ]
+    },
+    "template_minus_A_joint_unmasked_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.17389946241160945,
+      "ci95_low": -0.0007997873796102336,
+      "independent_groups": 20,
+      "mean": 0.06444354547820698,
+      "median": -5.127574695480014e-06,
+      "range": [
+        -0.025432571768760584,
+        0.9944375231862069
+      ]
+    },
+    "template_minus_zero_joint_masked_ab_accuracy": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.95,
+      "ci95_low": 0.7,
+      "comparison": "joint/template - joint/zero",
+      "independent_groups": 20,
+      "mean": 0.825,
+      "median": 1.0,
+      "metric": "masked_ab_top1_accuracy",
+      "missing_pairs": 0,
+      "range": [
+        0.0,
+        1.0
+      ]
+    },
+    "template_property_minus_joint_masked_ab_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 2.7356295055359805,
+      "ci95_low": 1.8939503725268878,
+      "comparison": "property/template - joint/template",
+      "independent_groups": 20,
+      "mean": 2.341428488030215,
+      "median": 2.5599359082989395,
+      "metric": "masked_ab_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        -0.30711448192596436,
+        3.8609090596437454
+      ]
+    },
+    "template_property_minus_joint_unmasked_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 1.663219482809727,
+      "ci95_low": 1.2149285725220398,
+      "comparison": "property/template - joint/template",
+      "independent_groups": 20,
+      "mean": 1.4537515005009483,
+      "median": 1.6090647141681984,
+      "metric": "unmasked_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        0.08707630634307861,
+        2.113659977912903
+      ]
+    },
+    "zero_minus_template_joint_masked_ab_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 41.33083223953988,
+      "ci95_low": 25.508352682034673,
+      "comparison": "joint/zero - joint/template",
+      "independent_groups": 20,
+      "mean": 33.01983942343213,
+      "median": 27.965110903372988,
+      "metric": "masked_ab_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        12.487493900349364,
+        72.89193361997604
+      ]
+    },
+    "zero_minus_template_joint_unmasked_nll": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 37.96146826994114,
+      "ci95_low": 26.824498467057857,
+      "comparison": "joint/zero - joint/template",
+      "independent_groups": 20,
+      "mean": 32.320771523370055,
+      "median": 31.12007417762652,
+      "metric": "unmasked_nll_nats_per_site",
+      "missing_pairs": 0,
+      "range": [
+        8.326189875602722,
+        55.171207102015615
+      ]
+    }
+  },
+  "reference_reachability": {
+    "all_count": 20,
+    "all_required_radii_available_count": 20,
+    "by_family": {
+      "nitride": {
+        "charge_neutral": 0,
+        "count": 9,
+        "deterministically_exportable": 0
+      },
+      "oxide": {
+        "charge_neutral": 3,
+        "count": 11,
+        "deterministically_exportable": 2
+      }
+    },
+    "charge_neutral_count": 3,
+    "charge_neutral_roles": [
+      "NaVO3",
+      "CaPbO3",
+      "LaNiO3"
+    ],
+    "declared_scope_count": 20,
+    "deterministically_exportable_count": 2,
+    "deterministically_exportable_roles": [
+      "NaVO3",
+      "LaNiO3"
+    ],
+    "first_rejection_counts": {
+      "charge": 17,
+      "tolerance/mu": 1
+    }
+  },
+  "runtime_seconds": 16.443237100029364,
+  "sampling_by_family": [
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "joint",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.1803105737607005,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.08302898644001111,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.1834199271781804,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.18031046199217154,
+      "source_AB_topk_reachable_count": 2,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 5
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "joint",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.999982876413434,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.6863030265990852,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.9999986622068617,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.9999828603532579,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "joint",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.3460472988966371,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.3495145463190308,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.3518988872753975,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.34604726380390194,
+      "source_AB_topk_reachable_count": 3,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 11
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "joint",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.7793265656846824,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.7668734019518726,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.7782572093023595,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.7793265462516703,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "fixed_real",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 1.6222888588046658e-09,
+      "mean_B_raw_all_species_mass_without_compatible_A": 5.7297448036175425e-12,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 1.0306980963159518e-11,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 1.6222888588046658e-09,
+      "source_AB_topk_reachable_count": 1,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 2
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "fixed_real",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 1.0000000187171192,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.5558984279632568,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 1.0,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 1.0,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "fixed_real",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 5.390533260651864e-06,
+      "mean_B_raw_all_species_mass_without_compatible_A": 2.714334357278858e-07,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 2.714334073061764e-07,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 5.390534170146566e-06,
+      "source_AB_topk_reachable_count": 1,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 2
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "fixed_real",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.9999944763078852,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.999757707118988,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.9999996423721313,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.9999946355819702,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "zero",
+      "latent_arm": "property",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.06039670852446561,
+      "mean_B_raw_all_species_mass_without_compatible_A": 3.750317257581282e-09,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.06233966037679505,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.06039670287596576,
+      "source_AB_topk_reachable_count": 1,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 5
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "zero",
+      "latent_arm": "property",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.999998643955958,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.005523181643285271,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.9999999403953552,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.9999986423386468,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    },
+    {
+      "family": "oxide",
+      "geometry_mode": "template",
+      "latent_arm": "property",
+      "material_count": 11,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.32503679157658055,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.2686976052460853,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.3280574250384234,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.28263625413687393,
+      "source_AB_topk_reachable_count": 1,
+      "source_A_charge_compatible_count": 3,
+      "source_A_in_conditional_topk_count": 3,
+      "source_B_in_topk_count": 6
+    },
+    {
+      "family": "nitride",
+      "geometry_mode": "template",
+      "latent_arm": "property",
+      "material_count": 9,
+      "mean_B_actual_post_topk_mass_without_compatible_A": 0.8048716183337901,
+      "mean_B_raw_all_species_mass_without_compatible_A": 0.13382689944571918,
+      "mean_B_raw_family_pool_mass_without_compatible_A": 0.8033795356750488,
+      "mean_B_temperature_pre_topk_mass_without_compatible_A": 0.8048716121249728,
+      "source_AB_topk_reachable_count": 0,
+      "source_A_charge_compatible_count": 0,
+      "source_A_in_conditional_topk_count": 0,
+      "source_B_in_topk_count": 9
+    }
+  ],
+  "sampling_summary": {
+    "joint_template": {
+      "nitride_no_compatible_A_mass": 0.7793265656846824,
+      "nitride_source_AB_reachable_count": 0,
+      "nitride_source_B_topk_count": 9,
+      "oxide_no_compatible_A_mass": 0.3460472988966371,
+      "oxide_source_AB_reachable_count": 3,
+      "oxide_source_B_topk_count": 11
+    }
+  },
+  "status": "complete",
+  "template_generation": {
+    "accepted_structure_count": 63,
+    "call_count": 180,
+    "consumed_attempt_count": 1575,
+    "paired_control_effects": {
+      "fixed_real": {
+        "all_examples": {
+          "both_passed": 6,
+          "control": "fixed_real",
+          "difference_by_seed": {
+            "0": 0.05,
+            "1": 0.05,
+            "2": 0.05
+          },
+          "endpoint_changed_fraction": 0.4,
+          "formula_changed_given_both_passed_fraction": 1.0,
+          "joint_minus_control_endpoint_source_AB_recovery": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.15,
+            "ci95_low": 0.0,
+            "independent_groups": 20,
+            "mean": 0.05,
+            "median": 0.0,
+            "range": [
+              0.0,
+              1.0
+            ]
+          },
+          "oracle_exportable_only": false,
+          "paired_calls": 60,
+          "zero_interval_interpretation": "If [0,0], this is a degenerate resample of observed zero paired differences, not evidence of a precisely zero population effect."
+        },
+        "oracle_exportable_only": {
+          "both_passed": 1,
+          "control": "fixed_real",
+          "difference_by_seed": {
+            "0": 0.5,
+            "1": 0.5,
+            "2": 0.5
+          },
+          "endpoint_changed_fraction": 0.6666666666666666,
+          "formula_changed_given_both_passed_fraction": 1.0,
+          "joint_minus_control_endpoint_source_AB_recovery": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 1.0,
+            "ci95_low": 0.0,
+            "independent_groups": 2,
+            "mean": 0.5,
+            "median": 0.5,
+            "range": [
+              0.0,
+              1.0
+            ]
+          },
+          "oracle_exportable_only": true,
+          "paired_calls": 6,
+          "zero_interval_interpretation": "If [0,0], this is a degenerate resample of observed zero paired differences, not evidence of a precisely zero population effect."
+        }
+      },
+      "property": {
+        "all_examples": {
+          "both_passed": 15,
+          "control": "property",
+          "difference_by_seed": {
+            "0": 0.05,
+            "1": 0.05,
+            "2": 0.05
+          },
+          "endpoint_changed_fraction": 0.55,
+          "formula_changed_given_both_passed_fraction": 1.0,
+          "joint_minus_control_endpoint_source_AB_recovery": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.15,
+            "ci95_low": 0.0,
+            "independent_groups": 20,
+            "mean": 0.05,
+            "median": 0.0,
+            "range": [
+              0.0,
+              1.0
+            ]
+          },
+          "oracle_exportable_only": false,
+          "paired_calls": 60,
+          "zero_interval_interpretation": "If [0,0], this is a degenerate resample of observed zero paired differences, not evidence of a precisely zero population effect."
+        },
+        "oracle_exportable_only": {
+          "both_passed": 3,
+          "control": "property",
+          "difference_by_seed": {
+            "0": 0.5,
+            "1": 0.5,
+            "2": 0.5
+          },
+          "endpoint_changed_fraction": 1.0,
+          "formula_changed_given_both_passed_fraction": 1.0,
+          "joint_minus_control_endpoint_source_AB_recovery": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 1.0,
+            "ci95_low": 0.0,
+            "independent_groups": 2,
+            "mean": 0.5,
+            "median": 0.5,
+            "range": [
+              0.0,
+              1.0
+            ]
+          },
+          "oracle_exportable_only": true,
+          "paired_calls": 6,
+          "zero_interval_interpretation": "If [0,0], this is a degenerate resample of observed zero paired differences, not evidence of a precisely zero population effect."
+        }
+      }
+    },
+    "yield_by_family": [
+      {
+        "accepted_call_fraction": 0.45454545454545453,
+        "accepted_calls": 15,
+        "accepted_calls_per_consumed_attempt": 0.06172839506172839,
+        "accepted_composition_counts_json": "{\"CaGeO3\": 3, \"KTaO3\": 3, \"LaNiO3\": 3, \"NaNbO3\": 1, \"NaTaO3\": 2, \"NaVO3\": 3}",
+        "accepted_source_AB_recovery_count": 3,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.012345679012345678,
+        "attempt_source_AB_recovery_count": 3,
+        "attempt_source_AB_recovery_rate": 0.012345679012345678,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 124,
+        "consumed_attempts": 243,
+        "decode_calls": 33,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 3,
+        "family": "oxide",
+        "latent_arm": "joint",
+        "oracle_exportable_accepted_source_AB_recovery_count": 3,
+        "oracle_exportable_attempt_source_AB_recovery_count": 3,
+        "oracle_exportable_consumed_attempts": 40,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 3,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 119, \"tolerance/mu\": 109}",
+        "source_materials_with_accepted_output": 5,
+        "unique_accepted_compositions": 6,
+        "unique_source_materials": 11
+      },
+      {
+        "accepted_call_fraction": 0.0,
+        "accepted_calls": 0,
+        "accepted_calls_per_consumed_attempt": 0.0,
+        "accepted_composition_counts_json": "{}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 0,
+        "constructed_attempts": 71,
+        "consumed_attempts": 324,
+        "decode_calls": 27,
+        "deterministically_exportable_source_materials": 0,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "nitride",
+        "latent_arm": "joint",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 0,
+        "oracle_exportable_decode_calls": 0,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 253, \"tolerance/mu\": 71}",
+        "source_materials_with_accepted_output": 0,
+        "unique_accepted_compositions": 0,
+        "unique_source_materials": 9
+      },
+      {
+        "accepted_call_fraction": 0.25,
+        "accepted_calls": 15,
+        "accepted_calls_per_consumed_attempt": 0.026455026455026454,
+        "accepted_composition_counts_json": "{\"CaGeO3\": 3, \"KTaO3\": 3, \"LaNiO3\": 3, \"NaNbO3\": 1, \"NaTaO3\": 2, \"NaVO3\": 3}",
+        "accepted_source_AB_recovery_count": 3,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.005291005291005291,
+        "attempt_source_AB_recovery_count": 3,
+        "attempt_source_AB_recovery_rate": 0.005291005291005291,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 195,
+        "consumed_attempts": 567,
+        "decode_calls": 60,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 3,
+        "family": "all",
+        "latent_arm": "joint",
+        "oracle_exportable_accepted_source_AB_recovery_count": 3,
+        "oracle_exportable_attempt_source_AB_recovery_count": 3,
+        "oracle_exportable_consumed_attempts": 40,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 3,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 372, \"tolerance/mu\": 180}",
+        "source_materials_with_accepted_output": 5,
+        "unique_accepted_compositions": 6,
+        "unique_source_materials": 20
+      },
+      {
+        "accepted_call_fraction": 0.45454545454545453,
+        "accepted_calls": 15,
+        "accepted_calls_per_consumed_attempt": 0.04983388704318937,
+        "accepted_composition_counts_json": "{\"CaZrO3\": 14, \"SrZrO3\": 1}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 301,
+        "consumed_attempts": 301,
+        "decode_calls": 33,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "oxide",
+        "latent_arm": "fixed_real",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 51,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"tolerance/mu\": 286}",
+        "source_materials_with_accepted_output": 10,
+        "unique_accepted_compositions": 2,
+        "unique_source_materials": 11
+      },
+      {
+        "accepted_call_fraction": 0.0,
+        "accepted_calls": 0,
+        "accepted_calls_per_consumed_attempt": 0.0,
+        "accepted_composition_counts_json": "{}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 0,
+        "constructed_attempts": 0,
+        "consumed_attempts": 324,
+        "decode_calls": 27,
+        "deterministically_exportable_source_materials": 0,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "nitride",
+        "latent_arm": "fixed_real",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 0,
+        "oracle_exportable_decode_calls": 0,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 324}",
+        "source_materials_with_accepted_output": 0,
+        "unique_accepted_compositions": 0,
+        "unique_source_materials": 9
+      },
+      {
+        "accepted_call_fraction": 0.25,
+        "accepted_calls": 15,
+        "accepted_calls_per_consumed_attempt": 0.024,
+        "accepted_composition_counts_json": "{\"CaZrO3\": 14, \"SrZrO3\": 1}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 301,
+        "consumed_attempts": 625,
+        "decode_calls": 60,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "all",
+        "latent_arm": "fixed_real",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 51,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 324, \"tolerance/mu\": 286}",
+        "source_materials_with_accepted_output": 10,
+        "unique_accepted_compositions": 2,
+        "unique_source_materials": 20
+      },
+      {
+        "accepted_call_fraction": 1.0,
+        "accepted_calls": 33,
+        "accepted_calls_per_consumed_attempt": 0.559322033898305,
+        "accepted_composition_counts_json": "{\"BaGeO3\": 1, \"BaTiO3\": 2, \"CaGeO3\": 2, \"CaZrO3\": 1, \"KNbO3\": 2, \"KTaO3\": 1, \"KVO3\": 2, \"LaAlO3\": 2, \"LaCoO3\": 3, \"LaFeO3\": 2, \"LaScO3\": 1, \"NaNbO3\": 3, \"NaVO3\": 1, \"RbNbO3\": 1, \"RbTaO3\": 2, \"RbVO3\": 1, \"SrSnO3\": 2, \"SrVO3\": 3, \"SrZrO3\": 1}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 38,
+        "consumed_attempts": 59,
+        "decode_calls": 33,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "oxide",
+        "latent_arm": "property",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 9,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 21, \"tolerance/mu\": 5}",
+        "source_materials_with_accepted_output": 11,
+        "unique_accepted_compositions": 19,
+        "unique_source_materials": 11
+      },
+      {
+        "accepted_call_fraction": 0.0,
+        "accepted_calls": 0,
+        "accepted_calls_per_consumed_attempt": 0.0,
+        "accepted_composition_counts_json": "{}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 0,
+        "constructed_attempts": 71,
+        "consumed_attempts": 324,
+        "decode_calls": 27,
+        "deterministically_exportable_source_materials": 0,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "nitride",
+        "latent_arm": "property",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 0,
+        "oracle_exportable_decode_calls": 0,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 253, \"tolerance/mu\": 71}",
+        "source_materials_with_accepted_output": 0,
+        "unique_accepted_compositions": 0,
+        "unique_source_materials": 9
+      },
+      {
+        "accepted_call_fraction": 0.55,
+        "accepted_calls": 33,
+        "accepted_calls_per_consumed_attempt": 0.08616187989556136,
+        "accepted_composition_counts_json": "{\"BaGeO3\": 1, \"BaTiO3\": 2, \"CaGeO3\": 2, \"CaZrO3\": 1, \"KNbO3\": 2, \"KTaO3\": 1, \"KVO3\": 2, \"LaAlO3\": 2, \"LaCoO3\": 3, \"LaFeO3\": 2, \"LaScO3\": 1, \"NaNbO3\": 3, \"NaVO3\": 1, \"RbNbO3\": 1, \"RbTaO3\": 2, \"RbVO3\": 1, \"SrSnO3\": 2, \"SrVO3\": 3, \"SrZrO3\": 1}",
+        "accepted_source_AB_recovery_count": 0,
+        "accepted_source_AB_recovery_rate_per_attempt": 0.0,
+        "attempt_source_AB_recovery_count": 0,
+        "attempt_source_AB_recovery_rate": 0.0,
+        "charge_neutral_source_materials": 3,
+        "constructed_attempts": 109,
+        "consumed_attempts": 383,
+        "decode_calls": 60,
+        "deterministically_exportable_source_materials": 2,
+        "endpoint_source_AB_recovery_count": 0,
+        "family": "all",
+        "latent_arm": "property",
+        "oracle_exportable_accepted_source_AB_recovery_count": 0,
+        "oracle_exportable_attempt_source_AB_recovery_count": 0,
+        "oracle_exportable_consumed_attempts": 9,
+        "oracle_exportable_decode_calls": 6,
+        "oracle_exportable_endpoint_source_AB_recovery_count": 0,
+        "rejection_stage_counts_json": "{\"charge_compatible_A\": 274, \"tolerance/mu\": 76}",
+        "source_materials_with_accepted_output": 11,
+        "unique_accepted_compositions": 19,
+        "unique_source_materials": 20
+      }
+    ]
+  },
+  "template_input": {
+    "adjacency": "decoder retains its all-ones 20x20 adjacency",
+    "all_twenty_mean_not_used": [
+      0.07500000298023224,
+      0.07500000298023224,
+      0.07500000298023224
+    ],
+    "center_from_first_five": [
+      0.30000001192092896,
+      0.30000001192092896,
+      0.30000001192092896
+    ],
+    "center_sha256": "c4be0f035fc77ce3b797c6acf4ead43bec2d631e9e4eae87a5a18397bfe5e312",
+    "coordinate_convention": "dimensionless fractional coordinates",
+    "coordinates": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.0,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.0
+      ],
+      [
+        0.0,
+        0.5,
+        0.5
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "coordinates_sha256": "2b92f48bde0008fe445fd81bc63a032b6121116e2080810acaf3ae6bd7315459",
+    "coordinates_then_center_sha256": "a10db25b9d922fbc87d37dc5794afc9a0ae0a4b45b4d2f59f4069d299d34e642",
+    "dtype": "torch.float32",
+    "occupied_pairwise_distance_matrix_fractional": [
+      [
+        0.0,
+        0.8660253882408142,
+        0.7071067690849304,
+        0.7071067690849304,
+        0.7071067690849304
+      ],
+      [
+        0.8660253882408142,
+        0.0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.7071067690849304,
+        0.5,
+        0.0,
+        0.7071067690849304,
+        0.7071067690849304
+      ],
+      [
+        0.7071067690849304,
+        0.5,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      [
+        0.7071067690849304,
+        0.5,
+        0.7071067690849304,
+        0.7071067690849304,
+        0.0
+      ]
+    ],
+    "padding": "slots 5-19 are zeros, as in parse_cif_to_dense",
+    "relative_coordinates": [
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        0.19999998807907104,
+        0.19999998807907104,
+        0.19999998807907104
+      ],
+      [
+        0.19999998807907104,
+        -0.30000001192092896,
+        0.19999998807907104
+      ],
+      [
+        0.19999998807907104,
+        0.19999998807907104,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        0.19999998807907104,
+        0.19999998807907104
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ],
+      [
+        -0.30000001192092896,
+        -0.30000001192092896,
+        -0.30000001192092896
+      ]
+    ],
+    "relative_coordinates_sha256": "d2619196ca4821c195fda7d1b9ce4f364b32be83e874d6dff628930413e69381",
+    "shape": [
+      20,
+      3
+    ],
+    "slot_roles": [
+      "A",
+      "B",
+      "X",
+      "X",
+      "X",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding",
+      "padding"
+    ],
+    "species_or_occupancy_input": false,
+    "tensor_hash_algorithm": "SHA-256 of little-endian float32 C-order bytes",
+    "training_convention": {
+      "candidate_metrics": [
+        {
+          "maximum_periodic_fractional_displacement": 0.42290347814559937,
+          "mean_periodic_fractional_displacement": 0.010817734794740578,
+          "median_periodic_fractional_displacement": 0.002742630196735263,
+          "slot_from_generation_template": [
+            0,
+            1,
+            3,
+            4,
+            2
+          ]
+        },
+        {
+          "maximum_periodic_fractional_displacement": 0.7071067690849304,
+          "mean_periodic_fractional_displacement": 0.2880176034393506,
+          "median_periodic_fractional_displacement": 0.01875123381614685,
+          "slot_from_generation_template": [
+            0,
+            1,
+            2,
+            4,
+            3
+          ]
+        },
+        {
+          "maximum_periodic_fractional_displacement": 0.7071067690849304,
+          "mean_periodic_fractional_displacement": 0.2880176034393506,
+          "median_periodic_fractional_displacement": 0.01875123381614685,
+          "slot_from_generation_template": [
+            0,
+            1,
+            3,
+            2,
+            4
+          ]
+        },
+        {
+          "maximum_periodic_fractional_displacement": 0.7232828140258789,
+          "mean_periodic_fractional_displacement": 0.2903403230584055,
+          "median_periodic_fractional_displacement": 0.018634021282196045,
+          "slot_from_generation_template": [
+            0,
+            1,
+            4,
+            3,
+            2
+          ]
+        },
+        {
+          "maximum_periodic_fractional_displacement": 0.7232828140258789,
+          "mean_periodic_fractional_displacement": 0.4277788975711831,
+          "median_periodic_fractional_displacement": 0.701945424079895,
+          "slot_from_generation_template": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "maximum_periodic_fractional_displacement": 0.7232828140258789,
+          "mean_periodic_fractional_displacement": 0.4277788975711831,
+          "median_periodic_fractional_displacement": 0.701945424079895,
+          "slot_from_generation_template": [
+            0,
+            1,
+            4,
+            2,
+            3
+          ]
+        }
+      ],
+      "eligible_training_rows": 224,
+      "parser_wrapped_count": 198,
+      "periodic_origin_limitation": "Parser wrapping creates multiple ordinary-Euclidean coordinate branches; one universal template cannot reproduce every branch, and the checkpoint's missing historical training data cannot be inspected.",
+      "role_order_A_B_X_X_X_count": 224,
+      "selected_because": "lowest mean periodic fractional site displacement on training rows",
+      "selected_slot_from_generation_template": [
+        0,
+        1,
+        3,
+        4,
+        2
+      ],
+      "selection_cif_root": "data\\processed\\cmr_reconstructed\\cifs\\train",
+      "selection_data": "data\\processed\\cmr_reconstructed\\train.csv",
+      "selection_uses_audit_outcomes": false,
+      "site_order_preserved_count": 224,
+      "training_center_x": {
+        "count_0p4_to_below_0p6": 70,
+        "count_at_least_0p6": 4,
+        "count_below_0p4": 150,
+        "maximum": 0.7043536901473999,
+        "median": 0.302426278591156,
+        "minimum": 0.2935326099395752
+      }
+    }
+  },
+  "test_set_model_inference": false
+}

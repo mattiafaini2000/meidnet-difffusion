@@ -1,0 +1,28 @@
+{
+  "command": " .venv/Scripts/python.exe scripts/multifamily_census.py",
+  "input_sha256": {
+    "raw_db": "ac0bd6d38797c955d1cc999bcb387ae4940d06038f79175b9b2be48d490713f9",
+    "test_csv": "c97e67afd29e93ba1f5427b91d40a52dc21623aba3259b3953cfeee91c60fa0d",
+    "train_csv": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1",
+    "val_csv": "01666020b7327a108279b4eefea3092ded429809c39e0dc4c11160bbb00d3041"
+  },
+  "legacy_oracle_unique_role_tuples": 280,
+  "note": "Source census only; no model inference was performed on any split. The inference_count column was completed by the validation-only audit.",
+  "output_sha256": {
+    "census_per_entry.csv": "57d972e7851f59877df21ca51e6404a65b45e61ffcb46e2ff30e6a2cb669b52a",
+    "dataset_conformity_by_split_and_family.csv": "c020b7399dfe5dd33812f10d8117b8f0ff2775cac3472171acb996b3f7d23351",
+    "exact_anion_inventory.csv": "f7b26dd71a43604a213c368871294a17677718147b73afb180885564a5b86a9e",
+    "family_support.csv": "ec79dc11dd37e175b560b020ec8cff1435bd775ca99b63db3ed389292cd95391",
+    "training_support.json": "8a07d62682d31c0b3807a9cbdb7dc7df9a5f87722b810389438c76ccf516951a"
+  },
+  "policy_schema_version": "multifamily_v1",
+  "raw_database_rows": 19369,
+  "raw_reference_or_other_excluded_rows": 441,
+  "retained_rows": 18928,
+  "run_at_utc": "2026-09-24T11:14:32.787870+00:00",
+  "split_counts": {
+    "test": 1892,
+    "train": 15143,
+    "val": 1893
+  }
+}

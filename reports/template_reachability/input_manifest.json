@@ -1,0 +1,389 @@
+{
+  "adjacency": "decoder retains its all-ones 20x20 adjacency",
+  "all_twenty_mean_not_used": [
+    0.07500000298023224,
+    0.07500000298023224,
+    0.07500000298023224
+  ],
+  "center_from_first_five": [
+    0.30000001192092896,
+    0.30000001192092896,
+    0.30000001192092896
+  ],
+  "center_sha256": "c4be0f035fc77ce3b797c6acf4ead43bec2d631e9e4eae87a5a18397bfe5e312",
+  "coordinate_convention": "dimensionless fractional coordinates",
+  "coordinates": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.5,
+      0.5
+    ],
+    [
+      0.5,
+      0.0,
+      0.5
+    ],
+    [
+      0.5,
+      0.5,
+      0.0
+    ],
+    [
+      0.0,
+      0.5,
+      0.5
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "coordinates_sha256": "2b92f48bde0008fe445fd81bc63a032b6121116e2080810acaf3ae6bd7315459",
+  "coordinates_then_center_sha256": "a10db25b9d922fbc87d37dc5794afc9a0ae0a4b45b4d2f59f4069d299d34e642",
+  "dtype": "torch.float32",
+  "occupied_pairwise_distance_matrix_fractional": [
+    [
+      0.0,
+      0.8660253882408142,
+      0.7071067690849304,
+      0.7071067690849304,
+      0.7071067690849304
+    ],
+    [
+      0.8660253882408142,
+      0.0,
+      0.5,
+      0.5,
+      0.5
+    ],
+    [
+      0.7071067690849304,
+      0.5,
+      0.0,
+      0.7071067690849304,
+      0.7071067690849304
+    ],
+    [
+      0.7071067690849304,
+      0.5,
+      0.7071067690849304,
+      0.0,
+      0.7071067690849304
+    ],
+    [
+      0.7071067690849304,
+      0.5,
+      0.7071067690849304,
+      0.7071067690849304,
+      0.0
+    ]
+  ],
+  "padding": "slots 5-19 are zeros, as in parse_cif_to_dense",
+  "relative_coordinates": [
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      0.19999998807907104,
+      0.19999998807907104,
+      0.19999998807907104
+    ],
+    [
+      0.19999998807907104,
+      -0.30000001192092896,
+      0.19999998807907104
+    ],
+    [
+      0.19999998807907104,
+      0.19999998807907104,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      0.19999998807907104,
+      0.19999998807907104
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    [
+      -0.30000001192092896,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ]
+  ],
+  "relative_coordinates_sha256": "d2619196ca4821c195fda7d1b9ce4f364b32be83e874d6dff628930413e69381",
+  "shape": [
+    20,
+    3
+  ],
+  "slot_roles": [
+    "A",
+    "B",
+    "X",
+    "X",
+    "X",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding",
+    "padding"
+  ],
+  "species_or_occupancy_input": false,
+  "tensor_hash_algorithm": "SHA-256 of little-endian float32 C-order bytes",
+  "training_convention": {
+    "candidate_metrics": [
+      {
+        "maximum_periodic_fractional_displacement": 0.42290347814559937,
+        "mean_periodic_fractional_displacement": 0.010817734794740578,
+        "median_periodic_fractional_displacement": 0.002742630196735263,
+        "slot_from_generation_template": [
+          0,
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "maximum_periodic_fractional_displacement": 0.7071067690849304,
+        "mean_periodic_fractional_displacement": 0.2880176034393506,
+        "median_periodic_fractional_displacement": 0.01875123381614685,
+        "slot_from_generation_template": [
+          0,
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "maximum_periodic_fractional_displacement": 0.7071067690849304,
+        "mean_periodic_fractional_displacement": 0.2880176034393506,
+        "median_periodic_fractional_displacement": 0.01875123381614685,
+        "slot_from_generation_template": [
+          0,
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "maximum_periodic_fractional_displacement": 0.7232828140258789,
+        "mean_periodic_fractional_displacement": 0.2903403230584055,
+        "median_periodic_fractional_displacement": 0.018634021282196045,
+        "slot_from_generation_template": [
+          0,
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "maximum_periodic_fractional_displacement": 0.7232828140258789,
+        "mean_periodic_fractional_displacement": 0.4277788975711831,
+        "median_periodic_fractional_displacement": 0.701945424079895,
+        "slot_from_generation_template": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "maximum_periodic_fractional_displacement": 0.7232828140258789,
+        "mean_periodic_fractional_displacement": 0.4277788975711831,
+        "median_periodic_fractional_displacement": 0.701945424079895,
+        "slot_from_generation_template": [
+          0,
+          1,
+          4,
+          2,
+          3
+        ]
+      }
+    ],
+    "eligible_training_rows": 224,
+    "parser_wrapped_count": 198,
+    "periodic_origin_limitation": "Parser wrapping creates multiple ordinary-Euclidean coordinate branches; one universal template cannot reproduce every branch, and the checkpoint's missing historical training data cannot be inspected.",
+    "role_order_A_B_X_X_X_count": 224,
+    "selected_because": "lowest mean periodic fractional site displacement on training rows",
+    "selected_slot_from_generation_template": [
+      0,
+      1,
+      3,
+      4,
+      2
+    ],
+    "selection_cif_root": "data\\processed\\cmr_reconstructed\\cifs\\train",
+    "selection_data": "data\\processed\\cmr_reconstructed\\train.csv",
+    "selection_uses_audit_outcomes": false,
+    "site_order_preserved_count": 224,
+    "training_center_x": {
+      "count_0p4_to_below_0p6": 70,
+      "count_at_least_0p6": 4,
+      "count_below_0p4": 150,
+      "maximum": 0.7043536901473999,
+      "median": 0.302426278591156,
+      "minimum": 0.2935326099395752
+    }
+  }
+}

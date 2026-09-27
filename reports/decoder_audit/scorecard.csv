@@ -1,0 +1,19 @@
+metric,arm,control_or_paired_difference,denominator,uncertainty,conclusion
+unmasked finite fraction,all latents/heads,1.0 required,120,none; hard integrity check,passed
+B/C maximum absolute difference,"canonical versus generation, equivalent heads",0.0,120,"rtol=1e-05, atol=1e-06",passed
+occupied-site NLL delta (control - joint),unmasked joint,-9.530313539505006,20,"group bootstrap 95% CI [-16.71339136123657, -2.246485141515738]",inconclusive
+accepted-output source A/B yield difference (joint - control),composition after projection and common filters,0.0,20,"group bootstrap 95% CI [0.0, 0.0]",inconclusive
+accepted-output source A/B direction by seed,joint minus fixed-real after projection and common filters,"{""0"": 0.0, ""1"": 0.0, ""2"": 0.0}",3,three fixed seeds; positive required in each seed for readiness,not consistent
+accepted unique A/B pairs,joint final output,10,370,descriptive fixed-budget audit; forced family X excluded; dominant accepted A/B fraction=0.36363636363636365,non-collapsed
+material conditions with multiple accepted A/B pairs,joint final output by requested material condition,3,11,descriptive; three fixed seeds per material condition,reported separately; repeated recovery of one A/B can be expected for a fixed known-latent condition
+scale=False StructureMatcher fits,reference-free raw geometry,0,20,fixed matcher settings,BLOCKED BY A SPECIFIC ISSUE
+harness provenance/load/accounting checks,audit harness,12,12,exact Boolean checks; failure invalidates the harness,passed
+separate-call deterministic repeats,"A, B, and C by decoder head","{""A_reference_assisted"": 0.0, ""B_canonical_reference_free"": 0.0, ""C_generation_reference_free"": 0.0}",160,"rtol=1e-05, atol=1e-06; per-head records in summary JSON",passed
+A-to-B occupied-site raw NLL change,joint; B minus A,32.38521506884827,20,"group bootstrap 95% CI [26.921496843745334, 38.02244163832964]",positive means reference-free decoding is worse
+family-masked A/B-only NLL delta (control - joint),fixed-real versus joint,-3.3796666502952575,20,"group bootstrap 95% CI [-13.526420181393624, 6.661075851023194]",positive favors the per-example joint latent
+raw NLL delta and TV (property - joint),property-only common latent,"{""delta_nll"": 184.61324348449708, ""mean_tv"": 0.782725703716278}",20,whole-group NLL bootstrap; TV descriptive,mechanistic comparison; not an automatic readiness veto
+raw probability sensitivity to relative perturbations,0.01 and 0.05 relative L2,"{""joint_perturb_0p01"": {""delta_nll"": -0.8483518600463867, ""mean_tv"": 0.09352594201918692}, ""joint_perturb_0p05"": {""delta_nll"": -4.063188219070435, ""mean_tv"": 0.3885064147412777}}",20,same deterministic direction at both magnitudes per example,sensitivity diagnostic only; TV is not usefulness
+attempt accounting,all stochastic arms,2327,2327,exact ledger equality,passed
+joint final acceptance yield,unchanged projection and common filters,0.0891891891891892,370,descriptive fixed audit budget; no universal yield threshold,N_pass=33
+raw reference-free legal cells / positive volumes,B canonical reference-free,20 / 20,20,documented inverse scaling; legality is not physical validity,BLOCKED BY A SPECIFIC ISSUE
+scale=True supplementary topology fits,B canonical reference-free,0,20,fixed matcher; scale=False remains primary,supplementary topology diagnostic

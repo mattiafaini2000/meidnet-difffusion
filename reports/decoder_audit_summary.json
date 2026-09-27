@@ -1,0 +1,4893 @@
+{
+  "accepted_AB_by_material_condition": {
+    "all_passing_conditions_single_AB": false,
+    "condition_count": 20,
+    "conditions": [
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Ba|V": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_1ec1f206bf87de79380756d894cc7bc2"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Ba|V": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_20c9853b450e146b0e608362fc2f56d9"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 3,
+        "accepted_AB_counts": {
+          "Ba|Ge": 1,
+          "Ba|Mn": 1,
+          "La|Co": 1
+        },
+        "dominant_accepted_AB_fraction": 0.3333333333333333,
+        "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Na|Nb": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Ba|V": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_4a1084fcbabc2f7e867be309d49cbe2b"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_5a86c2636813d6b401520d96410cc7c7"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Rb|Nb": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_64d9953c18e416a7e01500249a2bbe8d"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 2,
+        "accepted_AB_counts": {
+          "Ba|Zr": 2,
+          "La|Fe": 1
+        },
+        "dominant_accepted_AB_fraction": 0.6666666666666666,
+        "material_id": "cmr_682785369aa2b3971943559ce4e3b0ca"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "La|Fe": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_78c26d513a55ceb0d9345ce3cdf39c24"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_898ee445e8ccfce566bb0883e7821189"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_92838ea148c813c166057e99bfae3d39"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_9747df17e8f2ed98427d905413929dd6"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_98f26503186c693384501157616036cb"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Ba|Mn": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_a36c62d0c7f3713321685a5cb6488f21"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 1,
+        "accepted_AB_counts": {
+          "Ba|V": 3
+        },
+        "dominant_accepted_AB_fraction": 1.0,
+        "material_id": "cmr_bd8c8bb480ad1e9422f4b5cd79215eba"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_bf604be7ac3009a8fed955cf6716a2df"
+      },
+      {
+        "N_pass": 3,
+        "N_unique_accepted_AB": 2,
+        "accepted_AB_counts": {
+          "Ba|Ti": 2,
+          "Sr|Ti": 1
+        },
+        "dominant_accepted_AB_fraction": 0.6666666666666666,
+        "material_id": "cmr_dbcef27061099822569740c11818d051"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_e8bb6f6ece3b11691f6fbdf699fa676a"
+      },
+      {
+        "N_pass": 0,
+        "N_unique_accepted_AB": 0,
+        "accepted_AB_counts": {},
+        "dominant_accepted_AB_fraction": null,
+        "material_id": "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca"
+      }
+    ],
+    "conditions_with_accepted_output": 11,
+    "conditions_with_multiple_accepted_AB": 3,
+    "conditions_with_no_accepted_output": 9,
+    "conditions_with_single_accepted_AB": 8,
+    "latent_path": "joint"
+  },
+  "assets": {
+    "audit_cif_sha256": {
+      "cmr_11dacddcba738021fcb7a8ad9b578f91.cif": "b26bf8eb71bfcb74b4a6a04a0e1e8bcaf5a9d80b03f6c3764125a8fde4264401",
+      "cmr_1ec1f206bf87de79380756d894cc7bc2.cif": "4804021594548d7872f1b5c438f3a6645efd932f00678fd5a92d67bef515cce0",
+      "cmr_20c9853b450e146b0e608362fc2f56d9.cif": "b3d9eed0fdbab4f8dc7f20b3773bfaac18b3c89b0838ee8c2ce40d9cc741d1fd",
+      "cmr_46250f00f7e8fa01346da84ec7156cba.cif": "93aed5ae3fc03a00ea505e57c550eadb422d0d69e9a7052e5badaafda40d21f6",
+      "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197.cif": "90e560cade2ff56562a114f6f99f21d7baa5b3c551d2c5343eefbd325c45e811",
+      "cmr_4a1084fcbabc2f7e867be309d49cbe2b.cif": "c2af16ad3e9ff0018ac2e49dd229c0bb11f9e6a7823c6f05d344781fc4974227",
+      "cmr_5a86c2636813d6b401520d96410cc7c7.cif": "aa43a241900f410a08a21cfec3093969e23d599693da37594cb398e7388a6aa4",
+      "cmr_64d9953c18e416a7e01500249a2bbe8d.cif": "856097ad14299166b9c0fa1cfe401de4880f1b9631280e85ab7df9c40e6b63fc",
+      "cmr_682785369aa2b3971943559ce4e3b0ca.cif": "a7bc074a0b3460c5b78d19b934606f6ab6daa5800b9596e701050a7057294a90",
+      "cmr_78c26d513a55ceb0d9345ce3cdf39c24.cif": "2ea86d8a8bb1cc427c51855ec51b1fb26a045bcae8cf5a62582896eee35a1a7b",
+      "cmr_898ee445e8ccfce566bb0883e7821189.cif": "28f4c3eb15414dd134f93e36bef92bc1003122c1b1e797158c97eeb7c20a4697",
+      "cmr_92838ea148c813c166057e99bfae3d39.cif": "eb4207e0737aa7d75170dea301466104451e783c2ee57e41ced44ece209119da",
+      "cmr_9747df17e8f2ed98427d905413929dd6.cif": "c5e1f2206361184b08ed86effeba3841daafe94ea9180d29c295e46bb3f0812b",
+      "cmr_98f26503186c693384501157616036cb.cif": "a9b83a7a9aebd27d9118244796fcceeebd09d549d46257a07920d3a11f06d996",
+      "cmr_a36c62d0c7f3713321685a5cb6488f21.cif": "fbed4533c62f17f0830dc6747a167cf2acc87712e143dd2e91218ce1a8606919",
+      "cmr_bd8c8bb480ad1e9422f4b5cd79215eba.cif": "cf1870913bb55b549a5ef9914cf2e33df5afa6611a9c693641f572593b413727",
+      "cmr_bf604be7ac3009a8fed955cf6716a2df.cif": "f3d484c8c4a563e411e7d6bf5ef160c61506c5ce9893ee15448dfb7ffe143f32",
+      "cmr_dbcef27061099822569740c11818d051.cif": "eb0a621462800afef223dc4e733748c9dc07b2e5e3616a8ddfc0f78c6419b115",
+      "cmr_e8bb6f6ece3b11691f6fbdf699fa676a.cif": "c762eea803b4efd638dba7892181935a906073834e4d229e7e73202a603cdeaa",
+      "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca.cif": "cccf5cf4efcb5706a3a8ddb7f66fc9f698423b89af56a70b12a1f2a9ba8beb7e"
+    },
+    "audit_csv": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\audit.csv",
+    "audit_csv_sha256": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "audit_material_ids": [
+      "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "cmr_1ec1f206bf87de79380756d894cc7bc2",
+      "cmr_20c9853b450e146b0e608362fc2f56d9",
+      "cmr_46250f00f7e8fa01346da84ec7156cba",
+      "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197",
+      "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "cmr_5a86c2636813d6b401520d96410cc7c7",
+      "cmr_64d9953c18e416a7e01500249a2bbe8d",
+      "cmr_682785369aa2b3971943559ce4e3b0ca",
+      "cmr_78c26d513a55ceb0d9345ce3cdf39c24",
+      "cmr_898ee445e8ccfce566bb0883e7821189",
+      "cmr_92838ea148c813c166057e99bfae3d39",
+      "cmr_9747df17e8f2ed98427d905413929dd6",
+      "cmr_98f26503186c693384501157616036cb",
+      "cmr_a36c62d0c7f3713321685a5cb6488f21",
+      "cmr_bd8c8bb480ad1e9422f4b5cd79215eba",
+      "cmr_bf604be7ac3009a8fed955cf6716a2df",
+      "cmr_dbcef27061099822569740c11818d051",
+      "cmr_e8bb6f6ece3b11691f6fbdf699fa676a",
+      "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca"
+    ],
+    "audit_script": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_decoder.py",
+    "audit_script_sha256": "69cc3f562134cefa94f718e6478f700e24a03bce865a953f06fbfede764f9f7f",
+    "checkpoint": {
+      "git_lfs_pointer": false,
+      "metadata": {
+        "latent_dim_common": 128,
+        "latent_dim_prop": 128,
+        "latent_dim_struct": 128,
+        "max_sites": 20,
+        "num_species": 118,
+        "species_embedding_dim": 64
+      },
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+      "safe_weights_only_load": true,
+      "sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+      "size_bytes": 2840642,
+      "state_dict_tensor_count": 72,
+      "state_dict_tensors": [
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.bias",
+          "shape": [
+            3
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.weight",
+          "shape": [
+            3,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.bias",
+          "shape": [
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.weight",
+          "shape": [
+            6,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.bias",
+          "shape": [
+            2560
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.weight",
+          "shape": [
+            2560,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.bias",
+          "shape": [
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.weight",
+          "shape": [
+            118,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.weight",
+          "shape": [
+            128,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.weight",
+          "shape": [
+            64,
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.weight",
+          "shape": [
+            64,
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.bias",
+          "shape": [
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.weight",
+          "shape": [
+            2,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.weight",
+          "shape": [
+            128,
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        }
+      ],
+      "state_dict_value_count": 702405
+    },
+    "cif_root": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\data\\processed\\cmr_reconstructed\\cifs\\val",
+    "protocol": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\reports\\decoder_audit_protocol.md",
+    "protocol_expected_sha256": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769",
+    "protocol_sha256": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769"
+  },
+  "attempt_count": 2327,
+  "audit_completion": "COMPLETE",
+  "configuration": {
+    "anti_repeat_counts_reset_between_methods": true,
+    "decode_temperature": 1.25,
+    "decode_topk": 12,
+    "decode_tries_maximum_per_call": 12,
+    "fixed_real_condition_mismatch_possible": true,
+    "fixed_real_donor_condition": {
+      "family": "nitride",
+      "gap_provisional": 0.0,
+      "heat_provisional": 1.840000033378601,
+      "material_id": "cmr_11dacddcba738021fcb7a8ad9b578f91"
+    },
+    "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+    "history_reset_between_methods": true,
+    "numerical_tolerances": {
+      "atol": 1e-06,
+      "rtol": 1e-05
+    },
+    "perturbation_relative_l2": [
+      0.01,
+      0.05
+    ],
+    "python_hash_seed": "0",
+    "python_numpy_torch_rng_reset_between_methods": true,
+    "refine": true,
+    "rng_pairing_limit": "Calls begin from matched fresh seeds; branch-dependent rejection can consume different draws, so later attempts are not draw-by-draw paired across arms.",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "target_B_filter": false,
+    "x_prior_strength": 0.0
+  },
+  "controls": {
+    "both_decoder_implementations_agree": true,
+    "fixed_real_control": true,
+    "input_species_numerical_effect_max_abs": 0.0,
+    "joint_was_renormalized": false,
+    "projected_crystal_only_control": true,
+    "property_only_control": true,
+    "relative_perturbation_controls": [
+      0.01,
+      0.05
+    ],
+    "repeat_by_stage": {
+      "A_reference_assisted": {
+        "all_heads_within_tolerance": true,
+        "call_pairs": 20,
+        "heads": {
+          "adjacency": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "coordinates": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "lattice": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "species_logits": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          }
+        },
+        "maximum_absolute_difference": 0.0
+      },
+      "B_canonical_reference_free": {
+        "all_heads_within_tolerance": true,
+        "call_pairs": 20,
+        "heads": {
+          "adjacency": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "coordinates": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "lattice": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "species_logits": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          }
+        },
+        "maximum_absolute_difference": 0.0
+      },
+      "C_generation_reference_free": {
+        "all_heads_within_tolerance": true,
+        "call_pairs": 120,
+        "heads": {
+          "adjacency": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "coordinates": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "lattice": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          },
+          "species_logits": {
+            "maximum_absolute_difference": 0.0,
+            "within_tolerance": true
+          }
+        },
+        "maximum_absolute_difference": 0.0
+      }
+    },
+    "repeated_latent_exact": true,
+    "repeated_latent_maximum_absolute_difference": 0.0
+  },
+  "criteria_timing": "Metrics addendum was read after a seed-0 debug run was inspected and before this three-seed run; added criteria are post-inspection, not preregistered.",
+  "environment": {
+    "command": [
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_decoder.py"
+    ],
+    "device": "cpu",
+    "git": {
+      "branch": "main",
+      "commit": "7c6a4af66bf5b0673baeed2afe5d996967d3f0f5",
+      "status_short": [
+        "?? prompts/",
+        "?? reports/",
+        "?? scripts/audit_decoder.py",
+        "?? scripts/audit_split_balance.py",
+        "?? scripts/smoke_forward.py",
+        "?? tests/test_decoder_audit.py",
+        "?? tests/test_smoke_forward.py",
+        "?? tests/test_split_balance.py"
+      ]
+    },
+    "interpreter": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "pymatgen": "2025.10.7",
+      "scipy": "1.15.3",
+      "torch": "2.10.0+cpu"
+    },
+    "platform": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "torch": "2.10.0+cpu"
+  },
+  "execution_integrity": "PASSED",
+  "execution_success": true,
+  "failure_attempt_count": 2140,
+  "final_control_comparisons": {
+    "crystal": {
+      "attempt_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "both_passed": 23,
+      "control": "crystal",
+      "endpoint_changed_fraction": 0.48333333333333334,
+      "formula_changed_given_both_passed_fraction": 0.8260869565217391,
+      "joint_minus_control_attempt_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_endpoint_source_AB_recovery": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_passed_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "paired_draws": 60,
+      "passed_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "source_AB_recovery_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      }
+    },
+    "fixed_real": {
+      "attempt_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "both_passed": 33,
+      "control": "fixed_real",
+      "endpoint_changed_fraction": 0.55,
+      "formula_changed_given_both_passed_fraction": 1.0,
+      "joint_minus_control_attempt_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_endpoint_source_AB_recovery": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_passed_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "paired_draws": 60,
+      "passed_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "source_AB_recovery_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      }
+    },
+    "joint_perturb_0p01": {
+      "attempt_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "both_passed": 32,
+      "control": "joint_perturb_0p01",
+      "endpoint_changed_fraction": 0.1,
+      "formula_changed_given_both_passed_fraction": 0.15625,
+      "joint_minus_control_attempt_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_endpoint_source_AB_recovery": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_passed_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "paired_draws": 60,
+      "passed_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "source_AB_recovery_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      }
+    },
+    "joint_perturb_0p05": {
+      "attempt_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "both_passed": 33,
+      "control": "joint_perturb_0p05",
+      "endpoint_changed_fraction": 0.21666666666666667,
+      "formula_changed_given_both_passed_fraction": 0.3939393939393939,
+      "joint_minus_control_attempt_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_endpoint_source_AB_recovery": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_passed_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "paired_draws": 60,
+      "passed_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "source_AB_recovery_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      }
+    },
+    "property": {
+      "attempt_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "both_passed": 33,
+      "control": "property",
+      "endpoint_changed_fraction": 0.5166666666666667,
+      "formula_changed_given_both_passed_fraction": 0.9393939393939394,
+      "joint_minus_control_attempt_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_endpoint_source_AB_recovery": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "joint_minus_control_passed_source_AB_recovery_rate": {
+        "bootstrap_resamples": 10000,
+        "bootstrap_seed": 20260923,
+        "ci95_high": 0.0,
+        "ci95_low": 0.0,
+        "independent_groups": 20,
+        "mean": 0.0,
+        "median": 0.0,
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      "paired_draws": 60,
+      "passed_source_AB_recovery_rate_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "source_AB_recovery_difference_by_seed": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      }
+    }
+  },
+  "generated_at_utc": "2026-09-23T11:44:32.198972+00:00",
+  "generation_projection": {
+    "X_recovery_credited_as_learned": false,
+    "deduplication_in_per_call_audit": false,
+    "final_coordinates": "fixed five-site cubic Pm-3m template",
+    "final_lattice": "ionic-radius clip(2*(r_B+r_X), 3, 8) cubic cell",
+    "raw_coordinates_used_in_final_cif": false,
+    "raw_lattice_used_in_final_cif": false,
+    "source_X_forced_by_declared_family_mask": true
+  },
+  "hard_checks": {
+    "all_instrumented_endpoints_match_baseline": true,
+    "all_latents_finite": true,
+    "all_probability_rows_valid": true,
+    "all_unmasked_heads_finite": true,
+    "attempt_accounting_complete": true,
+    "equivalent_B_C_within_tolerance": true,
+    "frozen_audit_hash": true,
+    "frozen_checkpoint_hash": true,
+    "frozen_eval_models": true,
+    "frozen_protocol_configuration": true,
+    "frozen_protocol_hash": true,
+    "input_species_argument_has_no_numerical_effect": true,
+    "passed_source_AB_accounting_consistent": true,
+    "python_hash_seed_is_zero": true,
+    "repeated_call_within_tolerance": true,
+    "site_mappings_valid": true,
+    "strict_generation_checkpoint_load": true,
+    "strict_training_checkpoint_load": true
+  },
+  "harness_checks": {
+    "all_instrumented_endpoints_match_baseline": true,
+    "attempt_accounting_complete": true,
+    "frozen_audit_hash": true,
+    "frozen_checkpoint_hash": true,
+    "frozen_eval_models": true,
+    "frozen_protocol_configuration": true,
+    "frozen_protocol_hash": true,
+    "passed_source_AB_accounting_consistent": true,
+    "python_hash_seed_is_zero": true,
+    "site_mappings_valid": true,
+    "strict_generation_checkpoint_load": true,
+    "strict_training_checkpoint_load": true
+  },
+  "independent_composition_groups": 20,
+  "input_count": 20,
+  "label_compatibility": "unresolved; CMR labels used only as provisional numerical inputs",
+  "latent_metadata": {
+    "cmr_11dacddcba738021fcb7a8ad9b578f91": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.2922542095184326,
+        "mean": -0.0071313087828457355,
+        "min": -0.3210657835006714,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.2184726893901825,
+        "mean": -0.008835113607347012,
+        "min": -0.5059989094734192,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7671629190444946,
+      "crystal_property_l2": 0.6824033856391907,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9401786923408508,
+        "max": 0.251901775598526,
+        "mean": -0.00807192176580429,
+        "min": -0.30983421206474304,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9418712854385376,
+        "max": 0.2545539438724518,
+        "mean": -0.008426764979958534,
+        "min": -0.3105962872505188,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00939990021288395,
+          "direction_seed": 1877718696,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.0469994992017746,
+          "direction_seed": 1877718696,
+          "observed_relative_l2": 0.04999999701976776,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3084896.25,
+        "max": 869387.6875,
+        "mean": 33214.12109375,
+        "min": -779802.375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 91.0311279296875,
+        "max": 29.462499618530273,
+        "mean": 0.3328038454055786,
+        "min": -20.56728172302246,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_1ec1f206bf87de79380756d894cc7bc2": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.38210931420326233,
+        "mean": 0.006245386321097612,
+        "min": -0.3871510326862335,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3188916742801666,
+        "mean": -0.0011674882844090462,
+        "min": -0.3124530017375946,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.8154595494270325,
+      "crystal_property_l2": 0.607520341873169,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9527485370635986,
+        "max": 0.3505004942417145,
+        "mean": 0.0025389487855136395,
+        "min": -0.32248008251190186,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9542617797851562,
+        "max": 0.35123229026794434,
+        "mean": 0.002565316390246153,
+        "min": -0.32324063777923584,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9612358212471008,
+        "max": 0.354159414768219,
+        "mean": 0.002670787973329425,
+        "min": -0.3262828290462494,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009527485817670822,
+          "direction_seed": 3268137358,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04763743281364441,
+          "direction_seed": 3268137358,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 4847432.5,
+        "max": 977756.25,
+        "mean": -53513.96484375,
+        "min": -1217956.625,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1014.9555053710938,
+        "max": 166.1103057861328,
+        "mean": -23.121448516845703,
+        "min": -213.40939331054688,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_20c9853b450e146b0e608362fc2f56d9": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3911387324333191,
+        "mean": 0.00822374876588583,
+        "min": -0.41449230909347534,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.33579447865486145,
+        "mean": 0.0027980259619653225,
+        "min": -0.35397782921791077,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7946593761444092,
+      "crystal_property_l2": 0.6408442854881287,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9472748637199402,
+        "max": 0.36346662044525146,
+        "mean": 0.00551088759675622,
+        "min": -0.3483576774597168,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9469718337059021,
+        "max": 0.3623559772968292,
+        "mean": 0.0054820841178298,
+        "min": -0.34926244616508484,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9467074275016785,
+        "max": 0.35791346430778503,
+        "mean": 0.005366869270801544,
+        "min": -0.3528815507888794,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009472748264670372,
+          "direction_seed": 2621137480,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04736374318599701,
+          "direction_seed": 2621137480,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 4284249.0,
+        "max": 892288.25,
+        "mean": -41409.37890625,
+        "min": -1066859.375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 512.9024047851562,
+        "max": 97.55210876464844,
+        "mean": -7.451476097106934,
+        "min": -119.40911102294922,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_46250f00f7e8fa01346da84ec7156cba": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3456128239631653,
+        "mean": 0.0027588470838963985,
+        "min": -0.25805187225341797,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.32314497232437134,
+        "mean": -0.0013516360195353627,
+        "min": -0.4226914346218109,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7783645391464233,
+      "crystal_property_l2": 0.6657859683036804,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9429646134376526,
+        "max": 0.3343788981437683,
+        "mean": 0.0007036056485958397,
+        "min": -0.34037166833877563,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9424831867218018,
+        "max": 0.33422785997390747,
+        "mean": 0.000592269585467875,
+        "min": -0.34146466851234436,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9414999485015869,
+        "max": 0.3336237370967865,
+        "mean": 0.0001469215494580567,
+        "min": -0.34583666920661926,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009429645724594593,
+          "direction_seed": 1856858858,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04714822769165039,
+          "direction_seed": 1856858858,
+          "observed_relative_l2": 0.04999999701976776,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1661399.0,
+        "max": 519171.40625,
+        "mean": -10562.314453125,
+        "min": -540852.25,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 116.68720245361328,
+        "max": 22.70490837097168,
+        "mean": 0.928178071975708,
+        "min": -24.797914505004883,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.2601069211959839,
+        "mean": 0.01342000626027584,
+        "min": -0.3811343014240265,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.31672874093055725,
+        "mean": 0.011245612055063248,
+        "min": -0.33920571208000183,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7845982909202576,
+      "crystal_property_l2": 0.6563562750816345,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9446157813072205,
+        "max": 0.2646425664424896,
+        "mean": 0.012332810088992119,
+        "min": -0.34214961528778076,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9447879791259766,
+        "max": 0.26655131578445435,
+        "mean": 0.01227676309645176,
+        "min": -0.3422085642814636,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9464197158813477,
+        "max": 0.27418628334999084,
+        "mean": 0.012052573263645172,
+        "min": -0.34244439005851746,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00944615714251995,
+          "direction_seed": 2163122904,
+          "observed_relative_l2": 0.009999998845160007,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.0472307950258255,
+          "direction_seed": 2163122904,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2240207.25,
+        "max": 480380.78125,
+        "mean": -23665.70703125,
+        "min": -548798.25,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 196.46121215820312,
+        "max": 46.29473114013672,
+        "mean": 1.3847687244415283,
+        "min": -39.56182098388672,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_4a1084fcbabc2f7e867be309d49cbe2b": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.3902667164802551,
+        "mean": 0.007808641996234655,
+        "min": -0.40626996755599976,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.3169797956943512,
+        "mean": 0.003416299819946289,
+        "min": -0.2763613164424896,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7839425206184387,
+      "crystal_property_l2": 0.6573547124862671,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9444422125816345,
+        "max": 0.35362327098846436,
+        "mean": 0.005612471606582403,
+        "min": -0.3413156270980835,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9458604454994202,
+        "max": 0.3527567386627197,
+        "mean": 0.005653561092913151,
+        "min": -0.3416518270969391,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9524486660957336,
+        "max": 0.349290668964386,
+        "mean": 0.005817918572574854,
+        "min": -0.34299662709236145,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009444422088563442,
+          "direction_seed": 3526882204,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.047222111374139786,
+          "direction_seed": 3526882204,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3851675.0,
+        "max": 785085.1875,
+        "mean": -43077.640625,
+        "min": -960767.125,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 416.7386474609375,
+        "max": 98.16553497314453,
+        "mean": 0.6439788341522217,
+        "min": -94.72953033447266,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_5a86c2636813d6b401520d96410cc7c7": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.3642272353172302,
+        "mean": 0.003740905551239848,
+        "min": -0.25530123710632324,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.27329200506210327,
+        "mean": 4.173329216428101e-06,
+        "min": -0.5601387619972229,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7581955790519714,
+      "crystal_property_l2": 0.6954200267791748,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9376020431518555,
+        "max": 0.31875962018966675,
+        "mean": 0.0018725390546023846,
+        "min": -0.31827178597450256,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9382703900337219,
+        "max": 0.3192858397960663,
+        "mean": 0.001698492094874382,
+        "min": -0.31775689125061035,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9418724179267883,
+        "max": 0.3213907480239868,
+        "mean": 0.0010023042559623718,
+        "min": -0.3156973421573639,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009376021102070808,
+          "direction_seed": 3312272830,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04688010364770889,
+          "direction_seed": 3312272830,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3356066.0,
+        "max": 855186.75,
+        "mean": 29968.05078125,
+        "min": -825142.75,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 83.53878021240234,
+        "max": 30.850942611694336,
+        "mean": 0.19245362281799316,
+        "min": -20.522560119628906,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_64d9953c18e416a7e01500249a2bbe8d": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3381008803844452,
+        "mean": 0.003410508157685399,
+        "min": -0.2741668224334717,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999998807907104,
+        "max": 0.34743478894233704,
+        "mean": 0.003564216662198305,
+        "min": -0.3586309850215912,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.779603123664856,
+      "crystal_property_l2": 0.6639231443405151,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9432929158210754,
+        "max": 0.3407827615737915,
+        "mean": 0.0034873629920184612,
+        "min": -0.2938123643398285,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.943407416343689,
+        "max": 0.34192463755607605,
+        "mean": 0.0034532309509813786,
+        "min": -0.29394105076789856,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9448072910308838,
+        "max": 0.34649214148521423,
+        "mean": 0.003316703252494335,
+        "min": -0.29445579648017883,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009432929567992687,
+          "direction_seed": 3751346139,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04716464877128601,
+          "direction_seed": 3751346139,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1544345.25,
+        "max": 472724.21875,
+        "mean": -11652.6572265625,
+        "min": -492392.65625,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 127.99057006835938,
+        "max": 24.948060989379883,
+        "mean": 1.103456735610962,
+        "min": -26.32479476928711,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_682785369aa2b3971943559ce4e3b0ca": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.34849774837493896,
+        "mean": 0.011410035192966461,
+        "min": -0.37626132369041443,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999998807907104,
+        "max": 0.2901662290096283,
+        "mean": 0.00869791954755783,
+        "min": -0.3605322539806366,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7899375557899475,
+      "crystal_property_l2": 0.6481704711914062,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9460278749465942,
+        "max": 0.3193320035934448,
+        "mean": 0.010053979232907295,
+        "min": -0.3362419307231903,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9468994140625,
+        "max": 0.31996333599090576,
+        "mean": 0.010123318992555141,
+        "min": -0.3358493745326996,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9513185620307922,
+        "max": 0.3224887251853943,
+        "mean": 0.01040068082511425,
+        "min": -0.3342791497707367,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009460278786718845,
+          "direction_seed": 751398217,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04730139300227165,
+          "direction_seed": 751398217,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2582524.5,
+        "max": 455936.71875,
+        "mean": -29339.208984375,
+        "min": -672748.8125,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 292.96112060546875,
+        "max": 67.57545471191406,
+        "mean": -0.7631263732910156,
+        "min": -62.550819396972656,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_78c26d513a55ceb0d9345ce3cdf39c24": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.3492234945297241,
+        "mean": -0.012894956395030022,
+        "min": -0.27468517422676086,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3189408481121063,
+        "mean": -0.01938481256365776,
+        "min": -0.4808030128479004,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7815485596656799,
+      "crystal_property_l2": 0.6609863638877869,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.943808376789093,
+        "max": 0.3340821862220764,
+        "mean": -0.016139885410666466,
+        "min": -0.283042848110199,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9435811042785645,
+        "max": 0.3352985680103302,
+        "mean": -0.016147984191775322,
+        "min": -0.28181377053260803,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9436159729957581,
+        "max": 0.3401641249656677,
+        "mean": -0.01618037559092045,
+        "min": -0.27689751982688904,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00943808350712061,
+          "direction_seed": 3379067380,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04719042032957077,
+          "direction_seed": 3379067380,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1711648.5,
+        "max": 547044.0625,
+        "mean": 4259.642578125,
+        "min": -669856.375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 93.03416442871094,
+        "max": 29.904333114624023,
+        "mean": 0.2748250663280487,
+        "min": -24.428688049316406,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_898ee445e8ccfce566bb0883e7821189": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.30139273405075073,
+        "mean": -0.011850372888147831,
+        "min": -0.3340545892715454,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.30423927307128906,
+        "mean": -0.015671418979763985,
+        "min": -0.5723766088485718,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7852213978767395,
+      "crystal_property_l2": 0.6554061770439148,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9447807669639587,
+        "max": 0.3028160035610199,
+        "mean": -0.01376089733093977,
+        "min": -0.3158297538757324,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9439278841018677,
+        "max": 0.3021131455898285,
+        "mean": -0.013751629739999771,
+        "min": -0.31659162044525146,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9414575099945068,
+        "max": 0.29930177330970764,
+        "mean": -0.013714561238884926,
+        "min": -0.31963908672332764,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00944780744612217,
+          "direction_seed": 2349865508,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.047239039093256,
+          "direction_seed": 2349865508,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2596813.0,
+        "max": 802620.875,
+        "mean": 19965.712890625,
+        "min": -1072313.625,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 92.31414031982422,
+        "max": 32.175445556640625,
+        "mean": 0.010267525911331177,
+        "min": -26.22903060913086,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_92838ea148c813c166057e99bfae3d39": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0000001192092896,
+        "max": 0.301143616437912,
+        "mean": 0.008366628549993038,
+        "min": -0.2784389853477478,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.3706452250480652,
+        "mean": 0.006399371661245823,
+        "min": -0.3324955105781555,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7746089100837708,
+      "crystal_property_l2": 0.6714030504226685,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9419684410095215,
+        "max": 0.33297020196914673,
+        "mean": 0.0073830001056194305,
+        "min": -0.2467743456363678,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.942410945892334,
+        "max": 0.33331817388534546,
+        "mean": 0.007227168418467045,
+        "min": -0.2474261373281479,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9451181292533875,
+        "max": 0.33471012115478516,
+        "mean": 0.006603846792131662,
+        "min": -0.25003331899642944,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00941968522965908,
+          "direction_seed": 1603125522,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04709842428565025,
+          "direction_seed": 1603125522,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3054985.25,
+        "max": 870048.0625,
+        "mean": -12152.1474609375,
+        "min": -940460.9375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 138.95468139648438,
+        "max": 28.34421730041504,
+        "mean": 1.2846910953521729,
+        "min": -29.05290985107422,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_9747df17e8f2ed98427d905413929dd6": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999998807907104,
+        "max": 0.36436620354652405,
+        "mean": -0.008334407582879066,
+        "min": -0.37602344155311584,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3386026620864868,
+        "mean": -0.0110898083075881,
+        "min": -0.4145820736885071,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7675617337226868,
+      "crystal_property_l2": 0.6818185448646545,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9400961399078369,
+        "max": 0.35148441791534424,
+        "mean": -0.00971210841089487,
+        "min": -0.3305702209472656,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9417755007743835,
+        "max": 0.3528085947036743,
+        "mean": -0.00979215931147337,
+        "min": -0.3329395055770874,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9493942856788635,
+        "max": 0.35810524225234985,
+        "mean": -0.010112368501722813,
+        "min": -0.3424166440963745,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009400960989296436,
+          "direction_seed": 3393229185,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04700480401515961,
+          "direction_seed": 3393229185,
+          "observed_relative_l2": 0.04999999701976776,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 4055238.5,
+        "max": 1125358.375,
+        "mean": 24127.876953125,
+        "min": -949173.0,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 128.63377380371094,
+        "max": 30.79939842224121,
+        "mean": 0.7060980796813965,
+        "min": -33.54361343383789,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_98f26503186c693384501157616036cb": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.31910842657089233,
+        "mean": 0.00047734181862324476,
+        "min": -0.20747947692871094,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.2380957156419754,
+        "mean": -0.001819644938223064,
+        "min": -0.6135860681533813,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7503981590270996,
+      "crystal_property_l2": 0.7065435647964478,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9355207681655884,
+        "max": 0.27860206365585327,
+        "mean": -0.0006711516762152314,
+        "min": -0.3457118272781372,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.935048520565033,
+        "max": 0.2777784466743469,
+        "mean": -0.0005464813439175487,
+        "min": -0.3457127511501312,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9340946078300476,
+        "max": 0.2744840085506439,
+        "mean": -4.7798617742955685e-05,
+        "min": -0.3457165062427521,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009355207905173302,
+          "direction_seed": 1278173755,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04677603766322136,
+          "direction_seed": 1278173755,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2760174.0,
+        "max": 621276.0625,
+        "mean": 24849.796875,
+        "min": -920977.4375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 86.75798034667969,
+        "max": 32.783504486083984,
+        "mean": 0.003113880753517151,
+        "min": -25.137081146240234,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_a36c62d0c7f3713321685a5cb6488f21": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.32194194197654724,
+        "mean": 0.012767115607857704,
+        "min": -0.3775466978549957,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.2892281413078308,
+        "mean": 0.011126689612865448,
+        "min": -0.34413447976112366,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7905402183532715,
+      "crystal_property_l2": 0.6472399830818176,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9461871385574341,
+        "max": 0.2751467525959015,
+        "mean": 0.011946901679039001,
+        "min": -0.33558687567710876,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9462081789970398,
+        "max": 0.2747722864151001,
+        "mean": 0.011909019201993942,
+        "min": -0.3363467752933502,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9472375512123108,
+        "max": 0.27327442169189453,
+        "mean": 0.011757485568523407,
+        "min": -0.3393864333629608,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009461871348321438,
+          "direction_seed": 2162830238,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.047309353947639465,
+          "direction_seed": 2162830238,
+          "observed_relative_l2": 0.04999999701976776,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2402699.0,
+        "max": 443418.625,
+        "mean": -25953.9296875,
+        "min": -647099.6875,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 238.8567657470703,
+        "max": 57.23143768310547,
+        "mean": 0.5190238356590271,
+        "min": -47.30147933959961,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_bd8c8bb480ad1e9422f4b5cd79215eba": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.38765355944633484,
+        "mean": 0.007889916189014912,
+        "min": -0.4234062433242798,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3341902494430542,
+        "mean": 0.0015265514375641942,
+        "min": -0.3444536030292511,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7942312955856323,
+      "crystal_property_l2": 0.641511857509613,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.947161853313446,
+        "max": 0.3609219193458557,
+        "mean": 0.004708233289420605,
+        "min": -0.3500248193740845,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9455851316452026,
+        "max": 0.3593680262565613,
+        "mean": 0.004801396280527115,
+        "min": -0.3494103252887726,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9402065277099609,
+        "max": 0.35315245389938354,
+        "mean": 0.005174046847969294,
+        "min": -0.3469524085521698,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009471619501709938,
+          "direction_seed": 2349840353,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04735809564590454,
+          "direction_seed": 2349840353,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3665347.0,
+        "max": 761893.4375,
+        "mean": -33942.23046875,
+        "min": -870688.9375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 611.7493896484375,
+        "max": 113.17835998535156,
+        "mean": -10.771167755126953,
+        "min": -139.41033935546875,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_bf604be7ac3009a8fed955cf6716a2df": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.27212661504745483,
+        "mean": -0.01000980194658041,
+        "min": -0.38469579815864563,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.25092196464538574,
+        "mean": -0.012713225558400154,
+        "min": -0.4333954155445099,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7641596794128418,
+      "crystal_property_l2": 0.6867902278900146,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9391909837722778,
+        "max": 0.2615242898464203,
+        "mean": -0.01136151421815157,
+        "min": -0.3386666178703308,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9389714002609253,
+        "max": 0.26278311014175415,
+        "mean": -0.011278867721557617,
+        "min": -0.3377523124217987,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9390325546264648,
+        "max": 0.2678184509277344,
+        "mean": -0.010948281735181808,
+        "min": -0.3340950310230255,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009391910396516323,
+          "direction_seed": 2460956796,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04695954918861389,
+          "direction_seed": 2460956796,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 3570002.25,
+        "max": 926906.1875,
+        "mean": 24503.380859375,
+        "min": -859222.5,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 113.0138168334961,
+        "max": 26.98106575012207,
+        "mean": 0.5794682502746582,
+        "min": -29.131938934326172,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_dbcef27061099822569740c11818d051": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.23168577253818512,
+        "mean": -0.00940525159239769,
+        "min": -0.3446822166442871,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.19920307397842407,
+        "mean": -0.014018726535141468,
+        "min": -0.4547116458415985,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7849243879318237,
+      "crystal_property_l2": 0.6558591723442078,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9447021484375,
+        "max": 0.21037708222866058,
+        "mean": -0.011711988598108292,
+        "min": -0.399696946144104,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9451144337654114,
+        "max": 0.2112433761358261,
+        "mean": -0.011704805307090282,
+        "min": -0.3993878662586212,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9477037787437439,
+        "max": 0.21470853686332703,
+        "mean": -0.011676070280373096,
+        "min": -0.3981514871120453,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009447021409869194,
+          "direction_seed": 268956514,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04723511263728142,
+          "direction_seed": 268956514,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1960746.375,
+        "max": 621757.4375,
+        "mean": 4786.205078125,
+        "min": -717682.5,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 99.84832763671875,
+        "max": 27.150056838989258,
+        "mean": 0.5931918621063232,
+        "min": -22.053565979003906,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_e8bb6f6ece3b11691f6fbdf699fa676a": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.3116700351238251,
+        "mean": 0.00549741368740797,
+        "min": -0.23761239647865295,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.25277000665664673,
+        "mean": 0.0016824081540107727,
+        "min": -0.5992702841758728,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7553499341011047,
+      "crystal_property_l2": 0.6995002627372742,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9368430972099304,
+        "max": 0.2707107663154602,
+        "mean": 0.0035899097565561533,
+        "min": -0.32674020528793335,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9370147585868835,
+        "max": 0.27146127820014954,
+        "mean": 0.0035979789681732655,
+        "min": -0.32691246271133423,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9386364817619324,
+        "max": 0.27446338534355164,
+        "mean": 0.0036302576772868633,
+        "min": -0.32760146260261536,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.009368430823087692,
+          "direction_seed": 1747169406,
+          "observed_relative_l2": 0.009999999776482582,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.04684215784072876,
+          "direction_seed": 1747169406,
+          "observed_relative_l2": 0.05000000447034836,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2752896.75,
+        "max": 632712.8125,
+        "mean": 25732.96484375,
+        "min": -820825.5625,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 83.8966064453125,
+        "max": 32.06321716308594,
+        "mean": 0.07046282291412354,
+        "min": -23.270435333251953,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    },
+    "cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca": {
+      "common_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 1.0,
+        "max": 0.2893759608268738,
+        "mean": -0.004891909658908844,
+        "min": -0.3101111650466919,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "common_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9999999403953552,
+        "max": 0.2142667919397354,
+        "mean": -0.006382897030562162,
+        "min": -0.6145190000534058,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "crystal_property_cosine": 0.7718087434768677,
+      "crystal_property_l2": 0.6755608916282654,
+      "fixed_real": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9399900436401367,
+        "max": 0.25123873353004456,
+        "mean": -0.007983211427927017,
+        "min": -0.3096436858177185,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+      "joint": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9412248730659485,
+        "max": 0.251821368932724,
+        "mean": -0.0056374031119048595,
+        "min": -0.34928178787231445,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p01": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9412270784378052,
+        "max": 0.2522144615650177,
+        "mean": -0.005681986920535564,
+        "min": -0.3501090109348297,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_perturb_0p05": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 0.9421764612197876,
+        "max": 0.2537868320941925,
+        "mean": -0.005860322620719671,
+        "min": -0.35341793298721313,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "joint_was_renormalized": false,
+      "perturbations": {
+        "joint_perturb_0p01": {
+          "delta_l2": 0.00941224955022335,
+          "direction_seed": 2798343365,
+          "observed_relative_l2": 0.010000000707805157,
+          "renormalized": false,
+          "requested_relative_l2": 0.01
+        },
+        "joint_perturb_0p05": {
+          "delta_l2": 0.0470612458884716,
+          "direction_seed": 2798343365,
+          "observed_relative_l2": 0.05000000074505806,
+          "renormalized": false,
+          "requested_relative_l2": 0.05
+        }
+      },
+      "raw_crystal": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 2521695.75,
+        "max": 667905.625,
+        "mean": 21363.13671875,
+        "min": -954347.4375,
+        "shape": [
+          1,
+          128
+        ]
+      },
+      "raw_property": {
+        "finite": true,
+        "finite_fraction": 1.0,
+        "l2_norm": 89.4044418334961,
+        "max": 32.930320739746094,
+        "mean": -0.030719056725502014,
+        "min": -26.013019561767578,
+        "shape": [
+          1,
+          128
+        ]
+      }
+    }
+  },
+  "model_compatibility": {
+    "B_C_maximum_absolute_difference": 0.0,
+    "deliberate_adjacency_difference": "Canonical decoder returns learned node-dot-product adjacency; generation decoder returns all ones, so adjacency is not included in B/C equivalence.",
+    "generation_is_separate_implementation": true,
+    "generation_model": {
+      "missing_keys": [],
+      "parameter_count": 702405,
+      "strict_state_dict_load": true,
+      "unexpected_keys": []
+    },
+    "source_references": {
+      "common_latent": "MEIDNet-main/meidnet/model.py:604-629",
+      "decode_and_filter": "MEIDNet-main/meidnet/design.py:934-1088",
+      "full_forward": "MEIDNet-main/meidnet/model.py:631-655",
+      "generation_decoder": "MEIDNet-main/meidnet/design.py:401-447"
+    },
+    "training_model": {
+      "all_parameters_frozen": true,
+      "constructor_compatible": true,
+      "device": "cpu",
+      "missing_keys": [],
+      "parameter_count": 702405,
+      "strict_state_dict_load": true,
+      "torch_version": "2.10.0+cpu",
+      "training_mode": false,
+      "unexpected_keys": []
+    }
+  },
+  "model_state_checks": {
+    "generation_model_all_frozen": true,
+    "generation_model_eval": true,
+    "training_model_all_frozen": true,
+    "training_model_eval": true
+  },
+  "pretrained_training_overlap": "unknown",
+  "protected_asset_hashes_unchanged": true,
+  "protected_asset_sha256": {
+    "MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "MEIDNet-main\\meidnet\\design.py": "94768c0305abf3dc0a1cc9a0baa58e9c152905629c3d05880d29d375b157054b",
+    "MEIDNet-main\\meidnet\\model.py": "6aab75391ec5f5a1128eacbc8bd9d50dd645081eb89d6dc679a32070bfe168d2",
+    "data\\processed\\cmr_reconstructed\\audit.csv": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_11dacddcba738021fcb7a8ad9b578f91.cif": "b26bf8eb71bfcb74b4a6a04a0e1e8bcaf5a9d80b03f6c3764125a8fde4264401",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_1ec1f206bf87de79380756d894cc7bc2.cif": "4804021594548d7872f1b5c438f3a6645efd932f00678fd5a92d67bef515cce0",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_20c9853b450e146b0e608362fc2f56d9.cif": "b3d9eed0fdbab4f8dc7f20b3773bfaac18b3c89b0838ee8c2ce40d9cc741d1fd",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_46250f00f7e8fa01346da84ec7156cba.cif": "93aed5ae3fc03a00ea505e57c550eadb422d0d69e9a7052e5badaafda40d21f6",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197.cif": "90e560cade2ff56562a114f6f99f21d7baa5b3c551d2c5343eefbd325c45e811",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_4a1084fcbabc2f7e867be309d49cbe2b.cif": "c2af16ad3e9ff0018ac2e49dd229c0bb11f9e6a7823c6f05d344781fc4974227",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_5a86c2636813d6b401520d96410cc7c7.cif": "aa43a241900f410a08a21cfec3093969e23d599693da37594cb398e7388a6aa4",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_64d9953c18e416a7e01500249a2bbe8d.cif": "856097ad14299166b9c0fa1cfe401de4880f1b9631280e85ab7df9c40e6b63fc",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_682785369aa2b3971943559ce4e3b0ca.cif": "a7bc074a0b3460c5b78d19b934606f6ab6daa5800b9596e701050a7057294a90",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_78c26d513a55ceb0d9345ce3cdf39c24.cif": "2ea86d8a8bb1cc427c51855ec51b1fb26a045bcae8cf5a62582896eee35a1a7b",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_898ee445e8ccfce566bb0883e7821189.cif": "28f4c3eb15414dd134f93e36bef92bc1003122c1b1e797158c97eeb7c20a4697",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_92838ea148c813c166057e99bfae3d39.cif": "eb4207e0737aa7d75170dea301466104451e783c2ee57e41ced44ece209119da",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_9747df17e8f2ed98427d905413929dd6.cif": "c5e1f2206361184b08ed86effeba3841daafe94ea9180d29c295e46bb3f0812b",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_98f26503186c693384501157616036cb.cif": "a9b83a7a9aebd27d9118244796fcceeebd09d549d46257a07920d3a11f06d996",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_a36c62d0c7f3713321685a5cb6488f21.cif": "fbed4533c62f17f0830dc6747a167cf2acc87712e143dd2e91218ce1a8606919",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_bd8c8bb480ad1e9422f4b5cd79215eba.cif": "cf1870913bb55b549a5ef9914cf2e33df5afa6611a9c693641f572593b413727",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_bf604be7ac3009a8fed955cf6716a2df.cif": "f3d484c8c4a563e411e7d6bf5ef160c61506c5ce9893ee15448dfb7ffe143f32",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_dbcef27061099822569740c11818d051.cif": "eb0a621462800afef223dc4e733748c9dc07b2e5e3616a8ddfc0f78c6419b115",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_e8bb6f6ece3b11691f6fbdf699fa676a.cif": "c762eea803b4efd638dba7892181935a906073834e4d229e7e73202a603cdeaa",
+    "data\\processed\\cmr_reconstructed\\cifs\\val\\cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca.cif": "cccf5cf4efcb5706a3a8ddb7f66fc9f698423b89af56a70b12a1f2a9ba8beb7e",
+    "data\\processed\\cmr_reconstructed\\test.csv": "c97e67afd29e93ba1f5427b91d40a52dc21623aba3259b3953cfeee91c60fa0d",
+    "data\\processed\\cmr_reconstructed\\train.csv": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1",
+    "data\\processed\\cmr_reconstructed\\val.csv": "01666020b7327a108279b4eefea3092ded429809c39e0dc4c11160bbb00d3041",
+    "reports\\decoder_audit_protocol.md": "ce6b21e5b933cde0ab57c4783f6564ab57c6bff58bcc2bb65281d8273c53c769",
+    "scripts\\audit_decoder.py": "69cc3f562134cefa94f718e6478f700e24a03bce865a953f06fbfede764f9f7f"
+  },
+  "raw_geometry": {
+    "A_reference_assisted": {
+      "examples": 20,
+      "finite_positive_volume_count": 20,
+      "legal_cell_count": 20,
+      "mean_lattice_angle_absolute_error_degrees": 0.01802891492843628,
+      "mean_lattice_length_absolute_error_angstrom": 0.09998009105523428,
+      "mean_same_slot_periodic_rms_angstrom": 0.3506579405699094,
+      "mean_species_matched_periodic_rms_angstrom": 0.349294139581012,
+      "median_relative_volume_error": 0.07121036989577018,
+      "minimum_periodic_distance_range_angstrom": [
+        1.189181626545045,
+        2.016973298735562
+      ],
+      "simple_plausibility_count": 20,
+      "structure_matcher_scale_false_count": 18,
+      "structure_matcher_scale_true_count": 18,
+      "structure_matcher_status_counts": {
+        "composition_incompatible": 2,
+        "matched": 18
+      },
+      "valid_lattice_angle_error_count": 20,
+      "valid_lattice_length_error_count": 20,
+      "valid_minimum_periodic_distance_count": 20,
+      "valid_relative_volume_error_count": 20,
+      "valid_same_slot_displacement_count": 20,
+      "valid_species_matched_displacement_count": 18
+    },
+    "B_reference_free": {
+      "examples": 20,
+      "finite_positive_volume_count": 20,
+      "legal_cell_count": 20,
+      "mean_lattice_angle_absolute_error_degrees": 0.01802891492843628,
+      "mean_lattice_length_absolute_error_angstrom": 0.09998009105523428,
+      "mean_same_slot_periodic_rms_angstrom": 2.0993805829346446,
+      "mean_species_matched_periodic_rms_angstrom": null,
+      "median_relative_volume_error": 0.07121036989577018,
+      "minimum_periodic_distance_range_angstrom": [
+        0.2448272422781056,
+        1.250115366180342
+      ],
+      "simple_plausibility_count": 20,
+      "structure_matcher_scale_false_count": 0,
+      "structure_matcher_scale_true_count": 0,
+      "structure_matcher_status_counts": {
+        "composition_incompatible": 20
+      },
+      "valid_lattice_angle_error_count": 20,
+      "valid_lattice_length_error_count": 20,
+      "valid_minimum_periodic_distance_count": 20,
+      "valid_relative_volume_error_count": 20,
+      "valid_same_slot_displacement_count": 20,
+      "valid_species_matched_displacement_count": 0
+    },
+    "C_reference_free_by_latent_path": {
+      "crystal": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.06671574711799622,
+        "mean_lattice_length_absolute_error_angstrom": 0.8605871001879374,
+        "mean_same_slot_periodic_rms_angstrom": 1.9111465175518432,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.7319802236967363,
+        "minimum_periodic_distance_range_angstrom": [
+          0.4001443335279649,
+          2.0480306664265853
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      },
+      "fixed_real": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.07001101970672607,
+        "mean_lattice_length_absolute_error_angstrom": 0.254667192697525,
+        "mean_same_slot_periodic_rms_angstrom": 2.1701051544267385,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.19485360070769858,
+        "minimum_periodic_distance_range_angstrom": [
+          1.0212769068285088,
+          1.0212769068285088
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      },
+      "joint": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.01802891492843628,
+        "mean_lattice_length_absolute_error_angstrom": 0.09998009105523428,
+        "mean_same_slot_periodic_rms_angstrom": 2.0993805829346446,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.07121036989577018,
+        "minimum_periodic_distance_range_angstrom": [
+          0.2448272422781056,
+          1.250115366180342
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      },
+      "joint_perturb_0p01": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.017795562744140625,
+        "mean_lattice_length_absolute_error_angstrom": 0.10064113140106201,
+        "mean_same_slot_periodic_rms_angstrom": 2.0857015133250583,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.07418458877039272,
+        "minimum_periodic_distance_range_angstrom": [
+          0.2021188986641783,
+          1.2900166208643031
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      },
+      "joint_perturb_0p05": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.018606752157211304,
+        "mean_lattice_length_absolute_error_angstrom": 0.13158582647641498,
+        "mean_same_slot_periodic_rms_angstrom": 2.066341142859059,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.0860698866764341,
+        "minimum_periodic_distance_range_angstrom": [
+          0.1801963092605332,
+          1.2505771287476226
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      },
+      "property": {
+        "examples": 20,
+        "finite_positive_volume_count": 20,
+        "legal_cell_count": 20,
+        "mean_lattice_angle_absolute_error_degrees": 0.006182044744491577,
+        "mean_lattice_length_absolute_error_angstrom": 0.17251011729240417,
+        "mean_same_slot_periodic_rms_angstrom": 1.9236324767817794,
+        "mean_species_matched_periodic_rms_angstrom": null,
+        "median_relative_volume_error": 0.11956626749947609,
+        "minimum_periodic_distance_range_angstrom": [
+          0.05995024122215173,
+          1.0767741270975557
+        ],
+        "simple_plausibility_count": 20,
+        "structure_matcher_scale_false_count": 0,
+        "structure_matcher_scale_true_count": 0,
+        "structure_matcher_status_counts": {
+          "composition_incompatible": 20
+        },
+        "valid_lattice_angle_error_count": 20,
+        "valid_lattice_length_error_count": 20,
+        "valid_minimum_periodic_distance_count": 20,
+        "valid_relative_volume_error_count": 20,
+        "valid_same_slot_displacement_count": 20,
+        "valid_species_matched_displacement_count": 0
+      }
+    },
+    "matcher_configuration": {
+      "allow_subset": false,
+      "angle_tol": 10,
+      "attempt_supercell": false,
+      "comparator": "ElementComparator",
+      "ltol": 0.3,
+      "primitive_cell": false,
+      "scale_primary": false,
+      "scale_topology_supplement": true,
+      "stol": 0.5
+    },
+    "periodic_distance_method": "pymatgen Lattice.get_all_distances; Hungarian species matching"
+  },
+  "raw_geometry_readiness": "BLOCKED BY A SPECIFIC ISSUE",
+  "readiness": {
+    "decision_logic": "Composition readiness requires the frozen protocol's hard checks, a group-bootstrap NLL advantage over fixed-real control, a group-bootstrap accepted-output A/B-recovery yield advantage after projection and common filters, the same positive final direction in every seed, and accepted A/B non-collapse. Forced family X and pre-filter samples cannot satisfy this gate. No yield cutoff was introduced.",
+    "execution_integrity_passed": true,
+    "numerical_execution": "PASSED",
+    "raw_geometry_generation": "BLOCKED BY A SPECIFIC ISSUE",
+    "scientific_failures": [],
+    "template_composition_evidence": {
+      "accepted_AB_noncollapsed": true,
+      "accepted_output_AB_direction_positive_in_every_seed": false,
+      "accepted_output_AB_yield_advantage_over_fixed_real": false,
+      "execution_integrity_passed": true,
+      "joint_N_pass": 33,
+      "joint_N_unique_accepted_AB": 10,
+      "joint_dominant_accepted_AB_fraction": 0.36363636363636365,
+      "unmasked_NLL_advantage_over_fixed_real": false
+    },
+    "template_constrained_composition_generation": "INSUFFICIENT EVIDENCE"
+  },
+  "reference_information": {
+    "A_masked_AB_only_zero_true_probability_sites": 0,
+    "A_to_B_delta_nll_B_minus_A": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 38.02244163832964,
+      "ci95_low": 26.921496843745334,
+      "independent_groups": 20,
+      "mean": 32.38521506884827,
+      "median": 31.120011976221576,
+      "range": [
+        8.328746378421783,
+        55.183997319079936
+      ]
+    },
+    "A_to_B_delta_top1_A_minus_B": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.8199999950826168,
+      "ci95_low": 0.5799999915063381,
+      "independent_groups": 20,
+      "mean": 0.6999999932944775,
+      "median": 0.6999999955296516,
+      "range": [
+        0.19999998807907104,
+        1.0
+      ]
+    },
+    "A_to_B_masked_AB_only_delta_nll_B_minus_A": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 41.50241406433372,
+      "ci95_low": 25.700451488127875,
+      "independent_groups": 20,
+      "mean": 33.17956216892926,
+      "median": 27.965818044089247,
+      "range": [
+        12.48809796909336,
+        73.37929636240005
+      ]
+    },
+    "A_to_B_masked_AB_only_delta_top1_A_minus_B": {
+      "bootstrap_resamples": 10000,
+      "bootstrap_seed": 20260923,
+      "ci95_high": 0.975,
+      "ci95_low": 0.75,
+      "independent_groups": 20,
+      "mean": 0.875,
+      "median": 1.0,
+      "range": [
+        0.0,
+        1.0
+      ]
+    },
+    "A_to_B_masked_AB_only_mean_total_variation": 0.95857173204422,
+    "A_to_B_mean_total_variation": 0.7380040973424912,
+    "B_masked_AB_only_zero_true_probability_sites": 0,
+    "C_masked_AB_only_zero_true_probability_sites": 0,
+    "control_comparisons": {
+      "masked_ab": {
+        "crystal": {
+          "control": "crystal",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 51.28899858176708,
+            "ci95_low": -3.725946957170963,
+            "independent_groups": 20,
+            "mean": 20.491375851631165,
+            "median": -5.1705641746521,
+            "range": [
+              -44.8484992980957,
+              249.1999340057373
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.075,
+            "ci95_low": -0.175,
+            "independent_groups": 20,
+            "mean": -0.05,
+            "median": 0.0,
+            "range": [
+              -0.5,
+              0.5
+            ]
+          },
+          "mean_total_variation": 0.7286098700249568,
+          "median_total_variation": 0.7747116982936859,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "masked_ab",
+          "total_variation_range": [
+            0.0029829670675098896,
+            1.0
+          ]
+        },
+        "fixed_real": {
+          "control": "fixed_real",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 6.661075851023194,
+            "ci95_low": -13.526420181393624,
+            "independent_groups": 20,
+            "mean": -3.3796666502952575,
+            "median": -3.842226028442383,
+            "range": [
+              -48.382558822631836,
+              47.674795150756836
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.075,
+            "ci95_low": -0.175,
+            "independent_groups": 20,
+            "mean": -0.05,
+            "median": 0.0,
+            "range": [
+              -0.5,
+              0.5
+            ]
+          },
+          "mean_total_variation": 0.7263243660330773,
+          "median_total_variation": 0.7505866289138794,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "masked_ab",
+          "total_variation_range": [
+            0.0,
+            0.9999908208847046
+          ]
+        },
+        "joint_perturb_0p01": {
+          "control": "joint_perturb_0p01",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.73760755777359,
+            "ci95_low": -1.5717524242401122,
+            "independent_groups": 20,
+            "mean": -0.4223045349121094,
+            "median": 0.10436630249023438,
+            "range": [
+              -7.080898284912109,
+              6.406455993652344
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.0,
+            "ci95_low": 0.0,
+            "independent_groups": 20,
+            "mean": 0.0,
+            "median": 0.0,
+            "range": [
+              0.0,
+              0.0
+            ]
+          },
+          "mean_total_variation": 0.044807635167299506,
+          "median_total_variation": 0.0043423910974524915,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "masked_ab",
+          "total_variation_range": [
+            8.226014074352861e-07,
+            0.26723259687423706
+          ]
+        },
+        "joint_perturb_0p05": {
+          "control": "joint_perturb_0p05",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 3.1771451663970938,
+            "ci95_low": -4.959333069324494,
+            "independent_groups": 20,
+            "mean": -0.8257004261016846,
+            "median": 0.03841114044189453,
+            "range": [
+              -22.110088348388672,
+              18.214309692382812
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.0,
+            "ci95_low": 0.0,
+            "independent_groups": 20,
+            "mean": 0.0,
+            "median": 0.0,
+            "range": [
+              0.0,
+              0.0
+            ]
+          },
+          "mean_total_variation": 0.19652525356912065,
+          "median_total_variation": 0.1096471156924963,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "masked_ab",
+          "total_variation_range": [
+            7.551448561571306e-06,
+            0.7185145020484924
+          ]
+        },
+        "property": {
+          "control": "property",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 7.996794342994689,
+            "ci95_low": -16.123856332898143,
+            "independent_groups": 20,
+            "mean": -3.9776611417531966,
+            "median": -0.6372241973876953,
+            "range": [
+              -56.31800079345703,
+              44.07181930541992
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.05,
+            "ci95_low": -0.2,
+            "independent_groups": 20,
+            "mean": -0.075,
+            "median": 0.0,
+            "range": [
+              -0.5,
+              0.5
+            ]
+          },
+          "mean_total_variation": 0.6825098791276105,
+          "median_total_variation": 0.7558561563491821,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "masked_ab",
+          "total_variation_range": [
+            0.0017157590482383966,
+            0.9999959468841553
+          ]
+        }
+      },
+      "unmasked": {
+        "crystal": {
+          "control": "crystal",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 144.29407458782188,
+            "ci95_low": 28.742678414583207,
+            "independent_groups": 20,
+            "mean": 76.98966794013977,
+            "median": 28.726107597351074,
+            "range": [
+              -9.952098846435547,
+              576.4461469650269
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.12000000551342964,
+            "ci95_low": -0.06000000014901161,
+            "independent_groups": 20,
+            "mean": 0.030000002682209016,
+            "median": 0.0,
+            "range": [
+              -0.4000000059604645,
+              0.40000002086162567
+            ]
+          },
+          "mean_total_variation": 0.7680950999259949,
+          "median_total_variation": 0.7956006228923798,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "unmasked",
+          "total_variation_range": [
+            0.4241955280303955,
+            0.9899161458015442
+          ]
+        },
+        "fixed_real": {
+          "control": "fixed_real",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": -2.246485141515738,
+            "ci95_low": -16.71339136123657,
+            "independent_groups": 20,
+            "mean": -9.530313539505006,
+            "median": -9.98459529876709,
+            "range": [
+              -35.84396934509277,
+              27.8876371383667
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.1800000086426735,
+            "ci95_low": -0.039999999850988385,
+            "independent_groups": 20,
+            "mean": 0.07000000476837158,
+            "median": 0.10000000149011612,
+            "range": [
+              -0.4000000059604645,
+              0.40000002086162567
+            ]
+          },
+          "mean_total_variation": 0.7500153332948685,
+          "median_total_variation": 0.7645184397697449,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "unmasked",
+          "total_variation_range": [
+            0.0,
+            0.9918091893196106
+          ]
+        },
+        "joint_perturb_0p01": {
+          "control": "joint_perturb_0p01",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.751890696287155,
+            "ci95_low": -2.874357081651688,
+            "independent_groups": 20,
+            "mean": -0.8483518600463867,
+            "median": 0.015084266662597656,
+            "range": [
+              -13.135963439941406,
+              3.7299880981445312
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.07000000327825547,
+            "ci95_low": -0.029999997466802597,
+            "independent_groups": 20,
+            "mean": 0.020000002533197402,
+            "median": 0.0,
+            "range": [
+              -0.20000000298023224,
+              0.20000001788139343
+            ]
+          },
+          "mean_total_variation": 0.09352594201918692,
+          "median_total_variation": 0.0707700364291668,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "unmasked",
+          "total_variation_range": [
+            0.004989956971257925,
+            0.2321949452161789
+          ]
+        },
+        "joint_perturb_0p05": {
+          "control": "joint_perturb_0p05",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 1.1924945151805852,
+            "ci95_low": -10.492785538434982,
+            "independent_groups": 20,
+            "mean": -4.063188219070435,
+            "median": -1.967514991760254,
+            "range": [
+              -47.9380407333374,
+              11.300924301147461
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.11000000387430191,
+            "ci95_low": -0.03999999910593033,
+            "independent_groups": 20,
+            "mean": 0.030000002682209016,
+            "median": 0.0,
+            "range": [
+              -0.20000000298023224,
+              0.4000000059604645
+            ]
+          },
+          "mean_total_variation": 0.3885064147412777,
+          "median_total_variation": 0.32522155344486237,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "unmasked",
+          "total_variation_range": [
+            0.21409492194652557,
+            0.9371278882026672
+          ]
+        },
+        "property": {
+          "control": "property",
+          "delta_nll_control_minus_joint": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 242.66770863890648,
+            "ci95_low": 128.00761933088302,
+            "independent_groups": 20,
+            "mean": 184.61324348449708,
+            "median": 188.52019500732422,
+            "range": [
+              -10.681358337402344,
+              502.7185516357422
+            ]
+          },
+          "delta_top1_joint_minus_control": {
+            "bootstrap_resamples": 10000,
+            "bootstrap_seed": 20260923,
+            "ci95_high": 0.27000001147389413,
+            "ci95_low": 0.030000001192092896,
+            "independent_groups": 20,
+            "mean": 0.15000000596046448,
+            "median": 0.20000000298023224,
+            "range": [
+              -0.4000000059604645,
+              0.6000000238418579
+            ]
+          },
+          "mean_total_variation": 0.782725703716278,
+          "median_total_variation": 0.7896143198013306,
+          "nll_unavailable_examples": 0,
+          "paired_examples": 20,
+          "stage": "unmasked",
+          "total_variation_range": [
+            0.42584896087646484,
+            0.9984320402145386
+          ]
+        }
+      }
+    },
+    "full_site_evidence_file": "reports\\decoder_audit\\information_sites.csv",
+    "masked_all_five_forced_X_including_zero_true_probability_sites": 0,
+    "masked_metric": "family-masked A/B-only NLL in nats/site; forced X slots are excluded",
+    "padding_scored": false,
+    "primary_metric": "unmasked occupied-site NLL in nats/site",
+    "site_mapping_identity_count": 20
+  },
+  "representative_cif_count": 8,
+  "representative_cifs": [
+    {
+      "formula": "BaVO3",
+      "latent_path": "joint",
+      "material_id": "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_01_joint_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif",
+      "seed": 0,
+      "sha256": "157e64975741999e7462e14d431913e3f909be91b8eff0ebe3c51dd4ada17499"
+    },
+    {
+      "formula": "CaTiO3",
+      "latent_path": "fixed_real",
+      "material_id": "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_02_fixed_real_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif",
+      "seed": 0,
+      "sha256": "9dea976dee155c2761eab9f3e7383a7e9496248c9329da5a09bbae84079c0424"
+    },
+    {
+      "formula": "BaGeO3",
+      "latent_path": "property",
+      "material_id": "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_03_property_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif",
+      "seed": 0,
+      "sha256": "6e7be2ad9d8d48c1c597088479bc07ec22b2d1001846514cac407aa8cbaaafcd"
+    },
+    {
+      "formula": "NaVO3",
+      "latent_path": "crystal",
+      "material_id": "cmr_1ec1f206bf87de79380756d894cc7bc2",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_04_crystal_cmr_1ec1f206bf87de79380756d894cc7bc2_seed1.cif",
+      "seed": 1,
+      "sha256": "7bad85a13c2609190310bdd30728ab5ce6c6a5fd9d05df1216dbb8e3bdb3e6e1"
+    },
+    {
+      "formula": "BaTiO3",
+      "latent_path": "joint_perturb_0p01",
+      "material_id": "cmr_4a1084fcbabc2f7e867be309d49cbe2b",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_05_joint_perturb_0p01_cmr_4a1084fcbabc2f7e867be309d49cbe2b_seed0.cif",
+      "seed": 0,
+      "sha256": "6245c27dcdbf536cd40e71ba61ef81b374b12256da23cf3dfac8649f78b806b7"
+    },
+    {
+      "formula": "LaNiO3",
+      "latent_path": "joint_perturb_0p05",
+      "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_06_joint_perturb_0p05_cmr_46250f00f7e8fa01346da84ec7156cba_seed0.cif",
+      "seed": 0,
+      "sha256": "3104575623cee16bcf684cec40efc572fa638e2a7b046f51641dcdaadde04391"
+    },
+    {
+      "formula": "NaNbO3",
+      "latent_path": "crystal",
+      "material_id": "cmr_20c9853b450e146b0e608362fc2f56d9",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_07_crystal_cmr_20c9853b450e146b0e608362fc2f56d9_seed0.cif",
+      "seed": 0,
+      "sha256": "e870e429b406b511a6af6740897082055c2e25a391ca901fdc3e6325407f054b"
+    },
+    {
+      "formula": "SrTiO3",
+      "latent_path": "crystal",
+      "material_id": "cmr_46250f00f7e8fa01346da84ec7156cba",
+      "path": "reports\\decoder_audit\\representative_cifs\\audit_08_crystal_cmr_46250f00f7e8fa01346da84ec7156cba_seed0.cif",
+      "seed": 0,
+      "sha256": "58118c58f1fcf6fcd8b89aa186d726adf37723b6a9660ccfed704493cf568728"
+    }
+  ],
+  "runtime_seconds": 12.583911700057797,
+  "scientific_checks": {
+    "all_latents_finite": true,
+    "all_probability_rows_valid": true,
+    "all_unmasked_heads_finite": true,
+    "equivalent_B_C_within_tolerance": true,
+    "input_species_argument_has_no_numerical_effect": true,
+    "repeated_call_within_tolerance": true
+  },
+  "scorecard": [
+    {
+      "arm": "all latents/heads",
+      "conclusion": "passed",
+      "control_or_paired_difference": "1.0 required",
+      "denominator": 120,
+      "metric": "unmasked finite fraction",
+      "uncertainty": "none; hard integrity check"
+    },
+    {
+      "arm": "canonical versus generation, equivalent heads",
+      "conclusion": "passed",
+      "control_or_paired_difference": 0.0,
+      "denominator": 120,
+      "metric": "B/C maximum absolute difference",
+      "uncertainty": "rtol=1e-05, atol=1e-06"
+    },
+    {
+      "arm": "unmasked joint",
+      "conclusion": "inconclusive",
+      "control_or_paired_difference": -9.530313539505006,
+      "denominator": 20,
+      "metric": "occupied-site NLL delta (control - joint)",
+      "uncertainty": "group bootstrap 95% CI [-16.71339136123657, -2.246485141515738]"
+    },
+    {
+      "arm": "composition after projection and common filters",
+      "conclusion": "inconclusive",
+      "control_or_paired_difference": 0.0,
+      "denominator": 20,
+      "metric": "accepted-output source A/B yield difference (joint - control)",
+      "uncertainty": "group bootstrap 95% CI [0.0, 0.0]"
+    },
+    {
+      "arm": "joint minus fixed-real after projection and common filters",
+      "conclusion": "not consistent",
+      "control_or_paired_difference": "{\"0\": 0.0, \"1\": 0.0, \"2\": 0.0}",
+      "denominator": 3,
+      "metric": "accepted-output source A/B direction by seed",
+      "uncertainty": "three fixed seeds; positive required in each seed for readiness"
+    },
+    {
+      "arm": "joint final output",
+      "conclusion": "non-collapsed",
+      "control_or_paired_difference": 10,
+      "denominator": 370,
+      "metric": "accepted unique A/B pairs",
+      "uncertainty": "descriptive fixed-budget audit; forced family X excluded; dominant accepted A/B fraction=0.36363636363636365"
+    },
+    {
+      "arm": "joint final output by requested material condition",
+      "conclusion": "reported separately; repeated recovery of one A/B can be expected for a fixed known-latent condition",
+      "control_or_paired_difference": 3,
+      "denominator": 11,
+      "metric": "material conditions with multiple accepted A/B pairs",
+      "uncertainty": "descriptive; three fixed seeds per material condition"
+    },
+    {
+      "arm": "reference-free raw geometry",
+      "conclusion": "BLOCKED BY A SPECIFIC ISSUE",
+      "control_or_paired_difference": 0,
+      "denominator": 20,
+      "metric": "scale=False StructureMatcher fits",
+      "uncertainty": "fixed matcher settings"
+    },
+    {
+      "arm": "audit harness",
+      "conclusion": "passed",
+      "control_or_paired_difference": 12,
+      "denominator": 12,
+      "metric": "harness provenance/load/accounting checks",
+      "uncertainty": "exact Boolean checks; failure invalidates the harness"
+    },
+    {
+      "arm": "A, B, and C by decoder head",
+      "conclusion": "passed",
+      "control_or_paired_difference": "{\"A_reference_assisted\": 0.0, \"B_canonical_reference_free\": 0.0, \"C_generation_reference_free\": 0.0}",
+      "denominator": 160,
+      "metric": "separate-call deterministic repeats",
+      "uncertainty": "rtol=1e-05, atol=1e-06; per-head records in summary JSON"
+    },
+    {
+      "arm": "joint; B minus A",
+      "conclusion": "positive means reference-free decoding is worse",
+      "control_or_paired_difference": 32.38521506884827,
+      "denominator": 20,
+      "metric": "A-to-B occupied-site raw NLL change",
+      "uncertainty": "group bootstrap 95% CI [26.921496843745334, 38.02244163832964]"
+    },
+    {
+      "arm": "fixed-real versus joint",
+      "conclusion": "positive favors the per-example joint latent",
+      "control_or_paired_difference": -3.3796666502952575,
+      "denominator": 20,
+      "metric": "family-masked A/B-only NLL delta (control - joint)",
+      "uncertainty": "group bootstrap 95% CI [-13.526420181393624, 6.661075851023194]"
+    },
+    {
+      "arm": "property-only common latent",
+      "conclusion": "mechanistic comparison; not an automatic readiness veto",
+      "control_or_paired_difference": "{\"delta_nll\": 184.61324348449708, \"mean_tv\": 0.782725703716278}",
+      "denominator": 20,
+      "metric": "raw NLL delta and TV (property - joint)",
+      "uncertainty": "whole-group NLL bootstrap; TV descriptive"
+    },
+    {
+      "arm": "0.01 and 0.05 relative L2",
+      "conclusion": "sensitivity diagnostic only; TV is not usefulness",
+      "control_or_paired_difference": "{\"joint_perturb_0p01\": {\"delta_nll\": -0.8483518600463867, \"mean_tv\": 0.09352594201918692}, \"joint_perturb_0p05\": {\"delta_nll\": -4.063188219070435, \"mean_tv\": 0.3885064147412777}}",
+      "denominator": 20,
+      "metric": "raw probability sensitivity to relative perturbations",
+      "uncertainty": "same deterministic direction at both magnitudes per example"
+    },
+    {
+      "arm": "all stochastic arms",
+      "conclusion": "passed",
+      "control_or_paired_difference": 2327,
+      "denominator": 2327,
+      "metric": "attempt accounting",
+      "uncertainty": "exact ledger equality"
+    },
+    {
+      "arm": "unchanged projection and common filters",
+      "conclusion": "N_pass=33",
+      "control_or_paired_difference": 0.0891891891891892,
+      "denominator": 370,
+      "metric": "joint final acceptance yield",
+      "uncertainty": "descriptive fixed audit budget; no universal yield threshold"
+    },
+    {
+      "arm": "B canonical reference-free",
+      "conclusion": "BLOCKED BY A SPECIFIC ISSUE",
+      "control_or_paired_difference": "20 / 20",
+      "denominator": 20,
+      "metric": "raw reference-free legal cells / positive volumes",
+      "uncertainty": "documented inverse scaling; legality is not physical validity"
+    },
+    {
+      "arm": "B canonical reference-free",
+      "conclusion": "supplementary topology diagnostic",
+      "control_or_paired_difference": 0,
+      "denominator": 20,
+      "metric": "scale=True supplementary topology fits",
+      "uncertainty": "fixed matcher; scale=False remains primary"
+    }
+  ],
+  "status": "passed_audit_complete",
+  "stochastic_generation": {
+    "crystal": {
+      "N_attempt": 502,
+      "N_constructed": 269,
+      "N_pass": 23,
+      "N_unique_accepted_AB": 7,
+      "N_unique_composition": 7,
+      "N_unique_structure_matcher_scale_false": 7,
+      "N_unique_structure_signature": 7,
+      "acceptance_yield": 0.045816733067729085,
+      "accepted_AB_counts": {
+        "Ba|Pb": 3,
+        "Ba|Ti": 5,
+        "Ba|V": 4,
+        "La|Al": 3,
+        "Na|Nb": 6,
+        "Na|V": 1,
+        "Sr|Ti": 1
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.30434782608695654,
+      "conditional_uniqueness": 0.30434782608695654,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 0.2608695652173913,
+      "dominant_accepted_composition_fraction": 0.2608695652173913,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 233,
+        "tolerance/mu": 246
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 1,
+      "source_B_recoveries": 2,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.013944223107569721,
+      "unique_accepted_yield": 0.013944223107569721
+    },
+    "fixed_real": {
+      "N_attempt": 357,
+      "N_constructed": 33,
+      "N_pass": 33,
+      "N_unique_accepted_AB": 1,
+      "N_unique_composition": 1,
+      "N_unique_structure_matcher_scale_false": 1,
+      "N_unique_structure_signature": 1,
+      "acceptance_yield": 0.09243697478991597,
+      "accepted_AB_counts": {
+        "Ca|Ti": 33
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.030303030303030304,
+      "conditional_uniqueness": 0.030303030303030304,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 1.0,
+      "dominant_accepted_composition_fraction": 1.0,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 324
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 3,
+      "source_B_recoveries": 0,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.0028011204481792717,
+      "unique_accepted_yield": 0.0028011204481792717
+    },
+    "joint": {
+      "N_attempt": 370,
+      "N_constructed": 34,
+      "N_pass": 33,
+      "N_unique_accepted_AB": 10,
+      "N_unique_composition": 10,
+      "N_unique_structure_matcher_scale_false": 10,
+      "N_unique_structure_signature": 10,
+      "acceptance_yield": 0.0891891891891892,
+      "accepted_AB_counts": {
+        "Ba|Ge": 1,
+        "Ba|Mn": 4,
+        "Ba|Ti": 2,
+        "Ba|V": 12,
+        "Ba|Zr": 2,
+        "La|Co": 1,
+        "La|Fe": 4,
+        "Na|Nb": 3,
+        "Rb|Nb": 3,
+        "Sr|Ti": 1
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.30303030303030304,
+      "conditional_uniqueness": 0.30303030303030304,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 0.36363636363636365,
+      "dominant_accepted_composition_fraction": 0.36363636363636365,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 336,
+        "tolerance/mu": 1
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 4,
+      "source_B_recoveries": 3,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.02702702702702703,
+      "unique_accepted_yield": 0.02702702702702703
+    },
+    "joint_perturb_0p01": {
+      "N_attempt": 377,
+      "N_constructed": 32,
+      "N_pass": 32,
+      "N_unique_accepted_AB": 9,
+      "N_unique_composition": 9,
+      "N_unique_structure_matcher_scale_false": 9,
+      "N_unique_structure_signature": 9,
+      "acceptance_yield": 0.08488063660477453,
+      "accepted_AB_counts": {
+        "Ba|Ge": 1,
+        "Ba|Mn": 4,
+        "Ba|Ti": 5,
+        "Ba|V": 11,
+        "Ba|Zr": 2,
+        "La|Co": 1,
+        "La|Fe": 3,
+        "Na|Nb": 3,
+        "Rb|Nb": 2
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.28125,
+      "conditional_uniqueness": 0.28125,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 0.34375,
+      "dominant_accepted_composition_fraction": 0.34375,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 345
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 3,
+      "source_B_recoveries": 2,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.023872679045092837,
+      "unique_accepted_yield": 0.023872679045092837
+    },
+    "joint_perturb_0p05": {
+      "N_attempt": 363,
+      "N_constructed": 36,
+      "N_pass": 33,
+      "N_unique_accepted_AB": 6,
+      "N_unique_composition": 6,
+      "N_unique_structure_matcher_scale_false": 6,
+      "N_unique_structure_signature": 6,
+      "acceptance_yield": 0.09090909090909091,
+      "accepted_AB_counts": {
+        "Ba|Mn": 3,
+        "Ba|Ti": 9,
+        "Ba|V": 14,
+        "La|Fe": 5,
+        "La|Ni": 1,
+        "Na|Nb": 1
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.18181818181818182,
+      "conditional_uniqueness": 0.18181818181818182,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 0.42424242424242425,
+      "dominant_accepted_composition_fraction": 0.42424242424242425,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 327,
+        "tolerance/mu": 3
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 4,
+      "source_B_recoveries": 3,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.01652892561983471,
+      "unique_accepted_yield": 0.01652892561983471
+    },
+    "property": {
+      "N_attempt": 358,
+      "N_constructed": 33,
+      "N_pass": 33,
+      "N_unique_accepted_AB": 4,
+      "N_unique_composition": 4,
+      "N_unique_structure_matcher_scale_false": 4,
+      "N_unique_structure_signature": 4,
+      "acceptance_yield": 0.09217877094972067,
+      "accepted_AB_counts": {
+        "Ba|Ge": 8,
+        "Ba|Ti": 23,
+        "Ba|Zr": 1,
+        "Cs|Nb": 1
+      },
+      "all_endpoints_match_baseline": true,
+      "attempt_source_AB_recovery_count": 0,
+      "attempt_source_AB_recovery_rate": 0.0,
+      "attempt_source_exact_composition_recovery_count": 0,
+      "attempt_source_exact_composition_recovery_rate": 0.0,
+      "conditional_AB_uniqueness": 0.12121212121212122,
+      "conditional_uniqueness": 0.12121212121212122,
+      "decode_calls": 60,
+      "dominant_accepted_AB_fraction": 0.696969696969697,
+      "dominant_accepted_composition_fraction": 0.696969696969697,
+      "passed_source_AB_recovery_count": 0,
+      "passed_source_AB_recovery_rate": 0.0,
+      "rejection_stage_counts": {
+        "charge_compatible_A": 325
+      },
+      "source_AB_recoveries": 0,
+      "source_A_recoveries": 4,
+      "source_B_recoveries": 0,
+      "source_exact_composition_recoveries": 0,
+      "unique_accepted_AB_yield": 0.0111731843575419,
+      "unique_accepted_yield": 0.0111731843575419
+    }
+  },
+  "template_composition_readiness": "INSUFFICIENT EVIDENCE",
+  "test_set_model_inference": false,
+  "yield_by_condition_file": "reports\\decoder_audit\\yield_by_condition.csv"
+}

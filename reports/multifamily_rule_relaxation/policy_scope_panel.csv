@@ -1,0 +1,1420 @@
+material_id,panel_membership,source_family,policy,anion_setting,source_scope_eligible,scope_reasons
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_101d660cb3bc40ce7a9b1ccc320a68c3,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_102dbc056c394f006fec29b2fa739353,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_102dbc056c394f006fec29b2fa739353,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_104d553d6281258c9e5f26223232409b,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_104d553d6281258c9e5f26223232409b,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_11dacddcba738021fcb7a8ad9b578f91,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_127f1357a91374fa293cc9763a220194,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_127f1357a91374fa293cc9763a220194,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_1325473bcb643dc2da3d0c3e242cdd48,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1325473bcb643dc2da3d0c3e242cdd48,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_139c1a97246d67ca56a0d7cf47a81de6,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_139c1a97246d67ca56a0d7cf47a81de6,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_13c624d764145ca096979e91be85d1e4,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_13c624d764145ca096979e91be85d1e4,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_154f7d23ba964c677c1c58f6531d3cf6,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_154f7d23ba964c677c1c58f6531d3cf6,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_15dd91c2ca1782a1b709de6041eeb16b,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_15dd91c2ca1782a1b709de6041eeb16b,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_16214cc46d6f6b4c8f1ae7dccbecbf56,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_162d9a39eeb8967bb4b1ebf1b46433b8,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_162d9a39eeb8967bb4b1ebf1b46433b8,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_17895b941f40df78b4d96df4a80e3d32,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_17895b941f40df78b4d96df4a80e3d32,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_17e84eaa2276fa886fcc0de1a6d2a3e7,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_185b9f39d72c1a97616ba5135b788c72,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_185b9f39d72c1a97616ba5135b788c72,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_19262e56bcf5ed50e15f4b4a8b260d21,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_192f8513d9cafe57d6eca7402e0d38a7,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_192f8513d9cafe57d6eca7402e0d38a7,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_19985244ad63b73fa4c5916a23f3a993,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_19985244ad63b73fa4c5916a23f3a993,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_19b59057cb535b54ed766a9ded0e3b2f,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_19b59057cb535b54ed766a9ded0e3b2f,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_1a679d94314fba110bd57829e10a3fde,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1a679d94314fba110bd57829e10a3fde,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_1afbd64b1703167924a1b88bc21b634c,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1afbd64b1703167924a1b88bc21b634c,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_1b79155c011021e885a34b79a561aef0,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1b79155c011021e885a34b79a561aef0,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_1b82d6070a630e6f0af77800c45bda88,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1b82d6070a630e6f0af77800c45bda88,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_1ca7af46ea766e9399044ea3aedae1a1,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1ca7af46ea766e9399044ea3aedae1a1,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_1ca81224fd42631de910314b244d885c,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_1da288a28de7cc80d01c287538059986,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_1da288a28de7cc80d01c287538059986,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_1ec1f206bf87de79380756d894cc7bc2,"[""broad"", ""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_203e90b3a93345d99652df07e07d2eb8,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_203e90b3a93345d99652df07e07d2eb8,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_20c9853b450e146b0e608362fc2f56d9,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_21be7f39a565133da75a035a576e314d,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_21be7f39a565133da75a035a576e314d,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_227b24400fad0c8d6494860275dd0e75,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_230fad507b94b526fb5df6c7e1e4bcfa,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_230fad507b94b526fb5df6c7e1e4bcfa,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_241bec8d57a1211ee858abd21f2ba78a,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_25014181e2d467457c2d68607d100d6f,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_26a93d01930427b872c1ea14d1e9aadb,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_26a93d01930427b872c1ea14d1e9aadb,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_2780bfaea96f6f03b5b2e97180788537,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_28990063e749aa57a6ea6e8377beb6d4,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_28990063e749aa57a6ea6e8377beb6d4,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_29200514751284314f89de5ff8a3b573,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_29359833b56b188c81853e604692e816,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_2a0e9458d8f97c7f7846e5f0d01f8cae,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2a0e9458d8f97c7f7846e5f0d01f8cae,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_2a8d75377336aee324078cd7c86c35b3,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2a8d75377336aee324078cd7c86c35b3,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_2add55d1f2cbcbf4c18405139cc80e9e,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2add55d1f2cbcbf4c18405139cc80e9e,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_2b6e771fc5f37845975fef29494a626e,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_2b982775f88db81d4dcdcd0cfdc101cc,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2b982775f88db81d4dcdcd0cfdc101cc,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_2c732f8135fad4542ec610fbaafeef17,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2c732f8135fad4542ec610fbaafeef17,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_2dfd0b82085e2a6b57eb26d547e7c4b1,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2dfd0b82085e2a6b57eb26d547e7c4b1,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_2ea945ab24094667599ba7c1ae2d67a5,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_2ea945ab24094667599ba7c1ae2d67a5,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_3059e337d26ed669d3fb9d51907d94ac,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_30879059041510c787599b27ae220e11,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_30879059041510c787599b27ae220e11,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_317aeec416e723eda14990154e873649,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_317aeec416e723eda14990154e873649,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_34157f23ca9ae3dffebf6c85e42345e9,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_346ada425b8fcfdff73eb4519a7af59f,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_346ada425b8fcfdff73eb4519a7af59f,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_34d2b6a741001ce4ab4aeec56edf4b4a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_34d2b6a741001ce4ab4aeec56edf4b4a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_3500684402fb9a1910cbd680b000c423,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3500684402fb9a1910cbd680b000c423,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_36352244010ce4510d3cc85609d73fef,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_36352244010ce4510d3cc85609d73fef,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_367c36afef68e81f40bc3cfbfcf03d34,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_367c36afef68e81f40bc3cfbfcf03d34,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_37f9afe1a2997a02ac638988e93a0aa1,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_38e7db74dfefea3d20e7cc3b3879b7ff,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_38e7db74dfefea3d20e7cc3b3879b7ff,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3a3f440b930cdb0a1d2856f2485ddbdd,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3a3f440b930cdb0a1d2856f2485ddbdd,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_3aa2a1ef481b15607625b7c40d73e22a,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_3aafb6e8fdf3efd5617052f806bdd229,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3aafb6e8fdf3efd5617052f806bdd229,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3c86223d5120c77265c780757c79891c,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3c86223d5120c77265c780757c79891c,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3c9149bf3713c8ecb6fe24a86c1d450e,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3c9149bf3713c8ecb6fe24a86c1d450e,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3dc7f110ff6889e7a6ff456378379804,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3dc7f110ff6889e7a6ff456378379804,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_3e4b73db8f7e19742b8a58629bb7935a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3e4b73db8f7e19742b8a58629bb7935a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_3e57a3cdcef43c6a15c03452c603ee95,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3e57a3cdcef43c6a15c03452c603ee95,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3ea799cd3684ab7a32e98e78aec58411,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3ea799cd3684ab7a32e98e78aec58411,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_3efe106f78ce7c9f2e04f6f418dd2f95,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_3efe106f78ce7c9f2e04f6f418dd2f95,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_40032981d17d1bc4c287e410ce2d042d,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_40032981d17d1bc4c287e410ce2d042d,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_403dd217a7e64ee33a3394e4a3e53d1d,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_403dd217a7e64ee33a3394e4a3e53d1d,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_406d42f43b8e9124bf53c6d99f6196f1,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_406d42f43b8e9124bf53c6d99f6196f1,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_40b340ba5355a9415c2ff943cff3fdf5,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_40b340ba5355a9415c2ff943cff3fdf5,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_40ff0ed765a2bad8f58ab5ca482a5125,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_40ff0ed765a2bad8f58ab5ca482a5125,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_416793c3904bd154615cf16c55122f92,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_416793c3904bd154615cf16c55122f92,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_41f71461f1f01d91f003f6d798801b0a,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_41f71461f1f01d91f003f6d798801b0a,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_424c0ec517eae1fec2a72aaf75c494e2,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_424c0ec517eae1fec2a72aaf75c494e2,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_4312a92af5f81881ca379bf891932f6a,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4312a92af5f81881ca379bf891932f6a,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_43296519b92ee49db05db876680c4ff7,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_4342f6c7b24537b03130ce0252cc8d5f,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_434f089ea69900f2316b1ad28f7f7d0b,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_434f089ea69900f2316b1ad28f7f7d0b,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_439cc73f5951b6d780245f3cc4908251,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_439cc73f5951b6d780245f3cc4908251,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_443db7088a7447fde5014126e1465ca6,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_443db7088a7447fde5014126e1465ca6,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_446eeca3b32a89cbccd504a21dcfbafd,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_446eeca3b32a89cbccd504a21dcfbafd,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_45c78d2eb049f29980b509fc96694d8d,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_45c78d2eb049f29980b509fc96694d8d,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_46250f00f7e8fa01346da84ec7156cba,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_464721c33b4fc291a8f388bb244394b9,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_46d362bc6133db8d2e0d373a7e134c1f,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_46d362bc6133db8d2e0d373a7e134c1f,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_46e25bcde1e32b564ef7b8fd581e811d,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_476ea5535ac5d75c9a9abad7451b965e,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_476ea5535ac5d75c9a9abad7451b965e,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_48e3dd02e3ba06e1f0ac4ae4a0ccb197,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_48eb0245597f067712112992dc09266b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_48eb0245597f067712112992dc09266b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_49155424f2194ba9811af61f9ea50aab,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_49155424f2194ba9811af61f9ea50aab,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_4939cef631154cd9aa3892df30493aab,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4939cef631154cd9aa3892df30493aab,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_49453b8e3b0e6cd59c2bfd142d78b1c6,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_49453b8e3b0e6cd59c2bfd142d78b1c6,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_496bbbc0367f1782ec2c602908f9b56f,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_49d56956ce59b505a2d9dde646821aad,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_49d56956ce59b505a2d9dde646821aad,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_4a1084fcbabc2f7e867be309d49cbe2b,"[""broad"", ""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_4a4c7ee0de7437dd2e3f0f5b52d66457,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4a4c7ee0de7437dd2e3f0f5b52d66457,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_4a5d7c3d809b0dc977d3274e086a18e8,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4a5d7c3d809b0dc977d3274e086a18e8,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_4ac5458c52b50aa83c4537fa1fda9add,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4ac5458c52b50aa83c4537fa1fda9add,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_4c4cd3c16b8ef82ca9563831029d5af4,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4c4cd3c16b8ef82ca9563831029d5af4,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_4db242d0f6d48e08a7eb578827c63170,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4db242d0f6d48e08a7eb578827c63170,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_4e3e617592b8a09306e15c0d3a6d8698,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4e3e617592b8a09306e15c0d3a6d8698,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_4ebc4c069e204bc55bf87dce6b578fed,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_4ebc4c069e204bc55bf87dce6b578fed,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_4effe0a0580238a67a29d6545490954b,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_50ea192dca3571bcd3165bb2ff023137,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_50ea192dca3571bcd3165bb2ff023137,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_51b3502c8f58c8d6b583a44621768c5d,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_51b3502c8f58c8d6b583a44621768c5d,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_522531300c980abd2c2038238a6a9b6f,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_522531300c980abd2c2038238a6a9b6f,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_523d537a34e119c86438ed0b75faf1d4,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_523d537a34e119c86438ed0b75faf1d4,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_527cbfaefe4138854cccf21c50238cd9,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_527cbfaefe4138854cccf21c50238cd9,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_52c465bf901357ffc5478ccd851ce336,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_52c465bf901357ffc5478ccd851ce336,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_531ae27b640e80473fca2a5905319b79,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_531ae27b640e80473fca2a5905319b79,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_53ca78254a5bdbd69d044b12270fe438,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_53fdfcb8dce3e6f79193dd163872daab,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_53fdfcb8dce3e6f79193dd163872daab,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_555ffc489f433e7e45bab76786c482c3,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_555ffc489f433e7e45bab76786c482c3,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_5597d1608bdb03d97202dc3e647e0efb,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5597d1608bdb03d97202dc3e647e0efb,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_568e2bc5f3196df3913e87fd6101271b,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_568e2bc5f3196df3913e87fd6101271b,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_578e72ab314fbf0004cc86a4d73a0f00,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_59084158565214d5074216aed9d9d530,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_59084158565214d5074216aed9d9d530,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_59303c1949280ab713357b274500d7f6,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_59303c1949280ab713357b274500d7f6,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_5971b81d443846a76a83f9e8b0ba375c,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5971b81d443846a76a83f9e8b0ba375c,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_5a86c2636813d6b401520d96410cc7c7,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_5a8d34e1f786dfcc7ee8d84d46c298d5,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5a8d34e1f786dfcc7ee8d84d46c298d5,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_5b2c6c3b14047ae58357db01806bdf74,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5b2c6c3b14047ae58357db01806bdf74,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_5cd7eeb4ca1a343824c2de50be7e0b15,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5cd7eeb4ca1a343824c2de50be7e0b15,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_5e693b4153d5beb40588038aad848077,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5e693b4153d5beb40588038aad848077,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_5e6ca01797c17c2b226b6125a17d94b7,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5e6ca01797c17c2b226b6125a17d94b7,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_5fd60ac1387ac13103c2a20af15187eb,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_5fd60ac1387ac13103c2a20af15187eb,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_6054a9460738d4c42241428189bdc099,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6054a9460738d4c42241428189bdc099,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_60a910944594f7ab23f4bb4d7986ba92,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_60a910944594f7ab23f4bb4d7986ba92,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_60f971ece313884dbf982daa68e19ec0,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_60f971ece313884dbf982daa68e19ec0,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_623416f8173920397c272b5a89110255,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_623416f8173920397c272b5a89110255,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_627c054c8a0bba5ebf799e8b9bdde008,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_627c054c8a0bba5ebf799e8b9bdde008,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_631d67068afdebc3d04b3cac50ec6aea,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_631d67068afdebc3d04b3cac50ec6aea,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_634a54912ffac66e907c743b2a2a46ed,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_634a54912ffac66e907c743b2a2a46ed,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_635998b208dc1c204f0ea6ebeec6aa81,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_635998b208dc1c204f0ea6ebeec6aa81,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_6381245b845750617fa519282ce7c0b0,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_6382598c251b558b3ef791add85e95b5,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6382598c251b558b3ef791add85e95b5,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_642ae65724677eee7b705dafb7722da5,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_64904f2f336fa6fb85a95d4142fdddc7,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_64904f2f336fa6fb85a95d4142fdddc7,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_64d9953c18e416a7e01500249a2bbe8d,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_673670dcf1988e563880952918937fbd,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_673670dcf1988e563880952918937fbd,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_67780582d9f34fc6ef47d3c73d4e48bf,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_67780582d9f34fc6ef47d3c73d4e48bf,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_678dd691e4a2e686c8efc1fed12d35d9,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_678dd691e4a2e686c8efc1fed12d35d9,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_67984bcb3ed605301a1e0578a038a79e,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_67aa9202f65b971b899969bf71349503,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_67ad0ff1266c68dfb14085fd5fc69eb0,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_682785369aa2b3971943559ce4e3b0ca,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_69066ce677f69131bfb1e0bfc5be9724,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_69066ce677f69131bfb1e0bfc5be9724,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_6969573045b647e9f2f156ace2b6b65b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6969573045b647e9f2f156ace2b6b65b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_697488e622ca75d13ba1462572be21de,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_697488e622ca75d13ba1462572be21de,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_69a4d5c1e4394257e7ef781aff1324cf,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_69c0ed3399c4c08aff61cb4d3ecf1938,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_69c0ed3399c4c08aff61cb4d3ecf1938,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_6bc2fd7100b9ba428f09531d34bf1458,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6bc2fd7100b9ba428f09531d34bf1458,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6bc95b783cc296a2cc68d00943578591,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6bc95b783cc296a2cc68d00943578591,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_6bf2eef6718b2d325f66f0661b17a339,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_6cbe38439fc29ef9655f767e6d4f2351,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6cbe38439fc29ef9655f767e6d4f2351,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6d21f727aa7f245ba5b170ce8b1ff2c0,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6d21f727aa7f245ba5b170ce8b1ff2c0,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_6d71f983a302a506d6ed1a64887a1b19,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6d71f983a302a506d6ed1a64887a1b19,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6e374ac7863c28a8ed7ed431e24f313e,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6e374ac7863c28a8ed7ed431e24f313e,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6e5afa8dba3d16f920bc0b3451f3f987,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6e5afa8dba3d16f920bc0b3451f3f987,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6f02ebd8704a45821aa8835005f26247,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6f02ebd8704a45821aa8835005f26247,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_6f47b0f75279818b72afe50c31836d89,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6f47b0f75279818b72afe50c31836d89,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_6f823785d44d5f21868c8636ba03bd67,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_6fd4501adcb9844620a6cdd1cad5b78d,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_6fd4501adcb9844620a6cdd1cad5b78d,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_7094646d5b560e2d318083b250618a1f,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7094646d5b560e2d318083b250618a1f,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_715d84af062a16c2118ca58f712f283a,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_715d84af062a16c2118ca58f712f283a,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_71e4e58fe5d6492c588ed5155a9037e3,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_71e4e58fe5d6492c588ed5155a9037e3,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_723627c3b628ee27a4f551f2c1a0960a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_723627c3b628ee27a4f551f2c1a0960a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_728dde4edc8dbbd22da6d0065eea66c9,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_728dde4edc8dbbd22da6d0065eea66c9,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_72b6896276e87465e67a5eef5789e7c9,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_72b6896276e87465e67a5eef5789e7c9,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_74a58db1477a66adac5eed80c4ef29ba,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_74a58db1477a66adac5eed80c4ef29ba,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_74d4118baf684946b44bde0bb6422411,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_74d4118baf684946b44bde0bb6422411,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_755f6282487e0812864ed0c0f2cf379b,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_755f6282487e0812864ed0c0f2cf379b,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_756f2707721de3c8a83c892833911659,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_7575924e5aad356643d7f9b60cbb4d41,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7575924e5aad356643d7f9b60cbb4d41,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_782e1ceaedda26752451eadb75ea1acc,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_782e1ceaedda26752451eadb75ea1acc,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_789ed28aad37405dd4c34b584d375891,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_78b39c7545c96edaeba1e2da23ffb9a8,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_78b39c7545c96edaeba1e2da23ffb9a8,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_78c26d513a55ceb0d9345ce3cdf39c24,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_7920490055cab64e14f345469c2a1ca4,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7920490055cab64e14f345469c2a1ca4,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_799bb63b366fc3d4506f7d172e9e22cc,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_799bb63b366fc3d4506f7d172e9e22cc,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_79d3d654b00147147aeff36c4eaac3dd,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_79d3d654b00147147aeff36c4eaac3dd,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_7a466fbd0fec3373e65377cece3ae69c,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7a466fbd0fec3373e65377cece3ae69c,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_7a9257c181b28f49ecde785125403298,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7a9257c181b28f49ecde785125403298,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_7aba93f943e11e343e62abf6ac28e60c,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7aba93f943e11e343e62abf6ac28e60c,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_7c1cb889d034f2b92d0cdecabcfb42a1,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7c1cb889d034f2b92d0cdecabcfb42a1,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_7cd866271f828d31253d8b7ca70f5626,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_7d9672e3c4f568ef0239777e83cb8e20,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7d9672e3c4f568ef0239777e83cb8e20,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_7def5e9ae8186b8ce92d83860ebccf52,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_7df02e612308baa272481f1b8b0f9bdf,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7df02e612308baa272481f1b8b0f9bdf,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_7e601f05bcc4df02859db4e902725589,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7e601f05bcc4df02859db4e902725589,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_7f6569215a629dd986e09f2868f2e29a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7f6569215a629dd986e09f2868f2e29a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_7fc0a13fbc00fb7fb61a0c1e0a993967,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_7fc0a13fbc00fb7fb61a0c1e0a993967,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_80556c885057a918b14aa799988d0f0f,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_80556c885057a918b14aa799988d0f0f,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8193302df13935d12f47bcf058863fa8,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_81aaf456ad18c27a1a200019ac7c2395,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_81aaf456ad18c27a1a200019ac7c2395,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_8214bfb4363ef3aa55b058c04fab4215,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8214bfb4363ef3aa55b058c04fab4215,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_823193e14ad68408744e1f835a48da1a,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_823193e14ad68408744e1f835a48da1a,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8272b088bc5fe2a74f037ad6da8a2b3a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8272b088bc5fe2a74f037ad6da8a2b3a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_837e6ffda9702a9aefc147bce7792d9d,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_86d4eba698273239642d24e1c8e863d5,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_872dc8c867489204f2ac798b1f8a9631,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_872dc8c867489204f2ac798b1f8a9631,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_898ee445e8ccfce566bb0883e7821189,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_8a796a5aba63da1af97c76ced372515e,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8a796a5aba63da1af97c76ced372515e,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8abb707e08f68fafdf5d7103bb46968e,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_8aef0e08f2f3fe66deee48d6673bf782,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8aef0e08f2f3fe66deee48d6673bf782,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8b1ae7c3e3fc4242cceaf6dbf1519cd6,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8b1ae7c3e3fc4242cceaf6dbf1519cd6,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_8b807af6c24ef67cfb3769e0e6cbbfd1,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8b807af6c24ef67cfb3769e0e6cbbfd1,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8bdcf349ba5c41ffba7943f124b88dd4,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8bdcf349ba5c41ffba7943f124b88dd4,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8bf207c059ab2a02203791a16c62f48f,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8bf207c059ab2a02203791a16c62f48f,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8c93ce42cabd710ec634f657a8544a21,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8cf3dea504e99d7bdf40713a5e5d6e6b,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_8d104abd1a54ef871ffd677fe4dd1911,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8d104abd1a54ef871ffd677fe4dd1911,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8d6c5e4a8584e55007cd0b83fa7377aa,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8d6c5e4a8584e55007cd0b83fa7377aa,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_8d9fabcfa239e2d18b89d37bc1cff204,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8d9fabcfa239e2d18b89d37bc1cff204,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_8e4e8355bafc2f61da5509dab2c38d6d,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8e4e8355bafc2f61da5509dab2c38d6d,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_8ebd64d15cf804bb339932c6a4f0d54c,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8ebd64d15cf804bb339932c6a4f0d54c,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_8ef81a4660808bcf74bb0a4ea27f58d0,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8ef81a4660808bcf74bb0a4ea27f58d0,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8f147ae8af5755552c153bf5dc494ea2,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_8f92b34d3c1dfd048bc9385c79c6c653,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_8f92b34d3c1dfd048bc9385c79c6c653,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_8f950e6f2b6867d02e39f6c77fbc493a,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_90cb28070c0197372b12fa02c0e70af0,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_911068f280694bf39aae79763941187e,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_911068f280694bf39aae79763941187e,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_91c6d75f8b53ab31851e775436bf6fd9,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_91c6d75f8b53ab31851e775436bf6fd9,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_92838ea148c813c166057e99bfae3d39,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_92d54762975fd6587815e015845d9008,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_92d54762975fd6587815e015845d9008,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_92e56e2296e69c82191c3de720cf5066,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_92e56e2296e69c82191c3de720cf5066,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_93d880efb9ba67b1e7316474cc3793b6,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_93d880efb9ba67b1e7316474cc3793b6,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_966e009507359b2bbf4d203ca7ec5573,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_9747df17e8f2ed98427d905413929dd6,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_98f26503186c693384501157616036cb,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_98f2a8a7b4425aca180f7b535195bd19,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_98f2a8a7b4425aca180f7b535195bd19,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_994b1bb523970f9b1288d6975faad489,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_994b1bb523970f9b1288d6975faad489,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_9a17eee96212bdb51763c7bf3da88ef0,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9a17eee96212bdb51763c7bf3da88ef0,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_9a7538cb262da59874891e59d86d0a5a,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9a7538cb262da59874891e59d86d0a5a,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_9a8ef73b89c976cfd2b6e17b37e91514,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9a8ef73b89c976cfd2b6e17b37e91514,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_9afad66da978d3fc9acf0713699d105d,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9afad66da978d3fc9acf0713699d105d,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_9c2de71021b768514eff8be648c37f24,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_9ce70aa7f150abbaf311876f08f8c82d,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9ce70aa7f150abbaf311876f08f8c82d,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_9daf0e79ef724b3c3c6e86c33b47faf2,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_9db391c70ae09750eb25d8618b11e769,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9db391c70ae09750eb25d8618b11e769,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_9e0207d015b24b319290a0aa3dfd39bc,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_9e52a009f1c514cfcadc252df3d89412,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9e52a009f1c514cfcadc252df3d89412,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_9e826fa1ffc9bc9ed90c9fd585623736,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9e826fa1ffc9bc9ed90c9fd585623736,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_9efeec39162fe1c27b27ac0275ce13b1,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9efeec39162fe1c27b27ac0275ce13b1,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_9f0a539789d7ced4ee558d6f6d3fe15d,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_9f0a539789d7ced4ee558d6f6d3fe15d,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_9ff9c51bd95d685e57e0601db8a8bad8,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a0138204c7d59badd8b9bfa9962943ce,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a0138204c7d59badd8b9bfa9962943ce,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_a03184d732beaca8d6ec15bafd8fadac,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a03184d732beaca8d6ec15bafd8fadac,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a0f74891144aadc0f2d7c6df749df4ba,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a0f74891144aadc0f2d7c6df749df4ba,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a15bb2254c54357221f036e0edd00f87,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a15bb2254c54357221f036e0edd00f87,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_a16de6e0a89144ac38c3cd0feff95527,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a16de6e0a89144ac38c3cd0feff95527,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_a26cb5db9096d8d52af13df423c32c94,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a26cb5db9096d8d52af13df423c32c94,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_a27ada2cbe6125e0b7701133295b3b3d,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a2b60ebbe1168c55ecce006bb0f0150d,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a2b60ebbe1168c55ecce006bb0f0150d,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_a3532834f6bdd9ef9fe8e285124410fc,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a3532834f6bdd9ef9fe8e285124410fc,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_a36c62d0c7f3713321685a5cb6488f21,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a3d10e4b5788223783e25ca1ff3cccff,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a3d10e4b5788223783e25ca1ff3cccff,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_a41b6b894acd259e701e28bd6826e278,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a5f0622337eea05018c3307a84fdcd31,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a5f0622337eea05018c3307a84fdcd31,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_a6512da64152cd13f9136ddbbdf74f7a,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a6512da64152cd13f9136ddbbdf74f7a,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a73ce0acc4822b2c6c49c4948e398fef,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a73ce0acc4822b2c6c49c4948e398fef,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_a808e2da908525bc1ada61d92371f3d5,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a847cf1f8225fe4a16443484fd3e7f83,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a847cf1f8225fe4a16443484fd3e7f83,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_a84af89f5e9006254b6d31d73fea8779,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_a88ceccb5ae46ec153fc7edcaaf1a44a,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a88ceccb5ae46ec153fc7edcaaf1a44a,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_a951d00e32b687863dfc6ac942ad2ad0,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_a951d00e32b687863dfc6ac942ad2ad0,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_aaeeda9f89256c237b916218618c5f54,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_ad1917de6c665e83a14c25c88c84d6de,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_ad7e3e7d4bb956d385435039860bf4c5,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_ad7e3e7d4bb956d385435039860bf4c5,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_adc66ff5a4f27f577ad3697b3f004e7d,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_aff421a667c7d43578060a00df8a94f8,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_aff421a667c7d43578060a00df8a94f8,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_b0442d85da5fb6ab1f7cbab92e685838,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b0442d85da5fb6ab1f7cbab92e685838,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b201b3253c63c043bd4edfb044e4d55e,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b2f31e66565b013c87c6c9223c76348d,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b34be7da25e66524f811a2c79df2004e,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b37809f3eb4d24c5b18d32436b3f8a6f,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b3ca8548a82b5db568b407d80eab6750,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b3ca8548a82b5db568b407d80eab6750,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_b41ce26ab2905540997643df23b62460,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b41ce26ab2905540997643df23b62460,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_b4b3ddd1e2c4304c822db06ac6eb19e8,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b4b3ddd1e2c4304c822db06ac6eb19e8,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b58be47be7454a5cdb4bf30efecb16ad,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b7372c7d2d2b9d7cd862e23537c9d311,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b745946d039ab1889c0410da76d158a1,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b745946d039ab1889c0410da76d158a1,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_b790808c8c8d258f189c7614e44d3123,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_b7e8baa4d552704686a6b7d7e11d087c,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_b7e8baa4d552704686a6b7d7e11d087c,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_bab30135443b1e2cd5ce5623e86f441f,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bab30135443b1e2cd5ce5623e86f441f,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bb08778e81b6f2b9add1c80c22002c85,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bbf1e87c26e2af9968a436e5f94b41a2,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bc363b5470497578f6f271246c6ea797,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bc363b5470497578f6f271246c6ea797,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_bc96f5d3ae99794bf696a084cc484039,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bc96f5d3ae99794bf696a084cc484039,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bcdcda38e751ebade22175ec5ed990c7,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bd8c8bb480ad1e9422f4b5cd79215eba,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bd9e4cfe3624efb878cdbbba94d63974,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bd9e4cfe3624efb878cdbbba94d63974,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_bdad1da530f23436c9672faf57b85203,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bdad1da530f23436c9672faf57b85203,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_be1e7d24186c3edcd33da03a66c7711d,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_be6ff1067d67d39a12f9a6cf4703789f,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_be6ff1067d67d39a12f9a6cf4703789f,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_bf00faa4c5aa092e02866a688720521d,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bf00faa4c5aa092e02866a688720521d,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bf04b87099ba97805037cfd50628a731,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bf04b87099ba97805037cfd50628a731,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bf0d1e3d6ec89299b4aa617f5be1b034,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bf0d1e3d6ec89299b4aa617f5be1b034,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bf5748f62838875951f082191dfc1b05,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bf604be7ac3009a8fed955cf6716a2df,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_bfb072360eee226a2474b43310cef9cc,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_bfb072360eee226a2474b43310cef9cc,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_bfd7281ea0e877fc0b7abd21fc46da04,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_c097e175aa51561a659deb1a35a42a7b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c097e175aa51561a659deb1a35a42a7b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_c1138a42e99a17203a106c8f11d45828,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c1138a42e99a17203a106c8f11d45828,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_c25a20a865b1b80ad42e42be743e6fe1,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c25a20a865b1b80ad42e42be743e6fe1,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_c2c78ba14c66680894fa7ed484869990,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c2c78ba14c66680894fa7ed484869990,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_c525b0e1a8e85b8a653f9513767ae2f0,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c525b0e1a8e85b8a653f9513767ae2f0,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_c6a4d82991e12da8b56975b2ac3950d8,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_c8895b07a890c6feda887a0710e7d42c,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c8895b07a890c6feda887a0710e7d42c,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_c8e8628379ad0c71bc55ca6c85a9ad41,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c8e8628379ad0c71bc55ca6c85a9ad41,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_c987b5ee8ad6d214df11a1ab5fd1aceb,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_c987b5ee8ad6d214df11a1ab5fd1aceb,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_c9958c6a644ac25fbc9f4c8ace23942f,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_cabb52abd21ff8b7237e97e8639fd421,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_cb25681a897ce38fcad2a9a1eb0aa7cd,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_cb3321273d6ea1ac197db655f0ef0d22,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_cb3321273d6ea1ac197db655f0ef0d22,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_cbad62037daa56262b49b67da0c2aa9b,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_cbad62037daa56262b49b67da0c2aa9b,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_cd89f168baa2a8b1605afdbe0f99ad59,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_cd89f168baa2a8b1605afdbe0f99ad59,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_ce04c802aff5e95ef3a3f78d473406b5,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_cf62695c5f8eb5d15cea8825a4c87af0,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_cf62695c5f8eb5d15cea8825a4c87af0,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d1d2ea57ee03c15cbb1749c1222df15b,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d2084fa4b78cc65a35ac41a489b4348a,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d2084fa4b78cc65a35ac41a489b4348a,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d26c57881518271f3238de72e5e9504c,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d2870d302a3c0bbed1679ee665f8e1ac,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d2c73b6eec89cd0e1ffa66be0bb041d5,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d2c73b6eec89cd0e1ffa66be0bb041d5,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_d338def264ca0691b6e579443d17ad0a,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d338def264ca0691b6e579443d17ad0a,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d34c56e4649b2201948a20c85e6e6347,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d3f23b4c4cd2252e8b205a329023c884,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d3f23b4c4cd2252e8b205a329023c884,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d40c276f8e1641161ac799d43324c2dc,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d4265dc8c589b510af53d97a467101c5,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d4265dc8c589b510af53d97a467101c5,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_d46a0a2851e05f6083abeed3bbd52d49,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d46a0a2851e05f6083abeed3bbd52d49,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_d61880b6f5b43ab97f6d5bb2857b605b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d61880b6f5b43ab97f6d5bb2857b605b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d78eda1cb983b43dae3392a283b2a864,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d78eda1cb983b43dae3392a283b2a864,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d8716945e801a37e3af75c17a53c1afe,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d8716945e801a37e3af75c17a53c1afe,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_d873f0b7384c959246c276cbe7820bee,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_d89aaf62f1772ebdfb9d545488174a8f,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d89aaf62f1772ebdfb9d545488174a8f,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_d8babc12427ca2825e05bfd36a080397,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d8babc12427ca2825e05bfd36a080397,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_d9aad3d7ae9f4b0b828833c69bda9672,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d9aad3d7ae9f4b0b828833c69bda9672,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_d9aca7230dcbe858ffcff028b5fad0ab,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_d9aca7230dcbe858ffcff028b5fad0ab,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_da18408a8482dafd15174e9aa7980e96,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_da18408a8482dafd15174e9aa7980e96,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_dad99aa1540e9b5080faa6352ae10198,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_db73baa7ce1944710c8449bd6def338d,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_dbcef27061099822569740c11818d051,"[""old_20""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_dbe2a2ecc6f800069eb6bf0ad0b4cc52,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_dc613c516dbd44a235b02abe030b7102,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_dc613c516dbd44a235b02abe030b7102,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_dc68230701e7e35c5dde8777daa17eb7,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_dc68230701e7e35c5dde8777daa17eb7,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_dc7d0f7e95fba7599d61608061f1d49e,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_dc7d0f7e95fba7599d61608061f1d49e,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_ddf7642cdc0a5ef35328299a9258729b,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_ddf7642cdc0a5ef35328299a9258729b,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_deab9e7b1955b808a8b5ed953a65228b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_deab9e7b1955b808a8b5ed953a65228b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_def00e4cc5881cba36fd84ee45d27fa5,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_def00e4cc5881cba36fd84ee45d27fa5,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_df7f42615b30a1ccb092a87d01b3a82f,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_df7f42615b30a1ccb092a87d01b3a82f,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e0b7ff6426a792d519206e52efc40d5a,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_e139c4306efadb741b3c38dadb969991,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e139c4306efadb741b3c38dadb969991,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e1ffddb3fcb035d01ff12612afcfd11b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e1ffddb3fcb035d01ff12612afcfd11b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e21633ff4e017c3287052f676f372031,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e21633ff4e017c3287052f676f372031,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e266a6835e8bd0a211a184ae2661dc2c,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e266a6835e8bd0a211a184ae2661dc2c,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_e296da94ed5da0f866c4acecb933bd4e,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e296da94ed5da0f866c4acecb933bd4e,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e3286b82b2ee6e0286f5a35b05e20ca9,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e3286b82b2ee6e0286f5a35b05e20ca9,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_B""]"
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e355ae0b63049fb59b9f149a54c19297,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_e37d99f0246996b3e2cdb4feef0654aa,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e37d99f0246996b3e2cdb4feef0654aa,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e421e074608d05f220829ba329b5530b,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e421e074608d05f220829ba329b5530b,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e4741cf8e20f04fe2f99d44bbb143167,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e4741cf8e20f04fe2f99d44bbb143167,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e498014f6335fc9d22dc137fb042de3a,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e4a1236bf7cd4f446e9b1b71eb3180bb,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_e53afbf44f4442d998eaf230554fe822,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e53afbf44f4442d998eaf230554fe822,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e575d542a90286d7c09ef9602ae8dfc1,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e575d542a90286d7c09ef9602ae8dfc1,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e5ae81f674bee5383452e5def95797d5,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e5ae81f674bee5383452e5def95797d5,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e7c39056b5b96a4aa256ea7fd45a9ba4,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e7c39056b5b96a4aa256ea7fd45a9ba4,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e87b77d5b1c9b70d3d927fd9ce7eb21f,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_e87b77d5b1c9b70d3d927fd9ce7eb21f,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e89f51d8497cd47307d693b966c50480,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_e8bb6f6ece3b11691f6fbdf699fa676a,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_eab8a4668af12ecf7e50d6eab8c5fe49,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_ec61b6fc181fcd0577b676c866bf373c,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_edb8efd06ddb7ec62802d4e6008a8194,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_edb8efd06ddb7ec62802d4e6008a8194,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_ef25951940b4e4b3503777520987ecd9,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_ef7a091756c100376749ca81085a2c92,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_efc3225afb97c9ffdcfde9437c33cb78,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_efc49d897d32f834f3162de493eb310c,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_efc49d897d32f834f3162de493eb310c,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f022997a5c3a2fe5267e086893c09165,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f03f7c2cab62dfb38f0bfbe0d849d31e,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f0b72f1bcedda9fdf7406c236bffe853,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f12234e6f284d52fc33696fdcbd2df15,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f3305d7ef3cd0f834e95c0b59afd3570,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_f3305d7ef3cd0f834e95c0b59afd3570,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f3acc04a89b58872749158111f4a83fc,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f479af0c3ec1a3e9a6d9a6be8352736d,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f4ba1fdd5013d846a476926cf1461a40,"[""broad""]",other_mixed,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_f4ba1fdd5013d846a476926cf1461a40,"[""broad""]",other_mixed,MF_P4,LEARNED_ANION,True,[]
+cmr_f4f8964c0cbed330952566a5171627d1,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_f4f8964c0cbed330952566a5171627d1,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_f653aa62887e579de887ca6ba3841211,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_f653aa62887e579de887ca6ba3841211,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f820611e470a13d37d42f661a1a7f126,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_f820611e470a13d37d42f661a1a7f126,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f866ad7d6b4258fd3da54f06386255a0,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A"", ""OUT_OF_SUPPORT_B""]"
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_f95625c8a2b29759e3674012b2f9280e,"[""broad""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P3,LEARNED_ANION,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P4,LEARNED_ANION,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P0,DECLARED_DOMAIN,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P1,DECLARED_DOMAIN,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P2,DECLARED_DOMAIN,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_fa3beecfda0e2ee6c4c5dd7cb9227cca,"[""old_20""]",nitride,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P3,LEARNED_ANION,True,[]
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P4,LEARNED_ANION,True,[]
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P0,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P1,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P2,DECLARED_DOMAIN,False,"[""OUT_OF_SUPPORT_A""]"
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P3,DECLARED_DOMAIN,True,[]
+cmr_fb2c788e936e292545701fc94e268ff8,"[""broad""]",oxide,MF_P4,DECLARED_DOMAIN,True,[]
+cmr_fd16c011fa9809847391a9812b93b0bf,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fd16c011fa9809847391a9812b93b0bf,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_fd1859a580d19930eb29e3659fa653df,"[""broad""]",oxyhalide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fd1859a580d19930eb29e3659fa653df,"[""broad""]",oxyhalide,MF_P4,LEARNED_ANION,True,[]
+cmr_fd8b755271637ce1a0899e6d25e8f299,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fd8b755271637ce1a0899e6d25e8f299,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_fdb71cc09b80926bacdcc5e787267c92,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fdb71cc09b80926bacdcc5e787267c92,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_fde0fcd07d5290083e748debcef659aa,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fde0fcd07d5290083e748debcef659aa,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_fdfffdbca76704f64d54338738579958,"[""broad""]",oxychalcogenide,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fdfffdbca76704f64d54338738579958,"[""broad""]",oxychalcogenide,MF_P4,LEARNED_ANION,True,[]
+cmr_fe7cc8c6ecc0f5ab718f8c591b7829e0,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_fe7cc8c6ecc0f5ab718f8c591b7829e0,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]
+cmr_ff3151cef8f38b22998c057a512b34bb,"[""broad""]",oxynitride,MF_P3,LEARNED_ANION,False,"[""OUTSIDE_HOMOGENEOUS_X_SCOPE""]"
+cmr_ff3151cef8f38b22998c057a512b34bb,"[""broad""]",oxynitride,MF_P4,LEARNED_ANION,True,[]

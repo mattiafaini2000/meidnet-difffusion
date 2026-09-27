@@ -1,0 +1,33 @@
+target_id,method,attempts,accepted,unique_accepted_compositions,largest_composition_share,rejection_reasons
+cmr_1186a3e78d8cc06423476620e82c59d9,conditional_diffusion,8,6,6,0.16666666666666666,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_1186a3e78d8cc06423476620e82c59d9,conditional_resample,8,8,7,0.25,{}
+cmr_1186a3e78d8cc06423476620e82c59d9,property_only_meidnet,8,8,8,0.125,{}
+cmr_1186a3e78d8cc06423476620e82c59d9,unconditional_diffusion,8,6,6,0.16666666666666666,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_20f50d56cf58fa461743adf9c21a1083,conditional_diffusion,8,8,8,0.125,{}
+cmr_20f50d56cf58fa461743adf9c21a1083,conditional_resample,8,8,7,0.25,{}
+cmr_20f50d56cf58fa461743adf9c21a1083,property_only_meidnet,8,8,8,0.125,{}
+cmr_20f50d56cf58fa461743adf9c21a1083,unconditional_diffusion,8,8,8,0.125,{}
+cmr_4a5c152b3097a6a24d795307161ad7b6,conditional_diffusion,8,7,7,0.14285714285714285,"{""INVALID_LEARNED_LATTICE"": 1}"
+cmr_4a5c152b3097a6a24d795307161ad7b6,conditional_resample,8,8,7,0.25,{}
+cmr_4a5c152b3097a6a24d795307161ad7b6,property_only_meidnet,8,8,8,0.125,{}
+cmr_4a5c152b3097a6a24d795307161ad7b6,unconditional_diffusion,8,7,7,0.14285714285714285,"{""INVALID_LEARNED_LATTICE"": 1}"
+cmr_4a881864518272f7d6463cbe8cecfae5,conditional_diffusion,8,6,6,0.16666666666666666,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_4a881864518272f7d6463cbe8cecfae5,conditional_resample,8,8,8,0.125,{}
+cmr_4a881864518272f7d6463cbe8cecfae5,property_only_meidnet,8,8,8,0.125,{}
+cmr_4a881864518272f7d6463cbe8cecfae5,unconditional_diffusion,8,6,5,0.3333333333333333,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_565483dace8de7ec406c1db6e3090d88,conditional_diffusion,8,7,7,0.14285714285714285,"{""INVALID_LEARNED_LATTICE"": 1}"
+cmr_565483dace8de7ec406c1db6e3090d88,conditional_resample,8,8,8,0.125,{}
+cmr_565483dace8de7ec406c1db6e3090d88,property_only_meidnet,8,8,8,0.125,{}
+cmr_565483dace8de7ec406c1db6e3090d88,unconditional_diffusion,8,7,7,0.14285714285714285,"{""INVALID_LEARNED_LATTICE"": 1}"
+cmr_5a34db846ace5b03f1ac3eb7fee6ed22,conditional_diffusion,8,6,6,0.16666666666666666,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_5a34db846ace5b03f1ac3eb7fee6ed22,conditional_resample,8,8,8,0.125,{}
+cmr_5a34db846ace5b03f1ac3eb7fee6ed22,property_only_meidnet,8,8,8,0.125,{}
+cmr_5a34db846ace5b03f1ac3eb7fee6ed22,unconditional_diffusion,8,6,6,0.16666666666666666,"{""INVALID_LEARNED_LATTICE"": 2}"
+cmr_5fef398caab1e0a5b66b5742e7566474,conditional_diffusion,8,8,8,0.125,{}
+cmr_5fef398caab1e0a5b66b5742e7566474,conditional_resample,8,8,7,0.25,{}
+cmr_5fef398caab1e0a5b66b5742e7566474,property_only_meidnet,8,8,8,0.125,{}
+cmr_5fef398caab1e0a5b66b5742e7566474,unconditional_diffusion,8,8,8,0.125,{}
+cmr_85be752d8491218e2f75c928ff991595,conditional_diffusion,8,8,8,0.125,{}
+cmr_85be752d8491218e2f75c928ff991595,conditional_resample,8,8,8,0.125,{}
+cmr_85be752d8491218e2f75c928ff991595,property_only_meidnet,8,8,8,0.125,{}
+cmr_85be752d8491218e2f75c928ff991595,unconditional_diffusion,8,8,8,0.125,{}

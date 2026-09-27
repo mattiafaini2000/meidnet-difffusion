@@ -1,0 +1,665 @@
+{
+  "adapter_changes_only_decoder_coordinates_and_center": true,
+  "assets": {
+    "audit_csv": "data\\processed\\cmr_reconstructed\\audit.csv",
+    "audit_csv_sha256": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "checkpoint": {
+      "git_lfs_pointer": false,
+      "metadata": {
+        "latent_dim_common": 128,
+        "latent_dim_prop": 128,
+        "latent_dim_struct": 128,
+        "max_sites": 20,
+        "num_species": 118,
+        "species_embedding_dim": 64
+      },
+      "path": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth",
+      "safe_weights_only_load": true,
+      "sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+      "size_bytes": 2840642,
+      "state_dict_tensor_count": 72,
+      "state_dict_tensors": [
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.bias",
+          "shape": [
+            3
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_coords.0.weight",
+          "shape": [
+            3,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.bias",
+          "shape": [
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_lat.2.weight",
+          "shape": [
+            6,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.bias",
+          "shape": [
+            2560
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_nodes.0.weight",
+          "shape": [
+            2560,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_decoded.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.bias",
+          "shape": [
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_decoder.fc_species_final.weight",
+          "shape": [
+            118,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.aggregate_fc.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.comb_fc.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn1.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.0.weight",
+          "shape": [
+            64,
+            257
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_e.2.weight",
+          "shape": [
+            64,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_h.0.weight",
+          "shape": [
+            128,
+            192
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.bias",
+          "shape": [
+            1
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.egnn2.phi_x.0.weight",
+          "shape": [
+            1,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.fc_mu.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.init_node_fc.0.weight",
+          "shape": [
+            128,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.lat_fc.0.weight",
+          "shape": [
+            64,
+            6
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "crystal_encoder.species_embedding.weight",
+          "shape": [
+            64,
+            118
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_crystal.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.0.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "proj_prop.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.bias",
+          "shape": [
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.0.weight",
+          "shape": [
+            64,
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.bias",
+          "shape": [
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_decoder.fc.2.weight",
+          "shape": [
+            2,
+            64
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.0.weight",
+          "shape": [
+            128,
+            2
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.bias",
+          "shape": [
+            128
+          ]
+        },
+        {
+          "dtype": "float32",
+          "key": "property_encoder.fc.2.weight",
+          "shape": [
+            128,
+            128
+          ]
+        }
+      ],
+      "state_dict_value_count": 702405
+    },
+    "previous_audit_summary": "reports\\decoder_audit_summary.json",
+    "previous_audit_summary_sha256": "8a004b76424747e541749f491ffa80e0af6c9f3a1988477feccc7398e900f9a2",
+    "protocol": "reports\\template_reachability\\protocol.md",
+    "protocol_sha256": "2ec66972583930688ee38e181ac3f7801995b933f05bab532ecf2eff1c83ffca",
+    "script": "scripts\\audit_template_reachability.py",
+      "script_sha256": "6460b096be58dd085d96202a3eb77939d5d5e3def7550aa08cd0792ef3f942c0",
+    "train_csv": "data\\processed\\cmr_reconstructed\\train.csv",
+    "train_csv_sha256": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1"
+  },
+  "configuration": {
+    "audit_examples": 20,
+    "branch_dependent_rng_divergence": "Same initial seeds; changed categorical outcomes/rejections can desynchronize later draws, so post-branch attempts are not draw-matched.",
+    "decode_temperature": 1.25,
+    "decode_topk": 12,
+    "decode_tries_maximum": 12,
+    "fixed_real_donor_id": "cmr_11dacddcba738021fcb7a8ad9b578f91",
+    "geometry_modes": [
+      "zero",
+      "template"
+    ],
+    "latent_arms": [
+      "joint",
+      "fixed_real",
+      "property"
+    ],
+    "refine": true,
+    "rng_history_reset_per_call": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "target_B_filter": false,
+    "x_prior_strength": 0.0
+  },
+  "criteria_informed_by_previous_audit": true,
+  "environment": {
+    "command": [
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+      "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\scripts\\audit_template_reachability.py"
+    ],
+    "device": "cpu",
+    "git": {
+      "branch": "main",
+      "changed_files_since_reviewed": [],
+      "commit": "52fd7cdcba7c392f302c0b71f82d339bcd904367",
+      "commits_since_reviewed": "0",
+      "status_short": [
+        "?? prompts/canonical_template_reachability_prompt.md",
+        "?? reports/template_reachability/",
+        "?? scripts/audit_template_reachability.py",
+        "?? tests/test_template_reachability.py"
+      ]
+    },
+    "interpreter": "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "pymatgen": "2025.10.7",
+      "scipy": "1.15.3",
+      "torch": "2.10.0+cpu"
+    },
+    "platform": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "torch": "2.10.0+cpu"
+  },
+  "generated_at_utc": "2026-09-23T13:56:01.897401+00:00",
+  "hard_checks": {
+    "all_raw_heads_finite": true,
+    "all_reference_radii_available": true,
+    "attempt_accounting_complete": true,
+    "audit_hash_frozen": true,
+    "checkpoint_hash_frozen": true,
+    "decode_temperature": true,
+    "decode_topk": true,
+    "decode_tries": true,
+    "generation_model_eval": true,
+    "generation_model_frozen": true,
+    "generation_model_strict_load": true,
+    "lattice_head_unchanged_by_geometry_input": true,
+    "no_final_test_inference": true,
+    "protected_old_assets_unchanged": true,
+    "protocol_unchanged_during_run": true,
+    "python_hash_seed": true,
+    "seeds": true,
+    "split_hashes_unchanged": true,
+    "template_trace_matches_unmodified_generation_function": true,
+    "training_model_eval": true,
+    "training_model_frozen": true,
+    "training_model_strict_load": true,
+    "zero_adapter_raw_heads_exact": true,
+    "zero_adapter_traces_exact": true,
+    "zero_metrics_match_previous_audit": true,
+    "zero_original_reproduces_previous_audit": true
+  },
+  "ordinary_generation_received_source_species": false,
+  "original_generation_function_modified": false,
+  "protocol_frozen_before_inference": true,
+  "template_input_file": "reports\\template_reachability\\input_manifest.json",
+  "template_input_file_sha256": "517505b7ce1019d1c2ce51a364b644562122e90a7c38a8e34719eba241cf2c01"
+}

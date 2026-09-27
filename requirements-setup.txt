@@ -1,0 +1,13 @@
+# Minimal direct dependencies for data preparation and MEIDNet smoke tests.
+#
+# scripts/setup_environment.ps1 installs PyTorch 2.10.0 separately from the
+# official CPU wheel index. MACE, torchvision, and torchaudio are intentionally
+# omitted because this task neither imports nor runs them.
+ase>=3.26,<4
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<4
+pymatgen>=2025.6,<2027
+pytest>=8,<10
+scikit-learn>=1.5,<2
+scipy>=1.12,<2

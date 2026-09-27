@@ -1,0 +1,9 @@
+split,group_size_rows,composition_groups,rows_in_these_groups
+train,1,287,287
+train,2,7428,14856
+val,1,43,43
+val,2,925,1850
+test,1,34,34
+test,2,929,1858
+all,1,364,364
+all,2,9282,18564

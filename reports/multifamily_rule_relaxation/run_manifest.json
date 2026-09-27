@@ -1,0 +1,127 @@
+{
+  "actual_command": [
+    "C:\\Users\\zxxx4\\Corsi\\meidnet-difffusion\\meidnet-difffusion\\.venv\\Scripts\\python.exe",
+    ".\\scripts\\audit_multifamily_decoder.py"
+  ],
+  "configuration": {
+    "attempts_per_seed": 12,
+    "batch_size": 16,
+    "max_panel": 384,
+    "max_stochastic": 64,
+    "proposal_seeds": [
+      0,
+      1,
+      2
+    ],
+    "seed": 42,
+    "temperature": 1.25
+  },
+  "environment": {
+    "cuda_available": false,
+    "device": "cpu",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+    "torch": "2.10.0+cpu"
+  },
+  "git": {
+    "commit": "8c9d276a766c94ae714a02c2042920ef74c98d00",
+    "status_short": [
+      "M AGENTS.MD",
+      "?? prompts/relax_rules_and_evaluate_multifamily_decoder.md",
+      "?? reports/multifamily_rule_relaxation/",
+      "?? scripts/audit_multifamily_decoder.py",
+      "?? scripts/multifamily_census.py",
+      "?? scripts/multifamily_panel.py",
+      "?? scripts/multifamily_policies.py",
+      "?? tests/test_multifamily_census.py",
+      "?? tests/test_multifamily_decoder.py",
+      "?? tests/test_multifamily_panel.py",
+      "?? tests/test_multifamily_policies.py"
+    ]
+  },
+  "input_hashes": {
+    "audit_module": "757de30d8dc89459cf47d7dc6f9d31dea9b7a8a958a5b14cbfa6fc232bb5ae94",
+    "census_module": "459730dc168766b677f03be2a461f8069266aeba5ff3ac965de6fbf07ab1c009",
+    "checkpoint": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "panel_module": "31bb0dd2461ec858e7138ad5050bd15160a2c3121219292480b93ab9d86effe8",
+    "policy_module": "cd1fbaa79e1d70f64da68cc75659dcbb143c7a9abc1f94550c50e7682eca26f6",
+    "raw_db": "ac0bd6d38797c955d1cc999bcb387ae4940d06038f79175b9b2be48d490713f9",
+    "template_input_manifest": "517505b7ce1019d1c2ce51a364b644562122e90a7c38a8e34719eba241cf2c01"
+  },
+  "model_loads": {
+    "checkpoint_sha256": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "generation": {
+      "missing_keys": [],
+      "parameter_count": 702405,
+      "strict_state_dict_load": true,
+      "unexpected_keys": []
+    },
+    "training": {
+      "all_parameters_frozen": true,
+      "constructor_compatible": true,
+      "device": "cpu",
+      "missing_keys": [],
+      "parameter_count": 702405,
+      "strict_state_dict_load": true,
+      "torch_version": "2.10.0+cpu",
+      "training_mode": false,
+      "unexpected_keys": []
+    }
+  },
+  "no_final_test_model_inference": true,
+  "output_hashes": {
+    "accepted_full_composition_counts.csv": "773a16977510fbf472a521020669abd22b93856bf28ee2d6b02feaa78be90a0b",
+    "attempts.csv": "7b5579aed1dd523077fae3beec5fd1be3cc0c738703b1eafbe05442c56e7bec4",
+    "census_manifest.json": "76e767ab6389362cfc2adb874b03b492d687f91a1cbe5288b887c5ed38b01802",
+    "census_per_entry.csv": "57d972e7851f59877df21ca51e6404a65b45e61ffcb46e2ff30e6a2cb669b52a",
+    "dataset_conformity_by_split_and_family.csv": "c020b7399dfe5dd33812f10d8117b8f0ff2775cac3472171acb996b3f7d23351",
+    "deterministic_by_family.csv": "633f5b62936a04ddcbaf15b181e2fb9b3270c76ff0dc29f1467b59d6a8ee5878",
+    "deterministic_per_reference.csv": "910fdadb0b82ec249f063191dfea20ba5ea16af5b83bd51af26e5ac8992c3250",
+    "exact_anion_inventory.csv": "f7b26dd71a43604a213c368871294a17677718147b73afb180885564a5b86a9e",
+    "family_confusion.csv": "fda442b5b48c472c2fd74768d642b9de29940b5e80606d17e587d3becde76c72",
+    "family_support.csv": "ec79dc11dd37e175b560b020ec8cff1435bd775ca99b63db3ed389292cd95391",
+    "matcher_failures.csv": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "old_20_attempts.csv": "f05edecf737185766d8a3fcc25da3ab45ad34a13163322028f4b802e236eb4dc",
+    "old_20_paired_policy_comparisons.csv": "804197904710d07a6ca1470293eabef5ba71aba5879779f8d50d0e2e67b9638d",
+    "old_20_panel.csv": "804baef8c898c3295ff8c6b8a6106cb89ce8a826950fff63721bd83b6e59d1e8",
+    "old_20_shared_scope_comparison.csv": "c228507367c2c80b02efcd54a46976f7608ca70bf271210f814329bcff77a0a9",
+    "old_20_stochastic_by_family_policy_arm_seed.csv": "f57d3baae92e7848dd41584b1bdc39b6bb52a89784942e5eeac6af86447f155b",
+    "paired_policy_comparisons.csv": "403ed98bd129683707368949deac83380056cd348d51c4e4ccbc58132b5da43a",
+    "panel_manifest.json": "68454285fa7ecea8fa688de9d7942ce1eb1c3048b299f0dabbf252c8445f5a23",
+    "panel_membership.csv": "86f7f70cbfbbafa0af2750c3a385bedab814511d0df539711b374fefab49a1b1",
+    "policy_scope_panel.csv": "aa64e1bbd79f8ad67ad45602270e29ff9989a8ef2bea5ad142fc848bbc4dcc0b",
+    "protocol.md": "c528e3b8f0f773b08f7093ef4f847de65b194c7c157af851a687a553680d5b6e",
+    "report.md": "9c47fd87ba1b388a3c8d27b4e51107e011ecc40a34d1355f2bab042820797552",
+    "representative_cifs.csv": "8724576adf03d896e459ca3cad8f304f3254e426087f4e1ee6875129a15a2433",
+    "representative_cifs\\cmr_102dbc056c394f006fec29b2fa739353_MF_P3_joint_0_1.cif": "6962f42101b653f648139054dff0e6c75c6997b1393039bdd571dbc60b87a25b",
+    "representative_cifs\\cmr_154f7d23ba964c677c1c58f6531d3cf6_MF_P3_joint_0_1.cif": "d763bdef467a3ddd1f2a42ec10f43e2f996d40e3e1f6427114bdbe278bbd2aa2",
+    "representative_cifs\\cmr_162d9a39eeb8967bb4b1ebf1b46433b8_MF_P4_joint_0_1.cif": "4a07e1615fb6bd68ce6a77aac2d140a5bf01e78aa35766c795f7718fa9cef0a4",
+    "representative_cifs\\cmr_17e84eaa2276fa886fcc0de1a6d2a3e7_MF_P3_joint_0_1.cif": "3e1ac49e1bb35e9d31c52ded02dabb4eef74253b6255f9d6020e0faeab389449",
+    "representative_cifs\\cmr_185b9f39d72c1a97616ba5135b788c72_MF_P3_joint_0_1.cif": "0933b18d1867aab8874508748d02f71d28a00cd43b74112e2bf67db1a246513a",
+    "representative_cifs\\cmr_1afbd64b1703167924a1b88bc21b634c_MF_P3_joint_0_1.cif": "3c998d649e8ba27ad4823dd3b01e629a113c6eab7f2b52fd8dde11fc7b6421e0",
+    "representative_cifs\\cmr_21be7f39a565133da75a035a576e314d_MF_P3_joint_0_1.cif": "92647726216c0ae8f0d13596bb91d4903a31f8bbac492037e00311d161c6475f",
+    "representative_cifs\\cmr_3059e337d26ed669d3fb9d51907d94ac_MF_P3_joint_0_1.cif": "98e0a7b54e5413497592faae6714d2fdf16e330862688cad0859d8287ea64a03",
+    "representative_failures.csv": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "shared_legacy_scope_comparison.csv": "9a63ecd085e35fc504e5b47dd4f51b39cf41492d3240f7ec89ca58e3f5b8b1a8",
+    "stochastic_by_family_policy_arm_seed.csv": "dd8de71db66bf732eb92dd17b725b28892e16c8eb1135a3cb9ec48bdc85ff206",
+    "training_support.json": "8a07d62682d31c0b3807a9cbdb7dc7df9a5f87722b810389438c76ccf516951a"
+  },
+  "output_template_sha256": "350c563c69537999ea3e7a67d8382f885b7b21195455f6fb638cde1600829da6",
+  "protected_hashes": {
+    "MEIDNet-main\\checkpoints\\dual_autoencoder_clip_earlyfusion_propertyaware_2k.pth": "f9493781d5bbb05dfe106874269496c4c1c0364ae9e543703625c8d1efd60c87",
+    "data\\processed\\cmr_reconstructed\\audit.csv": "afab4524786ef88c82ee310d36bf9a0b6ccd2011142fc695934522cab2efa804",
+    "data\\processed\\cmr_reconstructed\\test.csv": "c97e67afd29e93ba1f5427b91d40a52dc21623aba3259b3953cfeee91c60fa0d",
+    "data\\processed\\cmr_reconstructed\\train.csv": "af4b03a5860c76bb629df9fd6b46eb313b15880fc8cc5b601c6dc894ec4a05b1",
+    "data\\processed\\cmr_reconstructed\\val.csv": "01666020b7327a108279b4eefea3092ded429809c39e0dc4c11160bbb00d3041",
+    "reports\\decoder_audit.md": "20c7cf764f09a4721820bf73cddd3f04ea0e7319b8d2760ef4ec2cbba675b8e7",
+    "reports\\template_reachability\\input_manifest.json": "517505b7ce1019d1c2ce51a364b644562122e90a7c38a8e34719eba241cf2c01",
+    "reports\\template_reachability\\report.md": "aa0682becaa63e6db6ddf2e31b8a58a95c2cb7bb575cc55f73d9471871f1e34e",
+    "reports\\template_reachability\\summary.json": "3b4da9ec7dbbbeb5ac660d9110394a891fd1d5cd9ebaac15cfb260d17e85c7bf"
+  },
+  "protected_hashes_before_after_equal": true,
+  "timestamp_utc": "2026-09-24T11:52:21.471672+00:00",
+  "universal_input_hashes": {
+    "center": "c4be0f035fc77ce3b797c6acf4ead43bec2d631e9e4eae87a5a18397bfe5e312",
+    "coordinates": "2b92f48bde0008fe445fd81bc63a032b6121116e2080810acaf3ae6bd7315459"
+  }
+}

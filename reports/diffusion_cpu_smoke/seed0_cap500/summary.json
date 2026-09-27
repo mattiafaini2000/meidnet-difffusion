@@ -1,0 +1,66 @@
+{
+  "attempts_per_target_method": 8,
+  "checkpoint_cmr_heat_label_compatibility": "unresolved",
+  "ddim_steps": 20,
+  "denoiser_steps": 500,
+  "device": "cpu",
+  "gpu_execution": "not_run_not_validated",
+  "independent_property_or_stability_validation": "not_performed",
+  "methods": {
+    "conditional_diffusion": {
+      "accepted": 56,
+      "attempts": 64,
+      "cif_serialization_failures": 0,
+      "constructed": 56,
+      "median_latent_norm": 78.98458862304688,
+      "minimal_valid": 56,
+      "rejection_reasons": {
+        "INVALID_LEARNED_LATTICE": 8
+      },
+      "sampled": 64,
+      "unique_accepted_compositions": 49
+    },
+    "conditional_resample": {
+      "accepted": 64,
+      "attempts": 64,
+      "cif_serialization_failures": 0,
+      "constructed": 64,
+      "median_latent_norm": 0.9398430585861206,
+      "minimal_valid": 64,
+      "rejection_reasons": {},
+      "sampled": 64,
+      "unique_accepted_compositions": 57
+    },
+    "property_only_meidnet": {
+      "accepted": 64,
+      "attempts": 64,
+      "cif_serialization_failures": 0,
+      "constructed": 64,
+      "median_latent_norm": 1.0,
+      "minimal_valid": 64,
+      "rejection_reasons": {},
+      "sampled": 64,
+      "unique_accepted_compositions": 63
+    },
+    "unconditional_diffusion": {
+      "accepted": 56,
+      "attempts": 64,
+      "cif_serialization_failures": 0,
+      "constructed": 56,
+      "median_latent_norm": 79.50167083740234,
+      "minimal_valid": 56,
+      "rejection_reasons": {
+        "INVALID_LEARNED_LATTICE": 8
+      },
+      "sampled": 64,
+      "unique_accepted_compositions": 48
+    }
+  },
+  "original_splits_recovered": false,
+  "platform": "Windows-10-10.0.19045-SP0",
+  "pretrained_training_overlap": "unknown",
+  "status": "passed_bounded_software_smoke",
+  "target_count": 8,
+  "torch": "2.10.0+cpu",
+  "total_attempts": 256
+}

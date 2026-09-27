@@ -1,0 +1,16 @@
+comparison,left_policy,left_setting,right_policy,right_setting,latent_arm,source_scope_intersection_required,N_references,N_groups,N_paired_seed_conditions,left_accepted_per_attempt,right_accepted_per_attempt,right_minus_left_accepted_per_attempt,bootstrap_95_group_interval,left_reference_seed_recoveries,right_reference_seed_recoveries
+legacy_filter_sampling_package,MF_P0,DECLARED_DOMAIN,MF_P1,DECLARED_DOMAIN,joint,True,20,20,60,0.2,1.0,0.8,"[0.6083333333333334, 0.9486111111111111]",4,31
+legacy_filter_sampling_package,MF_P0,DECLARED_DOMAIN,MF_P1,DECLARED_DOMAIN,fixed_real,True,20,20,60,0.03611111111111111,1.0,0.9638888888888888,"[0.9402777777777777, 0.9833333333333332]",0,0
+legacy_filter_sampling_package,MF_P0,DECLARED_DOMAIN,MF_P1,DECLARED_DOMAIN,property,True,20,20,60,0.3305555555555556,1.0,0.6694444444444445,"[0.5263541666666667, 0.8041666666666666]",0,4
+same_proposal_output_cell,MF_P1,DECLARED_DOMAIN,MF_P2,DECLARED_DOMAIN,joint,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",31,51
+same_proposal_output_cell,MF_P1,DECLARED_DOMAIN,MF_P2,DECLARED_DOMAIN,fixed_real,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",0,3
+same_proposal_output_cell,MF_P1,DECLARED_DOMAIN,MF_P2,DECLARED_DOMAIN,property,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",4,7
+shared_source_vocabulary_expansion,MF_P2,DECLARED_DOMAIN,MF_P3,DECLARED_DOMAIN,joint,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",51,51
+shared_source_vocabulary_expansion,MF_P2,DECLARED_DOMAIN,MF_P3,DECLARED_DOMAIN,fixed_real,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",3,3
+shared_source_vocabulary_expansion,MF_P2,DECLARED_DOMAIN,MF_P3,DECLARED_DOMAIN,property,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",7,2
+shared_homogeneous_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,joint,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",53,53
+shared_homogeneous_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,fixed_real,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",3,3
+shared_homogeneous_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,property,True,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",3,2
+all_broad_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,joint,False,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",53,53
+all_broad_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,fixed_real,False,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",3,3
+all_broad_X_projection,MF_P3,LEARNED_ANION,MF_P4,LEARNED_ANION,property,False,20,20,60,1.0,1.0,0.0,"[0.0, 0.0]",3,2
